@@ -24,14 +24,14 @@
     "./**/*.yml": "prettier --cache --write \"./**/*.yml\""
   },
   "dependencies": {
-    "@astrojs/check": "0.5.6",
+    "@astrojs/check": "0.5.9",
     "@astrojs/tailwind": "5.1.0",
-    "astro": "4.4.13",
+    "astro": "4.5.4",
     "tailwindcss": "3.4.1"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "7.1.1",
-    "@typescript-eslint/parser": "7.1.1",
+    "@typescript-eslint/eslint-plugin": "7.2.0",
+    "@typescript-eslint/parser": "7.2.0",
     "eslint": "8.57.0",
     "eslint-config-prettier": "9.1.0",
     "eslint-config-standard-with-typescript": "43.0.1",
