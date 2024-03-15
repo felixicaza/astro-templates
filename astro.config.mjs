@@ -5,6 +5,7 @@ import { astroImageTools } from 'astro-imagetools'
 import critters from 'astro-critters'
 import sitemap from 'astro-sitemap'
 import Compress from 'astro-compress'
+import compressor from 'astro-compressor'
 
 const website = 'https://example.com'
 
@@ -59,6 +60,7 @@ export default defineConfig({
       },
       Image: false,
       SVG: false
-    })
+    }),
+    compressor()
   ]
 })
