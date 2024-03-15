@@ -1,7 +1,6 @@
 import { defineConfig } from 'astro/config'
 
 import tailwind from '@astrojs/tailwind'
-import { astroImageTools } from 'astro-imagetools'
 import critters from 'astro-critters'
 import sitemap from 'astro-sitemap'
 import Compress from 'astro-compress'
@@ -20,7 +19,6 @@ export default defineConfig({
   compressHTML: false,
   integrations: [
     tailwind(),
-    astroImageTools,
     critters(),
     sitemap({
       canonicalURL: website,
