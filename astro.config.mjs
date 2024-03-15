@@ -4,11 +4,13 @@ import tailwind from '@astrojs/tailwind'
 import { astroImageTools } from 'astro-imagetools'
 import critters from 'astro-critters'
 import sitemap from 'astro-sitemap'
+import Compress from 'astro-compress'
 
 const website = 'https://example.com'
 
 // https://astro.build/config
 export default defineConfig({
+  compressHTML: false,
   integrations: [
     tailwind(),
     astroImageTools,
@@ -32,6 +34,31 @@ export default defineConfig({
         item.url = item.url.replace(/\/$/g, '')
         return item
       }
+    }),
+    Compress({
+      HTML: {
+        collapseBooleanAttributes: true,
+        maxLineLength: 0,
+        removeAttributeQuotes: false,
+        removeComments: true,
+        removeEmptyAttributes: true,
+        removeOptionalTags: true,
+        removeRedundantAttributes: true,
+        useShortDoctype: true
+      },
+      JavaScript: {
+        compress: {
+          ecma: 2015
+        },
+        format: {
+          comments: false,
+          ecma: 2015
+        },
+        ecma: 2015,
+        module: true
+      },
+      Image: false,
+      SVG: false
     })
   ]
 })

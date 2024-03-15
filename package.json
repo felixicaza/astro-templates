@@ -27,6 +27,7 @@
     "@astrojs/check": "0.5.9",
     "@astrojs/tailwind": "5.1.0",
     "astro": "4.5.4",
+    "astro-compress": "2.2.15",
     "astro-critters": "2.1.4",
     "astro-imagetools": "0.9.0",
     "astro-sitemap": "1.0.0",
