@@ -11,6 +11,12 @@ const website = 'https://example.com'
 
 // https://astro.build/config
 export default defineConfig({
+  site: website,
+  trailingSlash: 'never',
+  prefetch: {
+    prefetchAll: true,
+    defaultStrategy: 'viewport'
+  },
   compressHTML: false,
   integrations: [
     tailwind(),
