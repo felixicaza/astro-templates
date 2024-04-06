@@ -1,0 +1,22 @@
+{
+  "name": "astro-templates",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A collection of Astro templates (https://astro.build/)",
+  "keywords": [
+    "template",
+    "starter-template",
+    "astro",
+    "astrobuild",
+    "astro-template"
+  ],
+  "homepage": "https://github.com/felixicaza/astro-templates#readme",
+  "bugs": {
+    "url": "https://github.com/felixicaza/astro-templates/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixicaza/astro-templates.git"
+  },
+  "author": "Felix Icaza <contacto@felixicaza.com>"
+}
