@@ -51,7 +51,7 @@ module.exports = {
       parserOptions: {
         project: ['./tsconfig.json']
       },
-      extends: ['standard-with-typescript'],
+      extends: ['love'],
       rules: {
         '@typescript-eslint/space-before-function-paren': 'off'
       }
@@ -64,7 +64,7 @@ module.exports = {
         project: ['./tsconfig.json']
       },
       extends: [
-        'standard-with-typescript',
+        'love',
         'plugin:react/recommended',
         'plugin:react/jsx-runtime',
         'plugin:jsx-a11y/recommended'
