@@ -1,4 +1,6 @@
 ---
+import { Icon } from 'astro-iconify'
+
 interface Props {
   title: string
   body: string
@@ -12,7 +14,9 @@ const { href, title, body } = Astro.props
   <a href={href}>
     <h2>
       {title}
-      <span>&rarr;</span>
+      <span>
+        <Icon name="material-symbols:arrow-right-alt-rounded" width={22} />
+      </span>
     </h2>
     <p>
       {body}
@@ -46,6 +50,9 @@ const { href, title, body } = Astro.props
     margin: 0;
     font-size: 1.25rem;
     transition: color 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
   }
   p {
     margin-top: 0.5rem;

@@ -34,6 +34,7 @@
     "astro-compress": "2.2.15",
     "astro-compressor": "0.4.1",
     "astro-critters": "2.1.4",
+    "astro-iconify": "1.2.0",
     "astro-sitemap": "1.0.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
