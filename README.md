@@ -8,6 +8,7 @@ A collection of Astro templates. _(mostly for personal use)_
 - ✅ ESLint and Prettier ready
 - ⚡ Performance focus
 - 🖼️ Image processing
+- ✨ SVG icons support
 - 💅 Tailwind support
 - 📱 Progressive Web App support
 - ⚛ Integration with React
@@ -30,13 +31,13 @@ pnpm create astro@latest --template <github-username>/<github-repo>/<folder>
 
 ### Examples
 
-With NPM:
+Using [base](./base) template with NPM:
 
 ```bash
 npm create astro@latest -- --template felixicaza/astro-templates/base
 ```
 
-With PNPM:
+Using [base](./base) template with PNPM:
 
 ```bash
 pnpm create astro@latest --template felixicaza/astro-templates/base
@@ -44,9 +45,9 @@ pnpm create astro@latest --template felixicaza/astro-templates/base
 
 ## 📖 Structure
 
-- [base](./base): Template with basic integrations and extra configurations for Astro.
-- [base-img](./base-img): Same as [Base](./base) template but with [astro-imagetools](https://github.com/RafidMuhymin/astro-imagetools) integration for image processing.
-- [pwa](./pwa): This template extends the [Base](./base) template, with the necessary configurations for Progressive Web Apps (PWA) support powered by [@vite-pwa/astro](https://github.com/vite-pwa/astro).
+- [base](./base): Template with basic integrations, extra configurations for Astro and SVG icons support powered by [astro-iconify](https://github.com/manuelmeister/astro-iconify).
+- [base-img](./base-img): Same as [base](./base) template but with [astro-imagetools](https://github.com/RafidMuhymin/astro-imagetools) integration for image processing.
+- [pwa](./pwa): This template extends the [base](./base) template, with the necessary configurations for Progressive Web Apps (PWA) support powered by [@vite-pwa/astro](https://github.com/vite-pwa/astro).
 - [react](./react/): Template with the necessary configurations for island support with React.
 - [react-img](./react-img/): Same as the [react](./react) template, but with support for image processing.
 - [react-pwa](./react-pwa/): Support for islands with React and Progressive Web Apps (PWA).
