@@ -17,8 +17,24 @@ const config = {
       }
     }
   ],
-  plugins: ['prettier-plugin-astro', 'prettier-plugin-tailwindcss'],
-  astroAllowShorthand: false
+  plugins: [
+    'prettier-plugin-astro',
+    '@ianvs/prettier-plugin-sort-imports',
+    'prettier-plugin-tailwindcss'
+  ],
+  astroAllowShorthand: false,
+  importOrder: [
+    '<BUILTIN_MODULES>',
+    '<THIRD_PARTY_MODULES>',
+    '^@data/(.*)$',
+    '^@layouts/(.*)$',
+    '^@pages/(.*)$',
+    '^@components/(.*)$',
+    '^@scripts/(.*)$',
+    '^@styles/(.*)$',
+    '^@/(.*)$',
+    '^.[./].*'
+  ]
 }
 
 export default config
