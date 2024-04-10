@@ -48,6 +48,7 @@ pnpm create astro@latest --template felixicaza/astro-templates/base
 - [base](./base): Template with basic integrations, extra configurations for Astro and SVG icons support powered by [astro-iconify](https://github.com/manuelmeister/astro-iconify).
 - [base-img](./base-img): Same as [base](./base) template but with [astro-imagetools](https://github.com/RafidMuhymin/astro-imagetools) integration for image processing.
 - [pwa](./pwa): This template extends the [base](./base) template, with the necessary configurations for Progressive Web Apps (PWA) support powered by [@vite-pwa/astro](https://github.com/vite-pwa/astro).
+- [pwa-img](./pwa-img): Same as [pwa](./pwa) but with [astro-imagetools](https://github.com/RafidMuhymin/astro-imagetools) integration for image processing.
 - [react](./react/): Template with the necessary configurations for island support with React.
 - [react-img](./react-img/): Same as the [react](./react) template, but with support for image processing.
 - [react-pwa](./react-pwa/): Support for islands with React and Progressive Web Apps (PWA).
