@@ -34,7 +34,8 @@ const config = {
     '^@styles/(.*)$',
     '^@/(.*)$',
     '^.[./].*'
-  ]
+  ],
+  importOrderParserPlugins: ['typescript', 'astro']
 }
 
 export default config
