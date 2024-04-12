@@ -4,6 +4,7 @@ import tailwind from '@astrojs/tailwind'
 import { astroImageTools } from 'astro-imagetools'
 import AstroPWA from '@vite-pwa/astro'
 import critters from 'astro-critters'
+import { shield } from '@kindspells/astro-shield'
 import sitemap from 'astro-sitemap'
 import Compress from 'astro-compress'
 import compressor from 'astro-compressor'
@@ -176,6 +177,11 @@ export default defineConfig({
       }
     }),
     critters(),
+    shield({
+      sri: {
+        enableMiddleware: true
+      }
+    }),
     sitemap({
       canonicalURL: website,
       lastmod: new Date(),

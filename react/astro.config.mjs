@@ -3,6 +3,7 @@ import { defineConfig } from 'astro/config'
 import tailwind from '@astrojs/tailwind'
 import react from '@astrojs/react'
 import critters from 'astro-critters'
+import { shield } from '@kindspells/astro-shield'
 import sitemap from 'astro-sitemap'
 import Compress from 'astro-compress'
 import compressor from 'astro-compressor'
@@ -22,6 +23,11 @@ export default defineConfig({
     tailwind(),
     react(),
     critters(),
+    shield({
+      sri: {
+        enableMiddleware: true
+      }
+    }),
     sitemap({
       canonicalURL: website,
       lastmod: new Date(),
