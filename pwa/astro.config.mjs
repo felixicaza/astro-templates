@@ -1,5 +1,6 @@
 import { defineConfig } from 'astro/config'
 
+import tunnel from 'astro-tunnel';
 import tailwind from '@astrojs/tailwind'
 import AstroPWA from '@vite-pwa/astro'
 import critters from 'astro-critters'
@@ -20,6 +21,7 @@ export default defineConfig({
   },
   compressHTML: false,
   integrations: [
+    tunnel(),
     tailwind(),
     AstroPWA({
       mode: 'development',
