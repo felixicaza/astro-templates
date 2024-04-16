@@ -6,6 +6,7 @@ A collection of Astro templates. _(mostly for personal use)_
 
 - 🚀 Latest version of Astro
 - ✅ ESLint and Prettier ready
+- 🌐 Tunnels ready
 - ⚡ Performance focus
 - 🛡️ Security focus
 - 🖼️ Image processing
@@ -44,9 +45,9 @@ Using [base](./base) template with PNPM:
 pnpm create astro@latest --template felixicaza/astro-templates/base
 ```
 
-## 📖 Structure
+## 📖 Templates
 
-- [base](./base): Template with basic integrations, extra configurations for Astro, SVG icons support powered by [astro-iconify](https://github.com/manuelmeister/astro-iconify) and [Subresource Integrity](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity) support with [@kindspells/astro-shield](https://github.com/KindSpells/astro-shield) integration.
+- [base](./base): Template with basic integrations, extra configurations for Astro, SVG icons support powered by [astro-iconify](https://github.com/manuelmeister/astro-iconify), [Subresource Integrity](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity) support with [@kindspells/astro-shield](https://github.com/KindSpells/astro-shield) integration and Tunnels to improve development enviroment powered by [astro-tunnel](https://github.com/morinokami/astro-tunnel).
 - [base-img](./base-img): Same as [base](./base) template but with [astro-imagetools](https://github.com/RafidMuhymin/astro-imagetools) integration for image processing.
 - [pwa](./pwa): This template extends the [base](./base) template, with the necessary configurations for Progressive Web Apps (PWA) support powered by [@vite-pwa/astro](https://github.com/vite-pwa/astro).
 - [pwa-img](./pwa-img): Same as [pwa](./pwa) but with [astro-imagetools](https://github.com/RafidMuhymin/astro-imagetools) integration for image processing.
