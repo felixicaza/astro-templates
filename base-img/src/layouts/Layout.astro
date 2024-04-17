@@ -7,15 +7,20 @@ const { title } = Astro.props
 ---
 
 <!doctype html>
-<html class="dark" lang="en">
+<html class="dark" dir='ltr' lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="description" content="Astro description" />
-    <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="generator" content={Astro.generator} />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
     <title>{title}</title>
-    <style is:global>
+
+    <slot name="preconnect" />
+
+    <slot name="async-script" />
+
+    <slot name='critical-css' />
+
+    <style is:inline>
       :root {
         --accent: 136, 58, 234;
         --accent-light: 224, 204, 250;
@@ -101,8 +106,30 @@ const { title } = Astro.props
         }
       }
     </style>
+
+    <slot name='stylesheet' />
+
+    <slot name='preload' />
+
+    <slot name='defer-script' />
+
+    <meta name='robots' content='index, follow' />
+    <meta name="description" content="Astro description" />
+    <link href={Astro.url.href} rel="canonical" />
+    <meta name="author" content="Félix Icaza - https://felixicaza.com" />
+    <meta name="generator" content={Astro.generator} />
+
+    <slot name='schema' />
+
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <meta name='color-scheme' content='dark light' />
+    <meta name='theme-color' content='#000' />
+    <slot name='social-media' />
   </head>
   <body>
     <slot />
+
+    <slot name='dynamic-components' />
   </body>
 </html>
