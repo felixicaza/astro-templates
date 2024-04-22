@@ -7,7 +7,19 @@ const config = {
     {
       files: '*.astro',
       options: {
-        parser: 'astro'
+        parser: 'astro',
+        importOrder: [
+          '<BUILTIN_MODULES>',
+          '<THIRD_PARTY_MODULES>',
+          '^@data/(.*)$',
+          '^@layouts/(.*)$',
+          '^@pages/(.*)$',
+          '^@components/(.*)$',
+          '^@scripts/(.*)$',
+          '^@styles/(.*)$',
+          '^@/(.*)$',
+          '^.[./].*'
+        ]
       }
     },
     {
@@ -23,19 +35,7 @@ const config = {
     'prettier-plugin-tailwindcss'
   ],
   astroAllowShorthand: false,
-  importOrder: [
-    '<BUILTIN_MODULES>',
-    '<THIRD_PARTY_MODULES>',
-    '^@data/(.*)$',
-    '^@layouts/(.*)$',
-    '^@pages/(.*)$',
-    '^@components/(.*)$',
-    '^@scripts/(.*)$',
-    '^@styles/(.*)$',
-    '^@/(.*)$',
-    '^.[./].*'
-  ],
-  importOrderParserPlugins: ['typescript', 'astro']
+  importOrder: []
 }
 
 export default config
