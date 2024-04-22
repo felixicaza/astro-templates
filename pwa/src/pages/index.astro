@@ -1,9 +1,14 @@
 ---
 import Layout from '@layouts/Layout.astro'
 import Card from '@components/Card.astro'
+
+const options = {
+  title: 'Welcome to Astro',
+  description: 'Astro description'
+}
 ---
 
-<Layout title="Welcome to Astro.">
+<Layout options={options}>
   <main>
     <svg
       class="astro-a"

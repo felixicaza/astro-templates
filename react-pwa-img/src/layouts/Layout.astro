@@ -3,11 +3,18 @@ import { pwaInfo } from 'virtual:pwa-info'
 
 import SplashScreens from '@components/SplashScreens.astro'
 
-interface Props {
+interface Options {
   title: string
+  description: string
+  meta_robots?: string
 }
 
-const { title } = Astro.props
+interface Props {
+  options: Options
+}
+
+const { options } = Astro.props
+const { title, description, meta_robots } = options
 ---
 
 <!doctype html>
@@ -119,9 +126,9 @@ const { title } = Astro.props
 
     <script src="/src/scripts/pwa.ts"></script>
 
-    <meta name='robots' content='index, follow' />
-    <meta name="description" content="Astro description" />
-    <link href={Astro.url.href} rel="canonical" />
+    <meta name='robots' content={meta_robots || 'index, follow'} />
+    {description && <meta name="description" content={description} />}
+    {description && <link href={Astro.url.href} rel="canonical" />}
     <meta name="author" content="Félix Icaza - https://felixicaza.com" />
     <meta name="generator" content={Astro.generator} />
 
