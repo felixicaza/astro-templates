@@ -1,4 +1,5 @@
 ---
+import { Schema } from 'astro-seo-schema'
 import { pwaInfo } from 'virtual:pwa-info'
 import SplashScreens from '@components/SplashScreens.astro'
 
@@ -128,8 +129,33 @@ const { title, description, meta_robots } = options
     <meta name="robots" content={meta_robots || 'index, follow'} />
     {description && <meta name="description" content={description} />}
     {description && <link href={Astro.url.href} rel="canonical" />}
-    <meta name="author" content="Félix Icaza - https://felixicaza.com" />
+    <meta name="author" content="Felix Icaza - https://felixicaza.com" />
     <meta name="generator" content={Astro.generator} />
+
+    {
+      description && (
+        <Schema
+          item={{
+            '@context': 'https://schema.org',
+            '@type': 'Person',
+            name: 'Felix Icaza',
+            url: 'https://felixicaza.com',
+            image: 'https://felixicaza.com/img/felixicaza.jpg',
+            sameAs: [
+              'https://felixicaza.com',
+              'https://www.upwork.com/freelancers/felixicaza',
+              'https://www.linkedin.com/in/felixicaza',
+              'https://github.com/felixicaza'
+            ],
+            jobTitle: 'Desarrollador Web',
+            worksFor: {
+              '@type': 'Organization',
+              name: 'Felix Icaza'
+            }
+          }}
+        />
+      )
+    }
 
     <slot name="schema" />
 
