@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config'
 
-import tunnel from 'astro-tunnel';
+import tunnel from 'astro-tunnel'
 import tailwind from '@astrojs/tailwind'
 import { astroImageTools } from 'astro-imagetools'
 import AstroPWA from '@vite-pwa/astro'

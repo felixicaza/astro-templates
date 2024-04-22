@@ -14,7 +14,7 @@ const { title, description, meta_robots } = options
 ---
 
 <!doctype html>
-<html class="dark" dir='ltr' lang="en">
+<html class="dark" dir="ltr" lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -25,7 +25,7 @@ const { title, description, meta_robots } = options
 
     <slot name="async-script" />
 
-    <slot name='critical-css' />
+    <slot name="critical-css" />
 
     <style is:inline>
       :root {
@@ -114,29 +114,29 @@ const { title, description, meta_robots } = options
       }
     </style>
 
-    <slot name='stylesheet' />
+    <slot name="stylesheet" />
 
-    <slot name='preload' />
+    <slot name="preload" />
 
-    <slot name='defer-script' />
+    <slot name="defer-script" />
 
-    <meta name='robots' content={meta_robots || 'index, follow'} />
+    <meta name="robots" content={meta_robots || "index, follow"} />
     {description && <meta name="description" content={description} />}
     {description && <link href={Astro.url.href} rel="canonical" />}
     <meta name="author" content="Félix Icaza - https://felixicaza.com" />
     <meta name="generator" content={Astro.generator} />
 
-    <slot name='schema' />
+    <slot name="schema" />
 
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
-    <meta name='color-scheme' content='dark light' />
-    <meta name='theme-color' content='#000' />
-    <slot name='social-media' />
+    <meta name="color-scheme" content="dark light" />
+    <meta name="theme-color" content="#000" />
+    <slot name="social-media" />
   </head>
   <body>
     <slot />
 
-    <slot name='dynamic-components' />
+    <slot name="dynamic-components" />
   </body>
 </html>

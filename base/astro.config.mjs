@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config'
 
-import tunnel from 'astro-tunnel';
+import tunnel from 'astro-tunnel'
 import tailwind from '@astrojs/tailwind'
 import critters from 'astro-critters'
 import { shield } from '@kindspells/astro-shield'
