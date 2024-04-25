@@ -4,10 +4,10 @@ import tunnel from 'astro-tunnel'
 import tailwind from '@astrojs/tailwind'
 import { astroImageTools } from 'astro-imagetools'
 import AstroPWA from '@vite-pwa/astro'
-import critters from 'astro-critters'
+import playformInline from '@playform/inline'
 import { shield } from '@kindspells/astro-shield'
 import sitemap from 'astro-sitemap'
-import Compress from 'astro-compress'
+import playformCompress from '@playform/compress'
 import compressor from 'astro-compressor'
 
 const website = 'https://example.com'
@@ -178,7 +178,7 @@ export default defineConfig({
         directoryAndTrailingSlashHandler: true
       }
     }),
-    critters(),
+    playformInline(),
     shield({
       sri: {
         enableMiddleware: true
@@ -204,7 +204,7 @@ export default defineConfig({
         return item
       }
     }),
-    Compress({
+    playformCompress({
       HTML: {
         collapseBooleanAttributes: true,
         maxLineLength: 0,
