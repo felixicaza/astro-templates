@@ -6,7 +6,7 @@ import SplashScreens from '@components/SplashScreens.astro'
 interface Options {
   title: string
   description: string
-  meta_robots?: string
+  metaRobots?: string
 }
 
 interface Props {
@@ -14,7 +14,7 @@ interface Props {
 }
 
 const { options } = Astro.props
-const { title, description, meta_robots } = options
+const { title, description, metaRobots } = options
 ---
 
 <!doctype html>
@@ -126,7 +126,7 @@ const { title, description, meta_robots } = options
 
     <script src="/src/scripts/pwa.ts"></script>
 
-    <meta name="robots" content={meta_robots || 'index, follow'} />
+    <meta name="robots" content={metaRobots || 'index, follow'} />
     {description && <meta name="description" content={description} />}
     {description && <link href={Astro.url.href} rel="canonical" />}
     <meta name="author" content="Felix Icaza - https://felixicaza.com" />
