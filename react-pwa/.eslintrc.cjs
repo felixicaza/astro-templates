@@ -67,9 +67,10 @@ module.exports = {
         'love',
         'plugin:react/recommended',
         'plugin:react/jsx-runtime',
+        'plugin:react-hooks/recommended',
         'plugin:jsx-a11y/recommended'
       ],
-      plugins: ['react', 'jsx-a11y'],
+      plugins: ['react', 'react-hooks', 'jsx-a11y'],
       settings: {
         react: {
           version: 'detect'
