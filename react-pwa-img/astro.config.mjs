@@ -17,6 +17,9 @@ const website = 'https://example.com'
 export default defineConfig({
   site: website,
   trailingSlash: 'never',
+  server: {
+    host: true
+  },
   prefetch: {
     prefetchAll: true,
     defaultStrategy: 'viewport'
