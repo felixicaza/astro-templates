@@ -3,13 +3,6 @@ module.exports = {
     browser: true,
     es2021: true
   },
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    ecmaFeatures: {
-      modules: true
-    }
-  },
   extends: ['eslint:recommended', 'standard', 'prettier'],
   overrides: [
     {
@@ -23,10 +16,18 @@ module.exports = {
     },
     {
       files: ['*.astro'],
+      processor: 'astro/client-side-ts',
+      plugins: ['astro'],
+      env: {
+        node: true,
+        'astro/astro': true,
+        es2021: true
+      },
       parser: 'astro-eslint-parser',
       parserOptions: {
         parser: '@typescript-eslint/parser',
-        extraFileExtensions: ['.astro']
+        extraFileExtensions: ['.astro'],
+        sourceType: 'module'
       },
       extends: ['plugin:astro/recommended', 'plugin:astro/jsx-a11y-recommended']
     },
@@ -52,30 +53,6 @@ module.exports = {
         project: ['./tsconfig.json']
       },
       extends: ['love'],
-      rules: {
-        '@typescript-eslint/space-before-function-paren': 'off'
-      }
-    },
-    {
-      files: ['*.tsx'],
-      parser: '@typescript-eslint/parser',
-      parserOptions: {
-        jsx: true,
-        project: ['./tsconfig.json']
-      },
-      extends: [
-        'love',
-        'plugin:react/recommended',
-        'plugin:react/jsx-runtime',
-        'plugin:react-hooks/recommended',
-        'plugin:jsx-a11y/recommended'
-      ],
-      plugins: ['react', 'react-hooks', 'jsx-a11y'],
-      settings: {
-        react: {
-          version: 'detect'
-        }
-      },
       rules: {
         '@typescript-eslint/space-before-function-paren': 'off'
       }

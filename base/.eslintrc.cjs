@@ -16,10 +16,18 @@ module.exports = {
     },
     {
       files: ['*.astro'],
+      processor: 'astro/client-side-ts',
+      plugins: ['astro'],
+      env: {
+        node: true,
+        'astro/astro': true,
+        es2021: true
+      },
       parser: 'astro-eslint-parser',
       parserOptions: {
         parser: '@typescript-eslint/parser',
-        extraFileExtensions: ['.astro']
+        extraFileExtensions: ['.astro'],
+        sourceType: 'module'
       },
       extends: ['plugin:astro/recommended', 'plugin:astro/jsx-a11y-recommended']
     },
