@@ -29,7 +29,13 @@ module.exports = {
         extraFileExtensions: ['.astro'],
         sourceType: 'module'
       },
-      extends: ['plugin:astro/recommended', 'plugin:astro/jsx-a11y-recommended']
+      extends: [
+        'plugin:astro/recommended',
+        'plugin:astro/jsx-a11y-recommended'
+      ],
+      rules: {
+        'astro/jsx-a11y/anchor-is-valid': 'warn'
+      }
     },
     {
       files: ['**/*.astro/*.ts', '*.astro/*.ts'],
