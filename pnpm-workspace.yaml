@@ -1,0 +1,9 @@
+packages:
+   - "base"
+   - "base-img"
+   - "pwa"
+   - "pwa-img"
+   - "react"
+   - "react-img"
+   - "react-pwa"
+   - "react-pwa-img"
