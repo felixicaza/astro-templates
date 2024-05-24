@@ -3,10 +3,7 @@ updates:
    - package-ecosystem: "npm"
      directory: "/"
      schedule:
-        interval: "weekly"
-        day: "thursday"
-        time: "18:00"
-        timezone: "America/Costa_Rica"
+        interval: "daily"
      target-branch: "main"
      labels:
         - "dependencies"
