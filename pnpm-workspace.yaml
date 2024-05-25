@@ -1,6 +1,7 @@
 packages:
    - "base"
    - "base-img"
+   - "i18n"
    - "pwa"
    - "pwa-img"
    - "react"
