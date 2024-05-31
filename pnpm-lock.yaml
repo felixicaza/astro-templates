@@ -102,8 +102,8 @@ importers:
         specifier: 0.13.0
         version: 0.13.0
       prettier-plugin-tailwindcss:
-        specifier: 0.5.14
-        version: 0.5.14(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
+        specifier: 0.6.0
+        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
 
   base-img:
     dependencies:
@@ -202,8 +202,8 @@ importers:
         specifier: 0.13.0
         version: 0.13.0
       prettier-plugin-tailwindcss:
-        specifier: 0.5.14
-        version: 0.5.14(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
+        specifier: 0.6.0
+        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
 
   i18n:
     dependencies:
@@ -305,8 +305,8 @@ importers:
         specifier: 0.13.0
         version: 0.13.0
       prettier-plugin-tailwindcss:
-        specifier: 0.5.14
-        version: 0.5.14(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
+        specifier: 0.6.0
+        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
 
   pwa:
     dependencies:
@@ -411,8 +411,8 @@ importers:
         specifier: 0.13.0
         version: 0.13.0
       prettier-plugin-tailwindcss:
-        specifier: 0.5.14
-        version: 0.5.14(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
+        specifier: 0.6.0
+        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
 
   pwa-img:
     dependencies:
@@ -520,8 +520,8 @@ importers:
         specifier: 0.13.0
         version: 0.13.0
       prettier-plugin-tailwindcss:
-        specifier: 0.5.14
-        version: 0.5.14(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
+        specifier: 0.6.0
+        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
 
   react:
     dependencies:
@@ -638,8 +638,8 @@ importers:
         specifier: 0.13.0
         version: 0.13.0
       prettier-plugin-tailwindcss:
-        specifier: 0.5.14
-        version: 0.5.14(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
+        specifier: 0.6.0
+        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
 
   react-img:
     dependencies:
@@ -759,8 +759,8 @@ importers:
         specifier: 0.13.0
         version: 0.13.0
       prettier-plugin-tailwindcss:
-        specifier: 0.5.14
-        version: 0.5.14(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
+        specifier: 0.6.0
+        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
 
   react-pwa:
     dependencies:
@@ -886,8 +886,8 @@ importers:
         specifier: 0.13.0
         version: 0.13.0
       prettier-plugin-tailwindcss:
-        specifier: 0.5.14
-        version: 0.5.14(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
+        specifier: 0.6.0
+        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
 
   react-pwa-img:
     dependencies:
@@ -1016,8 +1016,8 @@ importers:
         specifier: 0.13.0
         version: 0.13.0
       prettier-plugin-tailwindcss:
-        specifier: 0.5.14
-        version: 0.5.14(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
+        specifier: 0.6.0
+        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
 
 packages:
 
@@ -5848,6 +5848,7 @@ packages:
 
   /color-string@1.9.1:
     resolution: {integrity: sha512-shrVawQFojnZv6xM40anx4CkoDP+fZsw/ZerEMsW/pyzsRbElpsL/DBVW7q3ExxwusdNXI3lXpuhEZkzs8p5Eg==}
+    requiresBuild: true
     dependencies:
       color-name: 1.1.4
       simple-swizzle: 0.2.2
@@ -5856,6 +5857,7 @@ packages:
   /color@4.2.3:
     resolution: {integrity: sha512-1rXeuUUiGGrykh+CeBdu5Ie7OJwinCgQY0bc7GCRxy5xVHy+moaqkpL/jqQq0MtQOeYcrqEz4abc5f0KtU7W4A==}
     engines: {node: '>=12.5.0'}
+    requiresBuild: true
     dependencies:
       color-convert: 2.0.1
       color-string: 1.9.1
@@ -6141,6 +6143,7 @@ packages:
   /detect-libc@2.0.3:
     resolution: {integrity: sha512-bwy0MGW55bG41VqxxypOsdSdGqLwXPI/focwgTYCFMbdUiBAxLg9CFzG08sz2aqzknwiX7Hkl0bQENjg8iLByw==}
     engines: {node: '>=8'}
+    requiresBuild: true
     dev: false
 
   /deterministic-object-hash@2.0.2:
@@ -7640,6 +7643,7 @@ packages:
 
   /is-arrayish@0.3.2:
     resolution: {integrity: sha512-eVRqCvVlZbuw3GrM63ovNSNAeA1K16kaR/LRY/92w0zxQ5/1YzwblUX652i4Xs9RwAGjW9d9y6X88t8OaAJfWQ==}
+    requiresBuild: true
     dev: false
 
   /is-async-function@2.0.0:
@@ -9516,8 +9520,8 @@ packages:
       prettier: 3.2.5
       sass-formatter: 0.7.9
 
-  /prettier-plugin-tailwindcss@0.5.14(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5):
-    resolution: {integrity: sha512-Puaz+wPUAhFp8Lo9HuciYKM2Y2XExESjeT+9NQoVFXZsPPnc9VYss2SpxdQ6vbatmt8/4+SN0oe0I1cPDABg9Q==}
+  /prettier-plugin-tailwindcss@0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5):
+    resolution: {integrity: sha512-l5F3iG54XbOq/2DOPP/YA+c6VE3/qXrcBccntq2v7PSxtEc+J6SwsuTyDHxoFK1+jAlcU/hECBfzn6MON6ENBg==}
     engines: {node: '>=14.21.3'}
     peerDependencies:
       '@ianvs/prettier-plugin-sort-imports': '*'
@@ -10217,6 +10221,7 @@ packages:
 
   /simple-swizzle@0.2.2:
     resolution: {integrity: sha512-JA//kQgZtbuY83m+xT+tXJkmJncGMTFT+C+g2h2R9uxkYIrE2yy9sgmcLhCnw57/WSD+Eh3J97FPEDFnbXnDUg==}
+    requiresBuild: true
     dependencies:
       is-arrayish: 0.3.2
     dev: false
