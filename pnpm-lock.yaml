@@ -23,8 +23,8 @@ importers:
         specifier: 0.0.10
         version: 0.0.10(typescript@5.3.3)
       '@playform/inline':
-        specifier: 0.0.3
-        version: 0.0.3
+        specifier: 0.0.6
+        version: 0.0.6(typescript@5.3.3)
       astro:
         specifier: 4.9.1
         version: 4.9.1(typescript@5.3.3)
@@ -120,8 +120,8 @@ importers:
         specifier: 0.0.10
         version: 0.0.10(typescript@5.3.3)
       '@playform/inline':
-        specifier: 0.0.3
-        version: 0.0.3
+        specifier: 0.0.6
+        version: 0.0.6(typescript@5.3.3)
       astro:
         specifier: 4.9.1
         version: 4.9.1(typescript@5.3.3)
@@ -223,8 +223,8 @@ importers:
         specifier: 0.0.10
         version: 0.0.10(typescript@5.4.5)
       '@playform/inline':
-        specifier: 0.0.3
-        version: 0.0.3
+        specifier: 0.0.6
+        version: 0.0.6(typescript@5.4.5)
       astro:
         specifier: 4.9.1
         version: 4.9.1(typescript@5.4.5)
@@ -323,8 +323,8 @@ importers:
         specifier: 0.0.10
         version: 0.0.10(typescript@5.3.3)
       '@playform/inline':
-        specifier: 0.0.3
-        version: 0.0.3
+        specifier: 0.0.6
+        version: 0.0.6(typescript@5.3.3)
       '@vite-pwa/astro':
         specifier: 0.4.0
         version: 0.4.0(astro@4.9.1)(vite-plugin-pwa@0.20.0)
@@ -429,8 +429,8 @@ importers:
         specifier: 0.0.10
         version: 0.0.10(typescript@5.3.3)
       '@playform/inline':
-        specifier: 0.0.3
-        version: 0.0.3
+        specifier: 0.0.6
+        version: 0.0.6(typescript@5.3.3)
       '@vite-pwa/astro':
         specifier: 0.4.0
         version: 0.4.0(astro@4.9.1)(vite-plugin-pwa@0.20.0)
@@ -541,8 +541,8 @@ importers:
         specifier: 0.0.10
         version: 0.0.10(typescript@5.3.3)
       '@playform/inline':
-        specifier: 0.0.3
-        version: 0.0.3
+        specifier: 0.0.6
+        version: 0.0.6(typescript@5.3.3)
       '@types/react':
         specifier: 18.3.3
         version: 18.3.3
@@ -659,8 +659,8 @@ importers:
         specifier: 0.0.10
         version: 0.0.10(typescript@5.3.3)
       '@playform/inline':
-        specifier: 0.0.3
-        version: 0.0.3
+        specifier: 0.0.6
+        version: 0.0.6(typescript@5.3.3)
       '@types/react':
         specifier: 18.3.3
         version: 18.3.3
@@ -780,8 +780,8 @@ importers:
         specifier: 0.0.10
         version: 0.0.10(typescript@5.3.3)
       '@playform/inline':
-        specifier: 0.0.3
-        version: 0.0.3
+        specifier: 0.0.6
+        version: 0.0.6(typescript@5.3.3)
       '@types/react':
         specifier: 18.3.3
         version: 18.3.3
@@ -907,8 +907,8 @@ importers:
         specifier: 0.0.10
         version: 0.0.10(typescript@5.3.3)
       '@playform/inline':
-        specifier: 0.0.3
-        version: 0.0.3
+        specifier: 0.0.6
+        version: 0.0.6(typescript@5.3.3)
       '@types/react':
         specifier: 18.3.3
         version: 18.3.3
@@ -3780,19 +3780,44 @@ packages:
       - typescript
     dev: false
 
-  /@playform/inline@0.0.3:
-    resolution: {integrity: sha512-NM3c+6PRiIQMDJi3dLtqZU8GiZjh31KQ1qXdqhDVbGQQ+PYiFKfSzA5ve7DpYJIYfs1mCi0ZIQWHFyJZ9nrezw==}
+  /@playform/inline@0.0.6(typescript@5.3.3):
+    resolution: {integrity: sha512-AB6lfKuACGV3Omno80Yk+bFxnB7QJLu7N1hjQ3bMT97sDruj27rQ+poed0C5/Rfs7Whgb1+3ln0bKw9GK+oBQw==}
     dependencies:
-      '@playform/pipe': 0.0.3
+      '@playform/pipe': 0.0.5
+      astro: 4.9.2(lightningcss@1.25.1)(terser@5.31.0)(typescript@5.3.3)
       critters: 0.0.22
+    transitivePeerDependencies:
+      - '@playform/build'
+      - '@playform/document'
+      - '@types/node'
+      - less
+      - lightningcss
+      - sass
+      - stylus
+      - sugarss
+      - supports-color
+      - terser
+      - typescript
     dev: false
 
-  /@playform/pipe@0.0.3:
-    resolution: {integrity: sha512-PMuG113yN2AYYBZhDS640lIVHPIYm62o4/X/+kE7Z5T78YySHdg3fQ8iUwKsqmGHOGxSs5J21X/T6xIV5Zwz0g==}
+  /@playform/inline@0.0.6(typescript@5.4.5):
+    resolution: {integrity: sha512-AB6lfKuACGV3Omno80Yk+bFxnB7QJLu7N1hjQ3bMT97sDruj27rQ+poed0C5/Rfs7Whgb1+3ln0bKw9GK+oBQw==}
     dependencies:
-      '@types/node': 20.12.11
-      deepmerge-ts: 5.1.0
-      fast-glob: 3.3.2
+      '@playform/pipe': 0.0.5
+      astro: 4.9.2(lightningcss@1.25.1)(terser@5.31.0)(typescript@5.4.5)
+      critters: 0.0.22
+    transitivePeerDependencies:
+      - '@playform/build'
+      - '@playform/document'
+      - '@types/node'
+      - less
+      - lightningcss
+      - sass
+      - stylus
+      - sugarss
+      - supports-color
+      - terser
+      - typescript
     dev: false
 
   /@playform/pipe@0.0.5:
@@ -4145,12 +4170,6 @@ packages:
 
   /@types/node@17.0.45:
     resolution: {integrity: sha512-w+tIMs3rq2afQdsPJlODhoUEKzFP1ayaoyl1CcnwtIlsVe7K7bA1NGm4s3PraqTLlXnbIN84zuBlxBWo1u9BLw==}
-    dev: false
-
-  /@types/node@20.12.11:
-    resolution: {integrity: sha512-vDg9PZ/zi+Nqp6boSOT7plNuthRugEKixDv5sFTIpkE89MmNtEArAShI4mxuX2+UrLEe9pxC1vm2cjm9YlWbJw==}
-    dependencies:
-      undici-types: 5.26.5
     dev: false
 
   /@types/node@20.12.12:
@@ -5848,6 +5867,7 @@ packages:
 
   /color-string@1.9.1:
     resolution: {integrity: sha512-shrVawQFojnZv6xM40anx4CkoDP+fZsw/ZerEMsW/pyzsRbElpsL/DBVW7q3ExxwusdNXI3lXpuhEZkzs8p5Eg==}
+    requiresBuild: true
     dependencies:
       color-name: 1.1.4
       simple-swizzle: 0.2.2
@@ -5856,6 +5876,7 @@ packages:
   /color@4.2.3:
     resolution: {integrity: sha512-1rXeuUUiGGrykh+CeBdu5Ie7OJwinCgQY0bc7GCRxy5xVHy+moaqkpL/jqQq0MtQOeYcrqEz4abc5f0KtU7W4A==}
     engines: {node: '>=12.5.0'}
+    requiresBuild: true
     dependencies:
       color-convert: 2.0.1
       color-string: 1.9.1
@@ -6092,11 +6113,6 @@ packages:
     resolution: {integrity: sha512-oIPzksmTg4/MriiaYGO+okXDT7ztn/w3Eptv/+gSIdMdKsJo0u4CfYNFJPy+4SKMuCqGw2wxnA+URMg3t8a/bQ==}
     dev: true
 
-  /deepmerge-ts@5.1.0:
-    resolution: {integrity: sha512-eS8dRJOckyo9maw9Tu5O5RUi/4inFLrnoLkBe3cPfDMx3WZioXtmOew4TXQaxq7Rhl4xjDtR7c6x8nNTxOvbFw==}
-    engines: {node: '>=16.0.0'}
-    dev: false
-
   /deepmerge-ts@7.0.1:
     resolution: {integrity: sha512-Qbiitd155MxdVp/ww9M6eeRPPMiWOugA34ptYOBQzOcFlPYl6JcWZLho6WvLmPDuxHLyLymhIN3YxrBleqZX9g==}
     engines: {node: '>=16.0.0'}
@@ -6141,6 +6157,7 @@ packages:
   /detect-libc@2.0.3:
     resolution: {integrity: sha512-bwy0MGW55bG41VqxxypOsdSdGqLwXPI/focwgTYCFMbdUiBAxLg9CFzG08sz2aqzknwiX7Hkl0bQENjg8iLByw==}
     engines: {node: '>=8'}
+    requiresBuild: true
     dev: false
 
   /deterministic-object-hash@2.0.2:
@@ -7640,6 +7657,7 @@ packages:
 
   /is-arrayish@0.3.2:
     resolution: {integrity: sha512-eVRqCvVlZbuw3GrM63ovNSNAeA1K16kaR/LRY/92w0zxQ5/1YzwblUX652i4Xs9RwAGjW9d9y6X88t8OaAJfWQ==}
+    requiresBuild: true
     dev: false
 
   /is-async-function@2.0.0:
@@ -10217,6 +10235,7 @@ packages:
 
   /simple-swizzle@0.2.2:
     resolution: {integrity: sha512-JA//kQgZtbuY83m+xT+tXJkmJncGMTFT+C+g2h2R9uxkYIrE2yy9sgmcLhCnw57/WSD+Eh3J97FPEDFnbXnDUg==}
+    requiresBuild: true
     dependencies:
       is-arrayish: 0.3.2
     dev: false
