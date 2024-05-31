@@ -12,7 +12,7 @@ importers:
     dependencies:
       '@astrojs/check':
         specifier: 0.7.0
-        version: 0.7.0(prettier-plugin-astro@0.13.0)(prettier@3.2.5)(typescript@5.3.3)
+        version: 0.7.0(prettier-plugin-astro@0.14.0)(prettier@3.2.5)(typescript@5.3.3)
       '@astrojs/tailwind':
         specifier: 5.1.0
         version: 5.1.0(astro@4.9.1)(tailwindcss@3.4.3)
@@ -99,17 +99,17 @@ importers:
         specifier: 3.2.5
         version: 3.2.5
       prettier-plugin-astro:
-        specifier: 0.13.0
-        version: 0.13.0
+        specifier: 0.14.0
+        version: 0.14.0
       prettier-plugin-tailwindcss:
         specifier: 0.6.0
-        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
+        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.14.0)(prettier@3.2.5)
 
   base-img:
     dependencies:
       '@astrojs/check':
         specifier: 0.7.0
-        version: 0.7.0(prettier-plugin-astro@0.13.0)(prettier@3.2.5)(typescript@5.3.3)
+        version: 0.7.0(prettier-plugin-astro@0.14.0)(prettier@3.2.5)(typescript@5.3.3)
       '@astrojs/tailwind':
         specifier: 5.1.0
         version: 5.1.0(astro@4.9.1)(tailwindcss@3.4.3)
@@ -199,17 +199,17 @@ importers:
         specifier: 3.2.5
         version: 3.2.5
       prettier-plugin-astro:
-        specifier: 0.13.0
-        version: 0.13.0
+        specifier: 0.14.0
+        version: 0.14.0
       prettier-plugin-tailwindcss:
         specifier: 0.6.0
-        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
+        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.14.0)(prettier@3.2.5)
 
   i18n:
     dependencies:
       '@astrojs/check':
         specifier: ^0.7.0
-        version: 0.7.0(prettier-plugin-astro@0.13.0)(prettier@3.2.5)(typescript@5.4.5)
+        version: 0.7.0(prettier-plugin-astro@0.14.0)(prettier@3.2.5)(typescript@5.4.5)
       '@astrojs/tailwind':
         specifier: 5.1.0
         version: 5.1.0(astro@4.9.1)(tailwindcss@3.4.3)
@@ -302,17 +302,17 @@ importers:
         specifier: 3.2.5
         version: 3.2.5
       prettier-plugin-astro:
-        specifier: 0.13.0
-        version: 0.13.0
+        specifier: 0.14.0
+        version: 0.14.0
       prettier-plugin-tailwindcss:
         specifier: 0.6.0
-        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
+        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.14.0)(prettier@3.2.5)
 
   pwa:
     dependencies:
       '@astrojs/check':
         specifier: 0.7.0
-        version: 0.7.0(prettier-plugin-astro@0.13.0)(prettier@3.2.5)(typescript@5.3.3)
+        version: 0.7.0(prettier-plugin-astro@0.14.0)(prettier@3.2.5)(typescript@5.3.3)
       '@astrojs/tailwind':
         specifier: 5.1.0
         version: 5.1.0(astro@4.9.1)(tailwindcss@3.4.3)
@@ -408,17 +408,17 @@ importers:
         specifier: 3.2.5
         version: 3.2.5
       prettier-plugin-astro:
-        specifier: 0.13.0
-        version: 0.13.0
+        specifier: 0.14.0
+        version: 0.14.0
       prettier-plugin-tailwindcss:
         specifier: 0.6.0
-        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
+        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.14.0)(prettier@3.2.5)
 
   pwa-img:
     dependencies:
       '@astrojs/check':
         specifier: 0.7.0
-        version: 0.7.0(prettier-plugin-astro@0.13.0)(prettier@3.2.5)(typescript@5.3.3)
+        version: 0.7.0(prettier-plugin-astro@0.14.0)(prettier@3.2.5)(typescript@5.3.3)
       '@astrojs/tailwind':
         specifier: 5.1.0
         version: 5.1.0(astro@4.9.1)(tailwindcss@3.4.3)
@@ -517,17 +517,17 @@ importers:
         specifier: 3.2.5
         version: 3.2.5
       prettier-plugin-astro:
-        specifier: 0.13.0
-        version: 0.13.0
+        specifier: 0.14.0
+        version: 0.14.0
       prettier-plugin-tailwindcss:
         specifier: 0.6.0
-        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
+        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.14.0)(prettier@3.2.5)
 
   react:
     dependencies:
       '@astrojs/check':
         specifier: 0.7.0
-        version: 0.7.0(prettier-plugin-astro@0.13.0)(prettier@3.2.5)(typescript@5.3.3)
+        version: 0.7.0(prettier-plugin-astro@0.14.0)(prettier@3.2.5)(typescript@5.3.3)
       '@astrojs/react':
         specifier: 3.4.0
         version: 3.4.0(@types/react-dom@18.3.0)(@types/react@18.3.3)(react-dom@18.3.1)(react@18.3.1)(vite@5.2.12)
@@ -635,17 +635,17 @@ importers:
         specifier: 3.2.5
         version: 3.2.5
       prettier-plugin-astro:
-        specifier: 0.13.0
-        version: 0.13.0
+        specifier: 0.14.0
+        version: 0.14.0
       prettier-plugin-tailwindcss:
         specifier: 0.6.0
-        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
+        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.14.0)(prettier@3.2.5)
 
   react-img:
     dependencies:
       '@astrojs/check':
         specifier: 0.7.0
-        version: 0.7.0(prettier-plugin-astro@0.13.0)(prettier@3.2.5)(typescript@5.3.3)
+        version: 0.7.0(prettier-plugin-astro@0.14.0)(prettier@3.2.5)(typescript@5.3.3)
       '@astrojs/react':
         specifier: 3.4.0
         version: 3.4.0(@types/react-dom@18.3.0)(@types/react@18.3.3)(react-dom@18.3.1)(react@18.3.1)(vite@5.2.12)
@@ -756,17 +756,17 @@ importers:
         specifier: 3.2.5
         version: 3.2.5
       prettier-plugin-astro:
-        specifier: 0.13.0
-        version: 0.13.0
+        specifier: 0.14.0
+        version: 0.14.0
       prettier-plugin-tailwindcss:
         specifier: 0.6.0
-        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
+        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.14.0)(prettier@3.2.5)
 
   react-pwa:
     dependencies:
       '@astrojs/check':
         specifier: 0.7.0
-        version: 0.7.0(prettier-plugin-astro@0.13.0)(prettier@3.2.5)(typescript@5.3.3)
+        version: 0.7.0(prettier-plugin-astro@0.14.0)(prettier@3.2.5)(typescript@5.3.3)
       '@astrojs/react':
         specifier: 3.4.0
         version: 3.4.0(@types/react-dom@18.3.0)(@types/react@18.3.3)(react-dom@18.3.1)(react@18.3.1)(vite@5.2.12)
@@ -883,17 +883,17 @@ importers:
         specifier: 3.2.5
         version: 3.2.5
       prettier-plugin-astro:
-        specifier: 0.13.0
-        version: 0.13.0
+        specifier: 0.14.0
+        version: 0.14.0
       prettier-plugin-tailwindcss:
         specifier: 0.6.0
-        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
+        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.14.0)(prettier@3.2.5)
 
   react-pwa-img:
     dependencies:
       '@astrojs/check':
         specifier: 0.7.0
-        version: 0.7.0(prettier-plugin-astro@0.13.0)(prettier@3.2.5)(typescript@5.3.3)
+        version: 0.7.0(prettier-plugin-astro@0.14.0)(prettier@3.2.5)(typescript@5.3.3)
       '@astrojs/react':
         specifier: 3.4.0
         version: 3.4.0(@types/react-dom@18.3.0)(@types/react@18.3.3)(react-dom@18.3.1)(react@18.3.1)(vite@5.2.12)
@@ -1013,11 +1013,11 @@ importers:
         specifier: 3.2.5
         version: 3.2.5
       prettier-plugin-astro:
-        specifier: 0.13.0
-        version: 0.13.0
+        specifier: 0.14.0
+        version: 0.14.0
       prettier-plugin-tailwindcss:
         specifier: 0.6.0
-        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
+        version: 0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.14.0)(prettier@3.2.5)
 
 packages:
 
@@ -1056,13 +1056,13 @@ packages:
       leven: 3.1.0
     dev: false
 
-  /@astrojs/check@0.7.0(prettier-plugin-astro@0.13.0)(prettier@3.2.5)(typescript@5.3.3):
+  /@astrojs/check@0.7.0(prettier-plugin-astro@0.14.0)(prettier@3.2.5)(typescript@5.3.3):
     resolution: {integrity: sha512-UTqwOeKNu9IYZmJXEeWnQuTdSd/pX58Hl4TUARsMlT97SVDL//kLBE4T/ctxRz6J573N87oE5ddtW/uOOnQTug==}
     hasBin: true
     peerDependencies:
       typescript: ^5.0.0
     dependencies:
-      '@astrojs/language-server': 2.10.0(prettier-plugin-astro@0.13.0)(prettier@3.2.5)(typescript@5.3.3)
+      '@astrojs/language-server': 2.10.0(prettier-plugin-astro@0.14.0)(prettier@3.2.5)(typescript@5.3.3)
       chokidar: 3.6.0
       fast-glob: 3.3.2
       kleur: 4.1.5
@@ -1073,13 +1073,13 @@ packages:
       - prettier-plugin-astro
     dev: false
 
-  /@astrojs/check@0.7.0(prettier-plugin-astro@0.13.0)(prettier@3.2.5)(typescript@5.4.5):
+  /@astrojs/check@0.7.0(prettier-plugin-astro@0.14.0)(prettier@3.2.5)(typescript@5.4.5):
     resolution: {integrity: sha512-UTqwOeKNu9IYZmJXEeWnQuTdSd/pX58Hl4TUARsMlT97SVDL//kLBE4T/ctxRz6J573N87oE5ddtW/uOOnQTug==}
     hasBin: true
     peerDependencies:
       typescript: ^5.0.0
     dependencies:
-      '@astrojs/language-server': 2.10.0(prettier-plugin-astro@0.13.0)(prettier@3.2.5)(typescript@5.4.5)
+      '@astrojs/language-server': 2.10.0(prettier-plugin-astro@0.14.0)(prettier@3.2.5)(typescript@5.4.5)
       chokidar: 3.6.0
       fast-glob: 3.3.2
       kleur: 4.1.5
@@ -1100,7 +1100,7 @@ packages:
     resolution: {integrity: sha512-6B13lz5n6BrbTqCTwhXjJXuR1sqiX/H6rTxzlXx+lN1NnV4jgnq/KJldCQaUWJzPL5SiWahQyinxAbxQtwgPHA==}
     dev: false
 
-  /@astrojs/language-server@2.10.0(prettier-plugin-astro@0.13.0)(prettier@3.2.5)(typescript@5.3.3):
+  /@astrojs/language-server@2.10.0(prettier-plugin-astro@0.14.0)(prettier@3.2.5)(typescript@5.3.3):
     resolution: {integrity: sha512-crHXpqYfA5qWioiuZnZFpTsNItgBlF1f0S9MzDYS7/pfCALkHNJ7K3w9U/j0uMKymsT4hC7BfMaX0DYlfdSzHg==}
     hasBin: true
     peerDependencies:
@@ -1121,7 +1121,7 @@ packages:
       '@volar/typescript': 2.2.5
       fast-glob: 3.3.2
       prettier: 3.2.5
-      prettier-plugin-astro: 0.13.0
+      prettier-plugin-astro: 0.14.0
       volar-service-css: 0.0.45(@volar/language-service@2.2.5)
       volar-service-emmet: 0.0.45(@volar/language-service@2.2.5)
       volar-service-html: 0.0.45(@volar/language-service@2.2.5)
@@ -1134,7 +1134,7 @@ packages:
       - typescript
     dev: false
 
-  /@astrojs/language-server@2.10.0(prettier-plugin-astro@0.13.0)(prettier@3.2.5)(typescript@5.4.5):
+  /@astrojs/language-server@2.10.0(prettier-plugin-astro@0.14.0)(prettier@3.2.5)(typescript@5.4.5):
     resolution: {integrity: sha512-crHXpqYfA5qWioiuZnZFpTsNItgBlF1f0S9MzDYS7/pfCALkHNJ7K3w9U/j0uMKymsT4hC7BfMaX0DYlfdSzHg==}
     hasBin: true
     peerDependencies:
@@ -1155,7 +1155,7 @@ packages:
       '@volar/typescript': 2.2.5
       fast-glob: 3.3.2
       prettier: 3.2.5
-      prettier-plugin-astro: 0.13.0
+      prettier-plugin-astro: 0.14.0
       volar-service-css: 0.0.45(@volar/language-service@2.2.5)
       volar-service-emmet: 0.0.45(@volar/language-service@2.2.5)
       volar-service-html: 0.0.45(@volar/language-service@2.2.5)
@@ -9499,15 +9499,15 @@ packages:
     engines: {node: '>= 0.8.0'}
     dev: true
 
-  /prettier-plugin-astro@0.13.0:
-    resolution: {integrity: sha512-5HrJNnPmZqTUNoA97zn4gNQv9BgVhv+et03314WpQ9H9N8m2L9OSV798olwmG2YLXPl1iSstlJCR1zB3x5xG4g==}
+  /prettier-plugin-astro@0.14.0:
+    resolution: {integrity: sha512-7jRGJsexaRIyUzTk8uzXlP45cw6DQ5Ci4bTe0xCBCcuO1Fff8jJy9oI+kRCQKSdDFTSAArMSg8GpvzlKBtSaZA==}
     engines: {node: ^14.15.0 || >=16.0.0}
     dependencies:
       '@astrojs/compiler': 1.8.2
       prettier: 3.2.5
       sass-formatter: 0.7.9
 
-  /prettier-plugin-tailwindcss@0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.13.0)(prettier@3.2.5):
+  /prettier-plugin-tailwindcss@0.6.0(@ianvs/prettier-plugin-sort-imports@4.2.1)(prettier-plugin-astro@0.14.0)(prettier@3.2.5):
     resolution: {integrity: sha512-l5F3iG54XbOq/2DOPP/YA+c6VE3/qXrcBccntq2v7PSxtEc+J6SwsuTyDHxoFK1+jAlcU/hECBfzn6MON6ENBg==}
     engines: {node: '>=14.21.3'}
     peerDependencies:
@@ -9561,7 +9561,7 @@ packages:
     dependencies:
       '@ianvs/prettier-plugin-sort-imports': 4.2.1(prettier@3.2.5)
       prettier: 3.2.5
-      prettier-plugin-astro: 0.13.0
+      prettier-plugin-astro: 0.14.0
     dev: true
 
   /prettier@3.2.5:
