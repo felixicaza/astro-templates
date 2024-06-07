@@ -529,8 +529,8 @@ importers:
         specifier: 0.7.0
         version: 0.7.0(prettier-plugin-astro@0.14.0)(prettier@3.2.5)(typescript@5.3.3)
       '@astrojs/react':
-        specifier: 3.4.0
-        version: 3.4.0(@types/react-dom@18.3.0)(@types/react@18.3.3)(react-dom@18.3.1)(react@18.3.1)(vite@5.2.12)
+        specifier: 3.5.0
+        version: 3.5.0(@types/react-dom@18.3.0)(@types/react@18.3.3)(react-dom@18.3.1)(react@18.3.1)(vite@5.2.12)
       '@astrojs/tailwind':
         specifier: 5.1.0
         version: 5.1.0(astro@4.9.2)(tailwindcss@3.4.3)
@@ -647,8 +647,8 @@ importers:
         specifier: 0.7.0
         version: 0.7.0(prettier-plugin-astro@0.14.0)(prettier@3.2.5)(typescript@5.3.3)
       '@astrojs/react':
-        specifier: 3.4.0
-        version: 3.4.0(@types/react-dom@18.3.0)(@types/react@18.3.3)(react-dom@18.3.1)(react@18.3.1)(vite@5.2.12)
+        specifier: 3.5.0
+        version: 3.5.0(@types/react-dom@18.3.0)(@types/react@18.3.3)(react-dom@18.3.1)(react@18.3.1)(vite@5.2.12)
       '@astrojs/tailwind':
         specifier: 5.1.0
         version: 5.1.0(astro@4.9.2)(tailwindcss@3.4.3)
@@ -768,8 +768,8 @@ importers:
         specifier: 0.7.0
         version: 0.7.0(prettier-plugin-astro@0.14.0)(prettier@3.2.5)(typescript@5.3.3)
       '@astrojs/react':
-        specifier: 3.4.0
-        version: 3.4.0(@types/react-dom@18.3.0)(@types/react@18.3.3)(react-dom@18.3.1)(react@18.3.1)(vite@5.2.12)
+        specifier: 3.5.0
+        version: 3.5.0(@types/react-dom@18.3.0)(@types/react@18.3.3)(react-dom@18.3.1)(react@18.3.1)(vite@5.2.12)
       '@astrojs/tailwind':
         specifier: 5.1.0
         version: 5.1.0(astro@4.9.2)(tailwindcss@3.4.3)
@@ -895,8 +895,8 @@ importers:
         specifier: 0.7.0
         version: 0.7.0(prettier-plugin-astro@0.14.0)(prettier@3.2.5)(typescript@5.3.3)
       '@astrojs/react':
-        specifier: 3.4.0
-        version: 3.4.0(@types/react-dom@18.3.0)(@types/react@18.3.3)(react-dom@18.3.1)(react@18.3.1)(vite@5.2.12)
+        specifier: 3.5.0
+        version: 3.5.0(@types/react-dom@18.3.0)(@types/react@18.3.3)(react-dom@18.3.1)(react@18.3.1)(vite@5.2.12)
       '@astrojs/tailwind':
         specifier: 5.1.0
         version: 5.1.0(astro@4.9.2)(tailwindcss@3.4.3)
@@ -1200,8 +1200,8 @@ packages:
       prismjs: 1.29.0
     dev: false
 
-  /@astrojs/react@3.4.0(@types/react-dom@18.3.0)(@types/react@18.3.3)(react-dom@18.3.1)(react@18.3.1)(vite@5.2.12):
-    resolution: {integrity: sha512-5MpU+1WVqirEIoEmF1r6HkxqjOWEMjni/qCzPX/oaSyumOZNdCGfDN9GoGJhgSxiZOVfob+MNy46H4d3AgrYpQ==}
+  /@astrojs/react@3.5.0(@types/react-dom@18.3.0)(@types/react@18.3.3)(react-dom@18.3.1)(react@18.3.1)(vite@5.2.12):
+    resolution: {integrity: sha512-+xXL2kAvURlCOnWBem4CnoUuy1XW1u284esEHN+i7ds3zcs7lLquDQNRvPu2fSW/auUMcLdllAZC631seXwI8g==}
     engines: {node: ^18.17.1 || ^20.3.0 || >=21.0.0}
     peerDependencies:
       '@types/react': ^17.0.50 || ^18.0.21
