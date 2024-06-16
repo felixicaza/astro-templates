@@ -75,8 +75,8 @@ importers:
         specifier: 17.1.0
         version: 17.1.0(eslint-plugin-import@2.29.1)(eslint-plugin-n@16.6.2)(eslint-plugin-promise@6.1.1)(eslint@8.57.0)
       eslint-plugin-astro:
-        specifier: 1.2.0
-        version: 1.2.0(eslint@8.57.0)(typescript@5.3.3)
+        specifier: 1.2.2
+        version: 1.2.2(eslint@8.57.0)(typescript@5.3.3)
       eslint-plugin-import:
         specifier: 2.29.1
         version: 2.29.1(@typescript-eslint/parser@7.0.0)(eslint@8.57.0)
@@ -175,8 +175,8 @@ importers:
         specifier: 17.1.0
         version: 17.1.0(eslint-plugin-import@2.29.1)(eslint-plugin-n@16.6.2)(eslint-plugin-promise@6.1.1)(eslint@8.57.0)
       eslint-plugin-astro:
-        specifier: 1.2.0
-        version: 1.2.0(eslint@8.57.0)(typescript@5.3.3)
+        specifier: 1.2.2
+        version: 1.2.2(eslint@8.57.0)(typescript@5.3.3)
       eslint-plugin-import:
         specifier: 2.29.1
         version: 2.29.1(@typescript-eslint/parser@7.0.0)(eslint@8.57.0)
@@ -278,8 +278,8 @@ importers:
         specifier: 17.1.0
         version: 17.1.0(eslint-plugin-import@2.29.1)(eslint-plugin-n@16.6.2)(eslint-plugin-promise@6.1.1)(eslint@8.57.0)
       eslint-plugin-astro:
-        specifier: 1.2.0
-        version: 1.2.0(eslint@8.57.0)(typescript@5.4.5)
+        specifier: 1.2.2
+        version: 1.2.2(eslint@8.57.0)(typescript@5.4.5)
       eslint-plugin-import:
         specifier: 2.29.1
         version: 2.29.1(@typescript-eslint/parser@7.0.0)(eslint@8.57.0)
@@ -384,8 +384,8 @@ importers:
         specifier: 17.1.0
         version: 17.1.0(eslint-plugin-import@2.29.1)(eslint-plugin-n@16.6.2)(eslint-plugin-promise@6.1.1)(eslint@8.57.0)
       eslint-plugin-astro:
-        specifier: 1.2.0
-        version: 1.2.0(eslint@8.57.0)(typescript@5.3.3)
+        specifier: 1.2.2
+        version: 1.2.2(eslint@8.57.0)(typescript@5.3.3)
       eslint-plugin-import:
         specifier: 2.29.1
         version: 2.29.1(@typescript-eslint/parser@7.0.0)(eslint@8.57.0)
@@ -493,8 +493,8 @@ importers:
         specifier: 17.1.0
         version: 17.1.0(eslint-plugin-import@2.29.1)(eslint-plugin-n@16.6.2)(eslint-plugin-promise@6.1.1)(eslint@8.57.0)
       eslint-plugin-astro:
-        specifier: 1.2.0
-        version: 1.2.0(eslint@8.57.0)(typescript@5.3.3)
+        specifier: 1.2.2
+        version: 1.2.2(eslint@8.57.0)(typescript@5.3.3)
       eslint-plugin-import:
         specifier: 2.29.1
         version: 2.29.1(@typescript-eslint/parser@7.0.0)(eslint@8.57.0)
@@ -605,8 +605,8 @@ importers:
         specifier: 17.1.0
         version: 17.1.0(eslint-plugin-import@2.29.1)(eslint-plugin-n@16.6.2)(eslint-plugin-promise@6.1.1)(eslint@8.57.0)
       eslint-plugin-astro:
-        specifier: 1.2.0
-        version: 1.2.0(eslint@8.57.0)(typescript@5.3.3)
+        specifier: 1.2.2
+        version: 1.2.2(eslint@8.57.0)(typescript@5.3.3)
       eslint-plugin-import:
         specifier: 2.29.1
         version: 2.29.1(@typescript-eslint/parser@7.0.0)(eslint@8.57.0)
@@ -726,8 +726,8 @@ importers:
         specifier: 17.1.0
         version: 17.1.0(eslint-plugin-import@2.29.1)(eslint-plugin-n@16.6.2)(eslint-plugin-promise@6.1.1)(eslint@8.57.0)
       eslint-plugin-astro:
-        specifier: 1.2.0
-        version: 1.2.0(eslint@8.57.0)(typescript@5.3.3)
+        specifier: 1.2.2
+        version: 1.2.2(eslint@8.57.0)(typescript@5.3.3)
       eslint-plugin-import:
         specifier: 2.29.1
         version: 2.29.1(@typescript-eslint/parser@7.0.0)(eslint@8.57.0)
@@ -853,8 +853,8 @@ importers:
         specifier: 17.1.0
         version: 17.1.0(eslint-plugin-import@2.29.1)(eslint-plugin-n@16.6.2)(eslint-plugin-promise@6.1.1)(eslint@8.57.0)
       eslint-plugin-astro:
-        specifier: 1.2.0
-        version: 1.2.0(eslint@8.57.0)(typescript@5.3.3)
+        specifier: 1.2.2
+        version: 1.2.2(eslint@8.57.0)(typescript@5.3.3)
       eslint-plugin-import:
         specifier: 2.29.1
         version: 2.29.1(@typescript-eslint/parser@7.0.0)(eslint@8.57.0)
@@ -983,8 +983,8 @@ importers:
         specifier: 17.1.0
         version: 17.1.0(eslint-plugin-import@2.29.1)(eslint-plugin-n@16.6.2)(eslint-plugin-promise@6.1.1)(eslint@8.57.0)
       eslint-plugin-astro:
-        specifier: 1.2.0
-        version: 1.2.0(eslint@8.57.0)(typescript@5.3.3)
+        specifier: 1.2.2
+        version: 1.2.2(eslint@8.57.0)(typescript@5.3.3)
       eslint-plugin-import:
         specifier: 2.29.1
         version: 2.29.1(@typescript-eslint/parser@7.0.0)(eslint@8.57.0)
@@ -6409,8 +6409,8 @@ packages:
       - supports-color
     dev: true
 
-  /eslint-plugin-astro@1.2.0(eslint@8.57.0)(typescript@5.3.3):
-    resolution: {integrity: sha512-Z2b/7a9EUNu8PWch6/fUKXTCj10hrbdVsR1CmUgke5nfrJuej+uUnL5z5hd9/IIWxLdSbk5Fowf/nyfbmhRmDQ==}
+  /eslint-plugin-astro@1.2.2(eslint@8.57.0)(typescript@5.3.3):
+    resolution: {integrity: sha512-3UUWo/gwk/YhurYpFKgLJswV33kR9zhtzXk+u2g3WE5Px07wDtWSR3PoyPadHERA4g/9TCCGjsimU/TZyUKxow==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
     peerDependencies:
       eslint: '>=8.57.0'
@@ -6429,8 +6429,8 @@ packages:
       - typescript
     dev: true
 
-  /eslint-plugin-astro@1.2.0(eslint@8.57.0)(typescript@5.4.5):
-    resolution: {integrity: sha512-Z2b/7a9EUNu8PWch6/fUKXTCj10hrbdVsR1CmUgke5nfrJuej+uUnL5z5hd9/IIWxLdSbk5Fowf/nyfbmhRmDQ==}
+  /eslint-plugin-astro@1.2.2(eslint@8.57.0)(typescript@5.4.5):
+    resolution: {integrity: sha512-3UUWo/gwk/YhurYpFKgLJswV33kR9zhtzXk+u2g3WE5Px07wDtWSR3PoyPadHERA4g/9TCCGjsimU/TZyUKxow==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
     peerDependencies:
       eslint: '>=8.57.0'
