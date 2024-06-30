@@ -62,6 +62,28 @@ module.exports = {
       rules: {
         '@typescript-eslint/space-before-function-paren': 'off'
       }
+    },
+    {
+      files: ['*.tsx'],
+      parser: '@typescript-eslint/parser',
+      parserOptions: {
+        project: ['./tsconfig.json']
+      },
+      extends: [
+        'plugin:react/recommended',
+        'plugin:react/jsx-runtime',
+        'plugin:jsx-a11y/recommended',
+        'love'
+      ],
+      plugins: ['react', 'jsx-a11y'],
+      rules: {
+        '@typescript-eslint/space-before-function-paren': 'off'
+      },
+      settings: {
+        react: {
+          version: 'detect'
+        }
+      }
     }
   ]
 }

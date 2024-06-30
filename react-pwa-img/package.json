@@ -19,6 +19,10 @@
       "eslint --cache --fix --ext .astro ./src/",
       "prettier --cache --write \"./src/**/*.astro\""
     ],
+    "./src/**/*.tsx": [
+      "eslint --cache --fix --ext .tsx ./src/",
+      "prettier --cache --write \"./src/**/*.tsx\""
+    ],
     "./src/**/*.css": "prettier --cache --write \"./src/**/*.css\"",
     "./**/*.json": "prettier --cache --write \"./**/*.json\"",
     "./**/*.yml": "prettier --cache --write \"./**/*.yml\""
