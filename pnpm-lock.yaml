@@ -62,6 +62,9 @@ importers:
       '@typescript-eslint/parser':
         specifier: 7.0.0
         version: 7.0.0(eslint@8.57.0)(typescript@5.3.3)
+      astro-eslint-parser:
+        specifier: 1.0.2
+        version: 1.0.2(typescript@5.3.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
@@ -162,6 +165,9 @@ importers:
       '@typescript-eslint/parser':
         specifier: 7.0.0
         version: 7.0.0(eslint@8.57.0)(typescript@5.3.3)
+      astro-eslint-parser:
+        specifier: 1.0.2
+        version: 1.0.2(typescript@5.3.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
@@ -265,6 +271,9 @@ importers:
       '@typescript-eslint/parser':
         specifier: 7.0.0
         version: 7.0.0(eslint@8.57.0)(typescript@5.5.2)
+      astro-eslint-parser:
+        specifier: 1.0.2
+        version: 1.0.2(typescript@5.5.2)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
@@ -371,6 +380,9 @@ importers:
       '@typescript-eslint/parser':
         specifier: 7.0.0
         version: 7.0.0(eslint@8.57.0)(typescript@5.3.3)
+      astro-eslint-parser:
+        specifier: 1.0.2
+        version: 1.0.2(typescript@5.3.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
@@ -480,6 +492,9 @@ importers:
       '@typescript-eslint/parser':
         specifier: 7.0.0
         version: 7.0.0(eslint@8.57.0)(typescript@5.3.3)
+      astro-eslint-parser:
+        specifier: 1.0.2
+        version: 1.0.2(typescript@5.3.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
@@ -592,6 +607,9 @@ importers:
       '@typescript-eslint/parser':
         specifier: 7.0.0
         version: 7.0.0(eslint@8.57.0)(typescript@5.3.3)
+      astro-eslint-parser:
+        specifier: 1.0.2
+        version: 1.0.2(typescript@5.3.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
@@ -713,6 +731,9 @@ importers:
       '@typescript-eslint/parser':
         specifier: 7.0.0
         version: 7.0.0(eslint@8.57.0)(typescript@5.3.3)
+      astro-eslint-parser:
+        specifier: 1.0.2
+        version: 1.0.2(typescript@5.3.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
@@ -840,6 +861,9 @@ importers:
       '@typescript-eslint/parser':
         specifier: 7.0.0
         version: 7.0.0(eslint@8.57.0)(typescript@5.3.3)
+      astro-eslint-parser:
+        specifier: 1.0.2
+        version: 1.0.2(typescript@5.3.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
@@ -970,6 +994,9 @@ importers:
       '@typescript-eslint/parser':
         specifier: 7.0.0
         version: 7.0.0(eslint@8.57.0)(typescript@5.3.3)
+      astro-eslint-parser:
+        specifier: 1.0.2
+        version: 1.0.2(typescript@5.3.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
@@ -7957,7 +7984,7 @@ snapshots:
 
   '@types/sax@1.2.7':
     dependencies:
-      '@types/node': 17.0.45
+      '@types/node': 20.14.9
 
   '@types/semver@7.5.8': {}
 
