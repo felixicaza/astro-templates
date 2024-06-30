@@ -13,6 +13,7 @@ A collection of Astro templates. _(mostly for personal use)_
 - ⚙️ SEO focus
 - 🖼️ Image processing
 - ✨ SVG icons support
+- 🪄 Cross-document view transitions ([Reference](https://developer.chrome.com/docs/web-platform/view-transitions/cross-document))
 - 💅 Tailwind support
 - 📱 Progressive Web App support
 - ⚛ Integration with React
