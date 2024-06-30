@@ -25,7 +25,8 @@ const config = {
     {
       files: '*.{yaml,yml}',
       options: {
-        tabWidth: 3
+        tabWidth: 3,
+        singleQuote: false
       }
     }
   ],
