@@ -30,7 +30,7 @@
     "@playform/compress": "0.0.13",
     "@playform/inline": "0.0.7",
     "@vite-pwa/astro": "0.4.0",
-    "astro": "4.11.5",
+    "astro": "4.12.1",
     "astro-compressor": "0.4.1",
     "astro-iconify": "1.2.0",
     "astro-imagetools": "0.9.0",
