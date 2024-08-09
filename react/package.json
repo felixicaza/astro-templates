@@ -32,7 +32,7 @@
     "@astrojs/react": "3.6.1",
     "@astrojs/tailwind": "5.1.0",
     "@kindspells/astro-shield": "1.3.6",
-    "@playform/compress": "0.1.0",
+    "@playform/compress": "0.1.1",
     "@playform/inline": "0.1.0",
     "@types/react": "18.3.3",
     "@types/react-dom": "18.3.0",
