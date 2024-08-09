@@ -60,7 +60,8 @@ module.exports = {
       },
       extends: ['love'],
       rules: {
-        '@typescript-eslint/space-before-function-paren': 'off'
+        '@typescript-eslint/space-before-function-paren': 'off',
+        '@typescript-eslint/triple-slash-reference': 'off'
       }
     }
   ]

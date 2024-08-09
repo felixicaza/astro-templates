@@ -77,7 +77,8 @@ module.exports = {
       ],
       plugins: ['react', 'jsx-a11y'],
       rules: {
-        '@typescript-eslint/space-before-function-paren': 'off'
+        '@typescript-eslint/space-before-function-paren': 'off',
+        '@typescript-eslint/triple-slash-reference': 'off'
       },
       settings: {
         react: {
