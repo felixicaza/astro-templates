@@ -15,6 +15,10 @@
       "eslint --cache --fix --ext .js,.mjs,.cjs ./",
       "prettier --cache --write \"./**/*.{js,mjs,cjs}\""
     ],
+    "./**/*.ts": [
+      "eslint --cache --fix --ext .ts ./",
+      "prettier --cache --write \"./**/*.ts\""
+    ],
     "./src/**/*.astro": [
       "eslint --cache --fix --ext .astro ./src/",
       "prettier --cache --write \"./src/**/*.astro\""
