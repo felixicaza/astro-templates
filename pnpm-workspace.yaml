@@ -2,6 +2,7 @@ packages:
    - "base"
    - "base-img"
    - "i18n"
+   - "i18n-img"
    - "pwa"
    - "pwa-img"
    - "react"
