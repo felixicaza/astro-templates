@@ -9,6 +9,11 @@
       "@pages/*": ["src/pages/*"],
       "@scripts/*": ["src/scripts/*"],
       "@styles/*": ["src/styles/*"]
-    }
+    },
+    "plugins": [
+      {
+        "name": "@astrojs/ts-plugin"
+      }
+    ]
   }
 }
