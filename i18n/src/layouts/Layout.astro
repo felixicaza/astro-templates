@@ -132,7 +132,10 @@ const { title, description, metaRobots } = options
     {description && <meta name="description" content={description} />}
     {description && <link href={Astro.url.href} rel="canonical" />}
     <I18NHead />
-    <meta name="author" content="Felix Icaza - https://felixicaza.com" />
+    <meta
+      name="author"
+      content="Astro Templates - https://github.com/felixicaza/astro-templates"
+    />
     <meta name="generator" content={Astro.generator} />
 
     {
@@ -140,20 +143,17 @@ const { title, description, metaRobots } = options
         <Schema
           item={{
             '@context': 'https://schema.org',
-            '@type': 'Person',
-            name: 'Felix Icaza',
-            url: 'https://felixicaza.com',
-            image: 'https://felixicaza.com/img/felixicaza.jpg',
-            sameAs: [
-              'https://felixicaza.com',
-              'https://www.upwork.com/freelancers/felixicaza',
-              'https://www.linkedin.com/in/felixicaza',
-              'https://github.com/felixicaza'
-            ],
-            jobTitle: 'Desarrollador Web',
-            worksFor: {
-              '@type': 'Organization',
-              name: 'Felix Icaza'
+            '@type': 'Organization',
+            name: '',
+            description: '',
+            image: '',
+            logo: '',
+            url: '',
+            telephone: '',
+            sameAs: [''],
+            address: {
+              '@type': 'PostalAddress',
+              addressCountry: ''
             }
           }}
         />
@@ -172,9 +172,5 @@ const { title, description, metaRobots } = options
     <slot />
 
     <slot name="dynamic-components" />
-
-    <script>
-      import '@scripts/logger.js'
-    </script>
   </body>
 </html>
