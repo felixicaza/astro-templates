@@ -1,6 +1,6 @@
 # 🚀 Astro Templates
 
-A collection of Astro templates. _(mostly for personal use)_
+A collection of Astro templates.
 
 ## 👀 Features
 
