@@ -5,7 +5,6 @@ import tailwind from '@astrojs/tailwind'
 import { astroImageTools } from 'astro-imagetools'
 import i18n from '@astrolicious/i18n'
 import playformInline from '@playform/inline'
-import { shield } from '@kindspells/astro-shield'
 import sitemap from 'astro-sitemap'
 import playformCompress from '@playform/compress'
 import compressor from 'astro-compressor'
@@ -32,11 +31,6 @@ export default defineConfig({
       locales: ['en', 'es']
     }),
     playformInline(),
-    shield({
-      sri: {
-        enableMiddleware: true
-      }
-    }),
     sitemap({
       canonicalURL: website,
       lastmod: new Date(),

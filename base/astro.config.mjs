@@ -3,7 +3,6 @@ import { defineConfig } from 'astro/config'
 import tunnel from 'astro-tunnel'
 import tailwind from '@astrojs/tailwind'
 import playformInline from '@playform/inline'
-import { shield } from '@kindspells/astro-shield'
 import sitemap from 'astro-sitemap'
 import playformCompress from '@playform/compress'
 import compressor from 'astro-compressor'
@@ -26,11 +25,6 @@ export default defineConfig({
     tunnel(),
     tailwind(),
     playformInline(),
-    shield({
-      sri: {
-        enableMiddleware: true
-      }
-    }),
     sitemap({
       canonicalURL: website,
       lastmod: new Date(),
