@@ -34,7 +34,7 @@
     "@playform/compress": "0.1.1",
     "@playform/inline": "0.1.0",
     "@vite-pwa/astro": "0.4.0",
-    "astro": "4.14.2",
+    "astro": "4.14.5",
     "astro-compressor": "0.4.1",
     "astro-iconify": "1.2.0",
     "astro-seo-schema": "4.0.2",
