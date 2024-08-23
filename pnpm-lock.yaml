@@ -17,8 +17,8 @@ importers:
         specifier: 5.1.0
         version: 5.1.0(astro@4.14.2(@types/node@22.4.0)(lightningcss@1.25.1)(rollup@4.20.0)(terser@5.31.6)(typescript@5.3.3))(tailwindcss@3.4.10)
       '@astrojs/ts-plugin':
-        specifier: 1.10.0
-        version: 1.10.0
+        specifier: 1.10.1
+        version: 1.10.1
       '@playform/compress':
         specifier: 0.1.1
         version: 0.1.1(@types/node@22.4.0)(rollup@4.20.0)(typescript@5.3.3)
@@ -117,8 +117,8 @@ importers:
         specifier: 5.1.0
         version: 5.1.0(astro@4.14.2(@types/node@22.4.0)(lightningcss@1.25.1)(rollup@4.20.0)(terser@5.31.6)(typescript@5.3.3))(tailwindcss@3.4.10)
       '@astrojs/ts-plugin':
-        specifier: 1.10.0
-        version: 1.10.0
+        specifier: 1.10.1
+        version: 1.10.1
       '@playform/compress':
         specifier: 0.1.1
         version: 0.1.1(@types/node@22.4.0)(rollup@4.20.0)(typescript@5.3.3)
@@ -220,8 +220,8 @@ importers:
         specifier: 5.1.0
         version: 5.1.0(astro@4.14.2(@types/node@22.4.0)(lightningcss@1.25.1)(rollup@4.20.0)(terser@5.31.6)(typescript@5.5.4))(tailwindcss@3.4.10)
       '@astrojs/ts-plugin':
-        specifier: 1.10.0
-        version: 1.10.0
+        specifier: 1.10.1
+        version: 1.10.1
       '@astrolicious/i18n':
         specifier: 0.4.3
         version: 0.4.3(@types/node@22.4.0)(astro@4.14.2(@types/node@22.4.0)(lightningcss@1.25.1)(rollup@4.20.0)(terser@5.31.6)(typescript@5.5.4))(i18next@23.13.0)(lightningcss@1.25.1)(terser@5.31.6)
@@ -435,8 +435,8 @@ importers:
         specifier: 5.1.0
         version: 5.1.0(astro@4.14.2(@types/node@22.4.0)(lightningcss@1.25.1)(rollup@2.79.1)(terser@5.31.6)(typescript@5.3.3))(tailwindcss@3.4.10)
       '@astrojs/ts-plugin':
-        specifier: 1.10.0
-        version: 1.10.0
+        specifier: 1.10.1
+        version: 1.10.1
       '@playform/compress':
         specifier: 0.1.1
         version: 0.1.1(@types/node@22.4.0)(rollup@2.79.1)(typescript@5.3.3)
@@ -544,8 +544,8 @@ importers:
         specifier: 5.1.0
         version: 5.1.0(astro@4.14.2(@types/node@22.4.0)(lightningcss@1.25.1)(rollup@4.20.0)(terser@5.31.6)(typescript@5.3.3))(tailwindcss@3.4.10)
       '@astrojs/ts-plugin':
-        specifier: 1.10.0
-        version: 1.10.0
+        specifier: 1.10.1
+        version: 1.10.1
       '@playform/compress':
         specifier: 0.1.1
         version: 0.1.1(@types/node@22.4.0)(rollup@4.20.0)(typescript@5.3.3)
@@ -659,8 +659,8 @@ importers:
         specifier: 5.1.0
         version: 5.1.0(astro@4.14.2(@types/node@22.4.0)(lightningcss@1.25.1)(rollup@4.20.0)(terser@5.31.6)(typescript@5.3.3))(tailwindcss@3.4.10)
       '@astrojs/ts-plugin':
-        specifier: 1.10.0
-        version: 1.10.0
+        specifier: 1.10.1
+        version: 1.10.1
       '@playform/compress':
         specifier: 0.1.1
         version: 0.1.1(@types/node@22.4.0)(rollup@4.20.0)(typescript@5.3.3)
@@ -780,8 +780,8 @@ importers:
         specifier: 5.1.0
         version: 5.1.0(astro@4.14.2(@types/node@22.4.0)(lightningcss@1.25.1)(rollup@4.20.0)(terser@5.31.6)(typescript@5.3.3))(tailwindcss@3.4.10)
       '@astrojs/ts-plugin':
-        specifier: 1.10.0
-        version: 1.10.0
+        specifier: 1.10.1
+        version: 1.10.1
       '@playform/compress':
         specifier: 0.1.1
         version: 0.1.1(@types/node@22.4.0)(rollup@4.20.0)(typescript@5.3.3)
@@ -904,8 +904,8 @@ importers:
         specifier: 5.1.0
         version: 5.1.0(astro@4.14.2(@types/node@22.4.0)(lightningcss@1.25.1)(rollup@4.20.0)(terser@5.31.6)(typescript@5.3.3))(tailwindcss@3.4.10)
       '@astrojs/ts-plugin':
-        specifier: 1.10.0
-        version: 1.10.0
+        specifier: 1.10.1
+        version: 1.10.1
       '@playform/compress':
         specifier: 0.1.1
         version: 0.1.1(@types/node@22.4.0)(rollup@4.20.0)(typescript@5.3.3)
@@ -1034,8 +1034,8 @@ importers:
         specifier: 5.1.0
         version: 5.1.0(astro@4.14.2(@types/node@22.4.0)(lightningcss@1.25.1)(rollup@4.20.0)(terser@5.31.6)(typescript@5.3.3))(tailwindcss@3.4.10)
       '@astrojs/ts-plugin':
-        specifier: 1.10.0
-        version: 1.10.0
+        specifier: 1.10.1
+        version: 1.10.1
       '@playform/compress':
         specifier: 0.1.1
         version: 0.1.1(@types/node@22.4.0)(rollup@4.20.0)(typescript@5.3.3)
@@ -1227,11 +1227,14 @@ packages:
     resolution: {integrity: sha512-/ca/+D8MIKEC8/A9cSaPUqQNZm+Es/ZinRv0ZAzvu2ios7POQSsVD+VOj7/hypWNsNM3T7RpfgNq7H2TU1KEHA==}
     engines: {node: ^18.17.1 || ^20.3.0 || >=21.0.0}
 
-  '@astrojs/ts-plugin@1.10.0':
-    resolution: {integrity: sha512-BPGtNXBogGs5g1Ys+EjQ4EsB6tWuG7WZ1yZ8wxNG34SdqUQFfI/IJPCo1r7Ss2hJ6SzF77MJEZo2qLv+K6mL9Q==}
+  '@astrojs/ts-plugin@1.10.1':
+    resolution: {integrity: sha512-T7Z8fob6bkgLlcYiJSsn84wF5XelS0VJSEC4BRPnEHZj3eeOrmmMl8uZqBTJ+zArGMOfyhhA7X+SUGRIAZApHQ==}
 
   '@astrojs/yaml2ts@0.2.0':
     resolution: {integrity: sha512-xyJ2JpenXis5V2yk4OExNyHXyRlCKrJcPfNPLK0rqf24grqpRZ4bYD/ztesYicYlaXehH9aUJXG0mVu8P02G9A==}
+
+  '@astrojs/yaml2ts@0.2.1':
+    resolution: {integrity: sha512-CBaNwDQJz20E5WxzQh4thLVfhB3JEEGz72wRA+oJp6fQR37QLAqXZJU0mHC+yqMOQ6oj0GfRPJrz6hjf+zm6zA==}
 
   '@astrolicious/i18n@0.4.3':
     resolution: {integrity: sha512-nDmK3pkve2D6WeEHeLqikmIIt6UulCsyT0NWV+oUbrFFTXen3K8Cptty4JFxOo5qDM7O03BLQOOocxrfjjLjwQ==}
@@ -2873,6 +2876,9 @@ packages:
     peerDependencies:
       typescript: '*'
 
+  '@volar/language-core@2.4.0':
+    resolution: {integrity: sha512-FTla+khE+sYK0qJP+6hwPAAUwiNHVMph4RUXpxf/FIPKUP61NFrVZorml4mjFShnueR2y9/j8/vnh09YwVdH7A==}
+
   '@volar/language-core@2.4.0-alpha.18':
     resolution: {integrity: sha512-JAYeJvYQQROmVRtSBIczaPjP3DX4QW1fOqW1Ebs0d3Y3EwSNRglz03dSv0Dm61dzd0Yx3WgTW3hndDnTQqgmyg==}
 
@@ -2885,8 +2891,14 @@ packages:
   '@volar/snapshot-document@2.4.0-alpha.18':
     resolution: {integrity: sha512-JAeclEly/wnILhR4Pu9MpgBLInZJH49O1zoy8fU+pk5I+zpv7JIEby5z2UFAS60+sIDnxBdAGd7rZ5VibE70vg==}
 
+  '@volar/source-map@2.4.0':
+    resolution: {integrity: sha512-2ceY8/NEZvN6F44TXw2qRP6AQsvCYhV2bxaBPWxV9HqIfkbRydSksTFObCF1DBDNBfKiZTS8G/4vqV6cvjdOIQ==}
+
   '@volar/source-map@2.4.0-alpha.18':
     resolution: {integrity: sha512-MTeCV9MUwwsH0sNFiZwKtFrrVZUK6p8ioZs3xFzHc2cvDXHWlYN3bChdQtwKX+FY2HG6H3CfAu1pKijolzIQ8g==}
+
+  '@volar/typescript@2.4.0':
+    resolution: {integrity: sha512-9zx3lQWgHmVd+JRRAHUSRiEhe4TlzL7U7e6ulWXOxHH/WNYxzKwCvZD7WYWEZFdw4dHfTD9vUR0yPQO6GilCaQ==}
 
   '@volar/typescript@2.4.0-alpha.18':
     resolution: {integrity: sha512-sXh5Y8sqGUkgxpMWUGvRXggxYHAVxg0Pa1C42lQZuPDrW6vHJPR0VCK8Sr7WJsAW530HuNQT/ZIskmXtxjybMQ==}
@@ -6663,17 +6675,21 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@astrojs/ts-plugin@1.10.0':
+  '@astrojs/ts-plugin@1.10.1':
     dependencies:
       '@astrojs/compiler': 2.10.3
-      '@astrojs/yaml2ts': 0.2.0
+      '@astrojs/yaml2ts': 0.2.1
       '@jridgewell/sourcemap-codec': 1.5.0
-      '@volar/language-core': 2.4.0-alpha.18
-      '@volar/typescript': 2.4.0-alpha.18
+      '@volar/language-core': 2.4.0
+      '@volar/typescript': 2.4.0
       semver: 7.6.3
       vscode-languageserver-textdocument: 1.0.12
 
   '@astrojs/yaml2ts@0.2.0':
+    dependencies:
+      yaml: 2.5.0
+
+  '@astrojs/yaml2ts@0.2.1':
     dependencies:
       yaml: 2.5.0
 
@@ -8805,6 +8821,10 @@ snapshots:
       vscode-languageserver-textdocument: 1.0.12
       vscode-uri: 3.0.8
 
+  '@volar/language-core@2.4.0':
+    dependencies:
+      '@volar/source-map': 2.4.0
+
   '@volar/language-core@2.4.0-alpha.18':
     dependencies:
       '@volar/source-map': 2.4.0-alpha.18
@@ -8834,7 +8854,15 @@ snapshots:
       vscode-languageserver-protocol: 3.17.5
       vscode-languageserver-textdocument: 1.0.12
 
+  '@volar/source-map@2.4.0': {}
+
   '@volar/source-map@2.4.0-alpha.18': {}
+
+  '@volar/typescript@2.4.0':
+    dependencies:
+      '@volar/language-core': 2.4.0
+      path-browserify: 1.0.1
+      vscode-uri: 3.0.8
 
   '@volar/typescript@2.4.0-alpha.18':
     dependencies:
