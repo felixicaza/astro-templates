@@ -9,6 +9,7 @@ Same as [base](https://github.com/felixicaza/astro-templates/tree/main/base) tem
 - 🚀 Latest version of Astro
 - ✅ ESLint and Prettier ready
 - 🌐 Tunnels ready
+- 🌎 Internationalization ready (i18n)
 - ⚡ Performance focus
 - 🛡️ Security focus
 - ⚙️ SEO focus
