@@ -45,7 +45,7 @@ pnpm create astro@latest --template felixicaza/astro-templates/react-pwa
 - [pwa-img](https://github.com/felixicaza/astro-templates/tree/main/pwa-img): Same as [pwa](https://github.com/felixicaza/astro-templates/tree/main/pwa) but with [astro-imagetools](https://github.com/RafidMuhymin/astro-imagetools) integration for image processing.
 - [react-img](https://github.com/felixicaza/astro-templates/tree/main/react-img/): Same as the this template, but with support for image processing.
 - [react](https://github.com/felixicaza/astro-templates/tree/main/react/): Template with the necessary configurations for island support with React.
-- [react-pwa-img](https://github.com/felixicaza/astro-templates/tree/main/react-pwa-img/): Same as the [react-pwa](https://github.com/felixicaza/astro-templates/tree/main/react-pwa) template, but with support for image processing.
+- [react-pwa-img](https://github.com/felixicaza/astro-templates/tree/main/react-pwa-img/): Same as the this template, but with support for image processing.
 
 ---
 
