@@ -1,0 +1,75 @@
+{
+  "name": "astro-template",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "astro": "astro",
+    "build": "astro check && astro build",
+    "dev": "astro dev",
+    "prepare": "husky",
+    "preview": "astro preview",
+    "start": "astro dev"
+  },
+  "lint-staged": {
+    "./**/*.{js,mjs,cjs}": [
+      "eslint --cache --fix --ext .js,.mjs,.cjs ./",
+      "prettier --cache --write \"./**/*.{js,mjs,cjs}\""
+    ],
+    "./**/*.ts": [
+      "eslint --cache --fix --ext .ts ./",
+      "prettier --cache --write \"./**/*.ts\""
+    ],
+    "./src/**/*.astro": [
+      "eslint --cache --fix --ext .astro ./src/",
+      "prettier --cache --write \"./src/**/*.astro\""
+    ],
+    "./src/**/*.css": "prettier --cache --write \"./src/**/*.css\"",
+    "./**/*.json": "prettier --cache --write \"./**/*.json\"",
+    "./**/*.yml": "prettier --cache --write \"./**/*.yml\""
+  },
+  "dependencies": {
+    "@astrojs/check": "0.9.3",
+    "@astrojs/markdoc": "0.8.0",
+    "@astrojs/node": "8.3.3",
+    "@astrojs/react": "3.6.2",
+    "@astrojs/tailwind": "5.1.0",
+    "@astrojs/ts-plugin": "1.10.1",
+    "@keystatic/astro": "5.0.0",
+    "@keystatic/core": "0.5.32",
+    "@playform/compress": "0.1.1",
+    "@playform/inline": "0.1.0",
+    "@types/react": "18.3.4",
+    "@types/react-dom": "18.3.0",
+    "astro": "4.14.5",
+    "astro-compressor": "0.4.1",
+    "astro-iconify": "1.2.0",
+    "astro-seo-schema": "4.0.2",
+    "astro-sitemap": "1.0.0",
+    "astro-tunnel": "0.1.6",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "schema-dts": "1.1.2",
+    "tailwindcss": "3.4.10",
+    "typescript": "5.3.3"
+  },
+  "devDependencies": {
+    "@ianvs/prettier-plugin-sort-imports": "4.3.1",
+    "@typescript-eslint/eslint-plugin": "7.0.1",
+    "@typescript-eslint/parser": "7.0.0",
+    "astro-eslint-parser": "1.0.2",
+    "eslint": "8.57.0",
+    "eslint-config-love": "47.0.0",
+    "eslint-config-prettier": "9.1.0",
+    "eslint-config-standard": "17.1.0",
+    "eslint-plugin-astro": "1.2.3",
+    "eslint-plugin-import": "2.29.1",
+    "eslint-plugin-jsx-a11y": "6.9.0",
+    "eslint-plugin-n": "16.6.2",
+    "eslint-plugin-promise": "6.1.1",
+    "husky": "9.1.5",
+    "lint-staged": "15.2.9",
+    "prettier": "3.3.3",
+    "prettier-plugin-astro": "0.14.1",
+    "prettier-plugin-tailwindcss": "0.6.6"
+  }
+}

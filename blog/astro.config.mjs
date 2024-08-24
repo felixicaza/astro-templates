@@ -1,0 +1,86 @@
+import { defineConfig } from 'astro/config'
+
+import tunnel from 'astro-tunnel'
+import node from '@astrojs/node'
+import tailwind from '@astrojs/tailwind'
+import react from '@astrojs/react'
+import markdoc from '@astrojs/markdoc'
+import keystatic from '@keystatic/astro'
+import playformInline from '@playform/inline'
+import sitemap from 'astro-sitemap'
+import playformCompress from '@playform/compress'
+import compressor from 'astro-compressor'
+
+const website = 'https://example.com'
+
+// https://astro.build/config
+export default defineConfig({
+  site: website,
+  trailingSlash: 'never',
+  server: {
+    host: true
+  },
+  prefetch: {
+    prefetchAll: true,
+    defaultStrategy: 'viewport'
+  },
+  compressHTML: false,
+  output: 'hybrid',
+  adapter: node({
+    mode: 'standalone'
+  }),
+  integrations: [
+    tunnel(),
+    tailwind(),
+    react(),
+    playformInline(),
+    markdoc(),
+    keystatic(),
+    sitemap({
+      canonicalURL: website,
+      lastmod: new Date(),
+      createLinkInHead: false,
+      xmlns: {
+        xhtml: true
+      },
+      i18n: {
+        defaultLocale: 'es',
+        locales: {
+          es: 'es'
+        }
+      },
+      // Remove trailing slash
+      serialize(item) {
+        /* eslint-disable-next-line no-param-reassign */
+        item.url = item.url.replace(/\/$/g, '')
+        return item
+      }
+    }),
+    playformCompress({
+      HTML: {
+        collapseBooleanAttributes: true,
+        maxLineLength: 0,
+        removeAttributeQuotes: false,
+        removeComments: true,
+        removeEmptyAttributes: true,
+        removeOptionalTags: true,
+        removeRedundantAttributes: true,
+        useShortDoctype: true
+      },
+      JavaScript: {
+        compress: {
+          ecma: 2015
+        },
+        format: {
+          comments: false,
+          ecma: 2015
+        },
+        ecma: 2015,
+        module: true
+      },
+      Image: false,
+      SVG: false
+    }),
+    compressor()
+  ]
+})
