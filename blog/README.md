@@ -1,4 +1,4 @@
-# 🚀 Astro Blog Img Template
+# 🚀 Astro Blog Template
 
 This is the blog template that is part of [Astro Templates](https://github.com/felixicaza/astro-templates).
 
@@ -39,11 +39,11 @@ pnpm create astro@latest --template felixicaza/astro-templates/blog
 - [base](https://github.com/felixicaza/astro-templates/tree/main/base): Template with basic integrations, extra configurations for Astro, SEO schema powered by [astro-seo-schema](https://github.com/codiume/orbit/tree/main/packages/astro-seo-schema), SVG icons support powered by [astro-iconify](https://github.com/manuelmeister/astro-iconify) and Tunnels to improve development enviroment powered by [astro-tunnel](https://github.com/morinokami/astro-tunnel).
 - [base-img](https://github.com/felixicaza/astro-templates/tree/main/base-img): Same as [base](https://github.com/felixicaza/astro-templates/tree/main/base) template but with [astro-imagetools](https://github.com/RafidMuhymin/astro-imagetools) integration for image processing.
 - [i18n](https://github.com/felixicaza/astro-templates/tree/main/i18n): Same as [base](https://github.com/felixicaza/astro-templates/tree/main/base) template but with [@astrolicious/i18n](https://github.com/astrolicious/i18n) integration for internationalization support (i18n).
-- [i18n-img](https://github.com/felixicaza/astro-templates/tree/main/i18n-img): Same as [i18n](./i18n) template but with [astro-imagetools](https://github.com/RafidMuhymin/astro-imagetools) integration for image processing.
+- [i18n-img](https://github.com/felixicaza/astro-templates/tree/main/i18n-img): Same as [i18n](https://github.com/felixicaza/astro-templates/tree/main/i18n) template but with [astro-imagetools](https://github.com/RafidMuhymin/astro-imagetools) integration for image processing.
 - [pwa](https://github.com/felixicaza/astro-templates/tree/main/pwa): This template extends the [base](https://github.com/felixicaza/astro-templates/tree/main/base) template, with the necessary configurations for Progressive Web Apps (PWA) support powered by [@vite-pwa/astro](https://github.com/vite-pwa/astro).
-- [pwa-img](https://github.com/felixicaza/astro-templates/tree/main/pwa-img): Same as [pwa](./pwa) but with [astro-imagetools](https://github.com/RafidMuhymin/astro-imagetools) integration for image processing.
+- [pwa-img](https://github.com/felixicaza/astro-templates/tree/main/pwa-img): Same as [pwa](https://github.com/felixicaza/astro-templates/tree/main/pwa) but with [astro-imagetools](https://github.com/RafidMuhymin/astro-imagetools) integration for image processing.
 - [react](https://github.com/felixicaza/astro-templates/tree/main/react/): Template with the necessary configurations for island support with React.
-- [react-img](https://github.com/felixicaza/astro-templates/tree/main/react-img/): Same as the [react](./react) template, but with support for image processing.
+- [react-img](https://github.com/felixicaza/astro-templates/tree/main/react-img/): Same as the [react](https://github.com/felixicaza/astro-templates/tree/main/react) template, but with support for image processing.
 - [react-pwa](https://github.com/felixicaza/astro-templates/tree/main/react-pwa/): Support for islands with React and Progressive Web Apps (PWA).
 - [react-pwa-img](https://github.com/felixicaza/astro-templates/tree/main/react-pwa-img/): Same as the [react-pwa](https://github.com/felixicaza/astro-templates/tree/main/react-pwa) template, but with support for image processing.
 
