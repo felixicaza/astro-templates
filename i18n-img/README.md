@@ -9,6 +9,7 @@ Same as [i18n](https://github.com/felixicaza/astro-templates/tree/main/i18n) tem
 - 🚀 Latest version of Astro
 - ✅ ESLint and Prettier ready
 - 🌐 Tunnels ready
+- 🌎 Internationalization ready (i18n)
 - ⚡ Performance focus
 - 🛡️ Security focus
 - ⚙️ SEO focus
