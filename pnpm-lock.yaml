@@ -568,8 +568,8 @@ importers:
         specifier: 0.1.0
         version: 0.1.0(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@2.79.1)(terser@5.31.6)(typescript@5.3.3)
       '@vite-pwa/astro':
-        specifier: 0.4.0
-        version: 0.4.0(astro@4.15.1(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@2.79.1)(terser@5.31.6)(typescript@5.3.3))(vite-plugin-pwa@0.20.5(vite@5.4.2(@types/node@22.5.0)(lightningcss@1.25.1)(terser@5.31.6))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))
+        specifier: 0.4.3
+        version: 0.4.3(astro@4.15.1(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@2.79.1)(terser@5.31.6)(typescript@5.3.3))(vite-plugin-pwa@0.20.5(vite@5.4.2(@types/node@22.5.0)(lightningcss@1.25.1)(terser@5.31.6))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))
       astro:
         specifier: 4.15.1
         version: 4.15.1(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@2.79.1)(terser@5.31.6)(typescript@5.3.3)
@@ -677,8 +677,8 @@ importers:
         specifier: 0.1.0
         version: 0.1.0(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.3.3)
       '@vite-pwa/astro':
-        specifier: 0.4.0
-        version: 0.4.0(astro@4.15.1(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.3.3))(vite-plugin-pwa@0.20.5(vite@5.4.2(@types/node@22.5.0)(lightningcss@1.25.1)(terser@5.31.6))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))
+        specifier: 0.4.3
+        version: 0.4.3(astro@4.15.1(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.3.3))(vite-plugin-pwa@0.20.5(vite@5.4.2(@types/node@22.5.0)(lightningcss@1.25.1)(terser@5.31.6))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))
       astro:
         specifier: 4.15.1
         version: 4.15.1(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.3.3)
@@ -1043,8 +1043,8 @@ importers:
         specifier: 18.3.0
         version: 18.3.0
       '@vite-pwa/astro':
-        specifier: 0.4.0
-        version: 0.4.0(astro@4.15.1(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.3.3))(vite-plugin-pwa@0.20.5(vite@5.4.2(@types/node@22.5.0)(lightningcss@1.25.1)(terser@5.31.6))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))
+        specifier: 0.4.3
+        version: 0.4.3(astro@4.15.1(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.3.3))(vite-plugin-pwa@0.20.5(vite@5.4.2(@types/node@22.5.0)(lightningcss@1.25.1)(terser@5.31.6))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))
       astro:
         specifier: 4.15.1
         version: 4.15.1(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.3.3)
@@ -1173,8 +1173,8 @@ importers:
         specifier: 18.3.0
         version: 18.3.0
       '@vite-pwa/astro':
-        specifier: 0.4.0
-        version: 0.4.0(astro@4.15.1(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.3.3))(vite-plugin-pwa@0.20.5(vite@5.4.2(@types/node@22.5.0)(lightningcss@1.25.1)(terser@5.31.6))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))
+        specifier: 0.4.3
+        version: 0.4.3(astro@4.15.1(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.3.3))(vite-plugin-pwa@0.20.5(vite@5.4.2(@types/node@22.5.0)(lightningcss@1.25.1)(terser@5.31.6))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))
       astro:
         specifier: 4.15.1
         version: 4.15.1(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.3.3)
@@ -3673,12 +3673,12 @@ packages:
     peerDependencies:
       '@urql/core': ^5.0.0
 
-  '@vite-pwa/astro@0.4.0':
-    resolution: {integrity: sha512-Fw9XCZsS808TRQVCe5nSwiOHGbiUgyXPu8VQBPan7P52JnJpZOomHQsKGBeFGYcwE5RQC6DNXXDGXm9WgYtXuw==}
+  '@vite-pwa/astro@0.4.3':
+    resolution: {integrity: sha512-IfcDw8MgfNwFge+Dhe9MYfGponVTGBbQ+y32tFl/IBsJftSu0Jy7PuZO3rBaaBltr40zVnz5nlZmXfW7caaWFA==}
     peerDependencies:
-      '@vite-pwa/assets-generator': ^0.2.4
+      '@vite-pwa/assets-generator': ^0.2.6
       astro: ^1.6.0 || ^2.0.0 || ^3.0.0 || ^4.0.0
-      vite-plugin-pwa: '>=0.20.0 <1'
+      vite-plugin-pwa: '>=0.20.5 <1'
     peerDependenciesMeta:
       '@vite-pwa/assets-generator':
         optional: true
@@ -11211,12 +11211,12 @@ snapshots:
       '@urql/core': 5.0.6(graphql@16.9.0)
       wonka: 6.3.4
 
-  '@vite-pwa/astro@0.4.0(astro@4.15.1(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@2.79.1)(terser@5.31.6)(typescript@5.3.3))(vite-plugin-pwa@0.20.5(vite@5.4.2(@types/node@22.5.0)(lightningcss@1.25.1)(terser@5.31.6))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))':
+  '@vite-pwa/astro@0.4.3(astro@4.15.1(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@2.79.1)(terser@5.31.6)(typescript@5.3.3))(vite-plugin-pwa@0.20.5(vite@5.4.2(@types/node@22.5.0)(lightningcss@1.25.1)(terser@5.31.6))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))':
     dependencies:
       astro: 4.15.1(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@2.79.1)(terser@5.31.6)(typescript@5.3.3)
       vite-plugin-pwa: 0.20.5(vite@5.4.2(@types/node@22.5.0)(lightningcss@1.25.1)(terser@5.31.6))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0)
 
-  '@vite-pwa/astro@0.4.0(astro@4.15.1(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.3.3))(vite-plugin-pwa@0.20.5(vite@5.4.2(@types/node@22.5.0)(lightningcss@1.25.1)(terser@5.31.6))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))':
+  '@vite-pwa/astro@0.4.3(astro@4.15.1(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.3.3))(vite-plugin-pwa@0.20.5(vite@5.4.2(@types/node@22.5.0)(lightningcss@1.25.1)(terser@5.31.6))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))':
     dependencies:
       astro: 4.15.1(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.3.3)
       vite-plugin-pwa: 0.20.5(vite@5.4.2(@types/node@22.5.0)(lightningcss@1.25.1)(terser@5.31.6))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0)
