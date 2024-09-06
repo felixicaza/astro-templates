@@ -38,7 +38,7 @@
     "@keystatic/core": "0.5.32",
     "@playform/compress": "0.1.1",
     "@playform/inline": "0.1.0",
-    "@types/react": "18.3.4",
+    "@types/react": "18.3.5",
     "@types/react-dom": "18.3.0",
     "astro": "4.15.1",
     "astro-compressor": "0.4.1",
