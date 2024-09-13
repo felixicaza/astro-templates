@@ -233,10 +233,10 @@ importers:
         version: 1.10.2
       '@keystatic/astro':
         specifier: 5.0.0
-        version: 5.0.0(@keystatic/core@0.5.32(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+        version: 5.0.0(@keystatic/core@0.5.34(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@keystatic/core':
-        specifier: 0.5.32
-        version: 0.5.32(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+        specifier: 0.5.34
+        version: 0.5.34(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@playform/compress':
         specifier: 0.1.1
         version: 0.1.1(@types/node@22.5.0)(rollup@4.21.0)(typescript@5.6.2)
@@ -2705,8 +2705,8 @@ packages:
   '@juggle/resize-observer@3.4.0':
     resolution: {integrity: sha512-dfLbk+PwWvFzSxwk3n5ySL0hfBog779o8h68wK/7/APo/7cgyWp5jcXockbxdk5kFRkbeXWm4Fbi9FrdN381sA==}
 
-  '@keystar/ui@0.7.9':
-    resolution: {integrity: sha512-tma+IMc8vZAOkuRrNf9qv3y0fReVUhEw2aKRpR0/8O/6Y8MUWhWUPu4Rbf9pJMOgZ15w4hHW8JYyACl1FxI0yg==}
+  '@keystar/ui@0.7.10':
+    resolution: {integrity: sha512-b/WDvMdS9FRn0FQeeNlutE4BZv2MY00fxTCClWiW05IU9P6mP7/AHLhitNXHKOGuWn31aN3IAlkJFC+4q6YycQ==}
     peerDependencies:
       next: '>=14'
       react: ^18.2.0
@@ -2723,8 +2723,8 @@ packages:
       react: ^18.2.0
       react-dom: ^18.2.0
 
-  '@keystatic/core@0.5.32':
-    resolution: {integrity: sha512-WruW0LHjX3310722KB3RGlJXE6B7C5R+26wFvxU2/Cu2RfXcOhgHIvq9itxYXGDZ7f6pwmVzloC8z/60NkHJgg==}
+  '@keystatic/core@0.5.34':
+    resolution: {integrity: sha512-h57C+J+rBBX4JnO5VVzeZMJENLeYu1NirJHXvnhWbsnFP6/kaiEZ9ShrxiBiXMzsaoL9i682mes0iR9PWqrOrQ==}
     peerDependencies:
       react: ^18.2.0
       react-dom: ^18.2.0
@@ -2861,10 +2861,10 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0
 
-  '@react-aria/landmark@3.0.0-beta.2':
-    resolution: {integrity: sha512-PzRx/KwzxUUVk9bGbTNWHCtkzzGfnUL8yozd/sJjnCofa7BPrt71EnvB4W53W0MDD3hod8JDwk3TlzNyXPi/ww==}
+  '@react-aria/landmark@3.0.0-beta.15':
+    resolution: {integrity: sha512-EEABy0IFzqoS7r11HoD2YwiGR5LFw4kWDFTFUFwJkRP5tHEzsrEgkKPSPJXScQr5m7tenV6j0/Zzl1+w1ki3lA==}
     peerDependencies:
-      react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
+      react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0
 
   '@react-aria/link@3.7.4':
     resolution: {integrity: sha512-E8SLDuS9ssm/d42+3sDFNthfMcNXMUrT2Tq1DIZt22EsMcuEzmJ9B0P7bDP5RgvIw05xVGqZ20nOpU4mKTxQtA==}
@@ -2964,15 +2964,21 @@ packages:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0
       react-dom: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0
 
+  '@react-aria/tag@3.4.5':
+    resolution: {integrity: sha512-iyJuATQ8t2cdLC7hiZm143eeZze/MtgxaMq0OewlI9TUje54bkw2Q+CjERdgisIo3Eemf55JJgylGrTcalEJAg==}
+    peerDependencies:
+      react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0
+      react-dom: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0
+
   '@react-aria/textfield@3.14.8':
     resolution: {integrity: sha512-FHEvsHdE1cMR2B7rlf+HIneITrC40r201oLYbHAp3q26jH/HUujzFBB9I20qhXjyBohMWfQLqJhSwhs1VW1RJQ==}
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0
 
-  '@react-aria/toast@3.0.0-beta.2':
-    resolution: {integrity: sha512-PW+3ueOfMqzHlAb8ixocxBprRiLdz+xH7YEIn1E+iRregkdfcjfqchzU2PN3UQm7Othk1b3Bt9LemCOM66YRcA==}
+  '@react-aria/toast@3.0.0-beta.15':
+    resolution: {integrity: sha512-bg6ZXq4B5JYVt3GXVlf075tQOakcfumbDLnUMaijez4BhacuxF01+IvBPzAVEsARVNXfELoXa7Frb2K54Wgvtw==}
     peerDependencies:
-      react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
+      react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0
 
   '@react-aria/toggle@3.10.7':
     resolution: {integrity: sha512-/RJQU8QlPZXRElZ3Tt10F5K5STgUBUGPpfuFUGuwF3Kw3GpPxYsA1YAVjxXz2MMGwS0+y6+U/J1xIs1AF0Jwzg==}
@@ -2989,11 +2995,11 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0
 
-  '@react-aria/virtualizer@3.10.1':
-    resolution: {integrity: sha512-y34w+n/B3nwwj18QHIZlkNj5Fn2rt5CbQE4BBWAM8jYZ5ypwF77i2toxhGTuk1Oo1/hgTX7JYIgDIAQbNraBcg==}
+  '@react-aria/virtualizer@4.0.2':
+    resolution: {integrity: sha512-HNhpZl53UM2Z8g0DNvjAW7aZRwOReYgKRxdTF/IlYHNMLpdqWZinKwLbxZCsbgX3SCjdIGns90YhkMSKVpfrpw==}
     peerDependencies:
-      react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
-      react-dom: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
+      react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0
+      react-dom: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0
 
   '@react-aria/visually-hidden@3.8.15':
     resolution: {integrity: sha512-l+sJ7xTdD5Sd6+rDNDaeJCSPnHOsI+BaJyApvb/YcVgHa7rB47lp6TXCWUCDItcPY4JqRGyeByRJVrtzBFTWCw==}
@@ -3048,10 +3054,10 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0
 
-  '@react-stately/layout@3.13.9':
-    resolution: {integrity: sha512-JCj2cnvRbBjah9LFZbBXMdKkoKuEpzn6hvYBw7h0fNIhNGISpiI1TW4ya1X34kD2vcv/3dc31KV/UqmI4hJCQw==}
+  '@react-stately/layout@4.0.2':
+    resolution: {integrity: sha512-g3IOrYQcaWxWKW44fYCOLoLMYKEmoOAcT9vQIbgK8MLTQV9Zgt9sGREwn4WJPm85N58Ij6yP72aQ7og/PSymvg==}
     peerDependencies:
-      react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
+      react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0
 
   '@react-stately/list@3.10.8':
     resolution: {integrity: sha512-rHCiPLXd+Ry3ztR9DkLA5FPQeH4Zd4/oJAEDWJ77W3oBBOdiMp3ZdHDLP7KBRh17XGNLO/QruYoHWAQTPiMF4g==}
@@ -3103,10 +3109,10 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0
 
-  '@react-stately/toast@3.0.0-beta.1':
-    resolution: {integrity: sha512-NeWdLXpHfXu8UXjmn+6iZv39Xvan/D0uNWzIyCxkDOeNNOHt1N4kSwdvQ56ScQ3f7KBVPqKz32t7K466Zpa8Jg==}
+  '@react-stately/toast@3.0.0-beta.5':
+    resolution: {integrity: sha512-MEdQwcKsexlcJ4YQZ9cN5QSIqTlGGdgC5auzSKXXoq15DHuo4mtHfLzXPgcMDYOhOdmyphMto8Vt+21UL2FOrw==}
     peerDependencies:
-      react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
+      react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0
 
   '@react-stately/toggle@3.7.7':
     resolution: {integrity: sha512-AS+xB4+hHWa3wzYkbS6pwBkovPfIE02B9SnuYTe0stKcuejpWKo5L3QMptW0ftFYsW3ZPCXuneImfObEw2T01A==}
@@ -3128,10 +3134,10 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0
 
-  '@react-stately/virtualizer@3.7.1':
-    resolution: {integrity: sha512-voHgE6EQ+oZaLv6u2umKxakvIKNkCQuUihqKACTjdslp7SJh4Mvs3oLBI0hf0JOh+rCcFIKDvQtFwy1fXFRYBA==}
+  '@react-stately/virtualizer@4.0.2':
+    resolution: {integrity: sha512-LiSr6E6OoL/cKVFO088zEzkNGj41g02nlOAgLluYONncNEjoYiHmb8Yw0otPgViVLKiFjO6Kk4W+dbt8EZ51Ag==}
     peerDependencies:
-      react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
+      react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0
 
   '@react-types/actionbar@3.1.9':
     resolution: {integrity: sha512-omCribEByWYcDr27W63LpmFq+muACc949UzCcMzlc6fvkKc6Gq+HjRRoTQjX6k8hXXFqEbQoYJFVyRXnig6u5g==}
@@ -9378,12 +9384,13 @@ snapshots:
 
   '@juggle/resize-observer@3.4.0': {}
 
-  '@keystar/ui@0.7.9(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
+  '@keystar/ui@0.7.10(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
     dependencies:
       '@babel/runtime': 7.25.4
       '@emotion/css': 11.13.0
       '@floating-ui/react': 0.24.8(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@internationalized/date': 3.5.5
+      '@internationalized/string': 3.2.3
       '@react-aria/actiongroup': 3.7.8(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@react-aria/breadcrumbs': 3.5.16(react@18.3.1)
       '@react-aria/button': 3.9.8(react@18.3.1)
@@ -9415,11 +9422,12 @@ snapshots:
       '@react-aria/switch': 3.6.7(react@18.3.1)
       '@react-aria/table': 3.15.3(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@react-aria/tabs': 3.9.5(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@react-aria/tag': 3.4.5(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@react-aria/textfield': 3.14.8(react@18.3.1)
-      '@react-aria/toast': 3.0.0-beta.2(react@18.3.1)
+      '@react-aria/toast': 3.0.0-beta.15(react@18.3.1)
       '@react-aria/tooltip': 3.7.7(react@18.3.1)
       '@react-aria/utils': 3.25.2(react@18.3.1)
-      '@react-aria/virtualizer': 3.10.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@react-aria/virtualizer': 4.0.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@react-aria/visually-hidden': 3.8.15(react@18.3.1)
       '@react-stately/calendar': 3.5.4(react@18.3.1)
       '@react-stately/checkbox': 3.6.8(react@18.3.1)
@@ -9428,7 +9436,7 @@ snapshots:
       '@react-stately/data': 3.11.6(react@18.3.1)
       '@react-stately/datepicker': 3.10.2(react@18.3.1)
       '@react-stately/dnd': 3.4.2(react@18.3.1)
-      '@react-stately/layout': 3.13.9(react@18.3.1)
+      '@react-stately/layout': 4.0.2(react@18.3.1)
       '@react-stately/list': 3.10.8(react@18.3.1)
       '@react-stately/menu': 3.8.2(react@18.3.1)
       '@react-stately/numberfield': 3.9.6(react@18.3.1)
@@ -9438,12 +9446,12 @@ snapshots:
       '@react-stately/select': 3.6.7(react@18.3.1)
       '@react-stately/table': 3.12.2(react@18.3.1)
       '@react-stately/tabs': 3.6.9(react@18.3.1)
-      '@react-stately/toast': 3.0.0-beta.1(react@18.3.1)
+      '@react-stately/toast': 3.0.0-beta.5(react@18.3.1)
       '@react-stately/toggle': 3.7.7(react@18.3.1)
       '@react-stately/tooltip': 3.4.12(react@18.3.1)
       '@react-stately/tree': 3.8.4(react@18.3.1)
       '@react-stately/utils': 3.10.3(react@18.3.1)
-      '@react-stately/virtualizer': 3.7.1(react@18.3.1)
+      '@react-stately/virtualizer': 4.0.2(react@18.3.1)
       '@react-types/actionbar': 3.1.9(react@18.3.1)
       '@react-types/actiongroup': 3.4.11(react@18.3.1)
       '@react-types/breadcrumbs': 3.7.7(react@18.3.1)
@@ -9469,10 +9477,10 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@keystatic/astro@5.0.0(@keystatic/core@0.5.32(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
+  '@keystatic/astro@5.0.0(@keystatic/core@0.5.34(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
     dependencies:
       '@babel/runtime': 7.25.4
-      '@keystatic/core': 0.5.32(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@keystatic/core': 0.5.34(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@types/react': 18.3.5
       astro: 4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2)
       cookie: 0.5.0
@@ -9480,7 +9488,7 @@ snapshots:
       react-dom: 18.3.1(react@18.3.1)
       set-cookie-parser: 2.7.0
 
-  '@keystatic/core@0.5.32(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
+  '@keystatic/core@0.5.34(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
     dependencies:
       '@babel/runtime': 7.25.4
       '@braintree/sanitize-url': 6.0.4
@@ -9488,7 +9496,7 @@ snapshots:
       '@emotion/weak-memoize': 0.3.1
       '@floating-ui/react': 0.24.8(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@internationalized/string': 3.2.3
-      '@keystar/ui': 0.7.9(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@keystar/ui': 0.7.10(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@markdoc/markdoc': 0.4.0(@types/react@18.3.5)(react@18.3.1)
       '@react-aria/focus': 3.18.2(react@18.3.1)
       '@react-aria/i18n': 3.12.2(react@18.3.1)
@@ -9889,9 +9897,8 @@ snapshots:
       '@swc/helpers': 0.5.12
       react: 18.3.1
 
-  '@react-aria/landmark@3.0.0-beta.2(react@18.3.1)':
+  '@react-aria/landmark@3.0.0-beta.15(react@18.3.1)':
     dependencies:
-      '@react-aria/focus': 3.18.2(react@18.3.1)
       '@react-aria/utils': 3.25.2(react@18.3.1)
       '@react-types/shared': 3.24.1(react@18.3.1)
       '@swc/helpers': 0.5.12
@@ -10116,6 +10123,21 @@ snapshots:
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
 
+  '@react-aria/tag@3.4.5(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
+    dependencies:
+      '@react-aria/gridlist': 3.9.3(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@react-aria/i18n': 3.12.2(react@18.3.1)
+      '@react-aria/interactions': 3.22.2(react@18.3.1)
+      '@react-aria/label': 3.7.11(react@18.3.1)
+      '@react-aria/selection': 3.19.3(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@react-aria/utils': 3.25.2(react@18.3.1)
+      '@react-stately/list': 3.10.8(react@18.3.1)
+      '@react-types/button': 3.9.6(react@18.3.1)
+      '@react-types/shared': 3.24.1(react@18.3.1)
+      '@swc/helpers': 0.5.12
+      react: 18.3.1
+      react-dom: 18.3.1(react@18.3.1)
+
   '@react-aria/textfield@3.14.8(react@18.3.1)':
     dependencies:
       '@react-aria/focus': 3.18.2(react@18.3.1)
@@ -10129,13 +10151,13 @@ snapshots:
       '@swc/helpers': 0.5.12
       react: 18.3.1
 
-  '@react-aria/toast@3.0.0-beta.2(react@18.3.1)':
+  '@react-aria/toast@3.0.0-beta.15(react@18.3.1)':
     dependencies:
       '@react-aria/i18n': 3.12.2(react@18.3.1)
       '@react-aria/interactions': 3.22.2(react@18.3.1)
-      '@react-aria/landmark': 3.0.0-beta.2(react@18.3.1)
+      '@react-aria/landmark': 3.0.0-beta.15(react@18.3.1)
       '@react-aria/utils': 3.25.2(react@18.3.1)
-      '@react-stately/toast': 3.0.0-beta.1(react@18.3.1)
+      '@react-stately/toast': 3.0.0-beta.5(react@18.3.1)
       '@react-types/button': 3.9.6(react@18.3.1)
       '@react-types/shared': 3.24.1(react@18.3.1)
       '@swc/helpers': 0.5.12
@@ -10172,12 +10194,12 @@ snapshots:
       clsx: 2.1.1
       react: 18.3.1
 
-  '@react-aria/virtualizer@3.10.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
+  '@react-aria/virtualizer@4.0.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
     dependencies:
       '@react-aria/i18n': 3.12.2(react@18.3.1)
       '@react-aria/interactions': 3.22.2(react@18.3.1)
       '@react-aria/utils': 3.25.2(react@18.3.1)
-      '@react-stately/virtualizer': 3.7.1(react@18.3.1)
+      '@react-stately/virtualizer': 4.0.2(react@18.3.1)
       '@react-types/shared': 3.24.1(react@18.3.1)
       '@swc/helpers': 0.5.12
       react: 18.3.1
@@ -10272,11 +10294,11 @@ snapshots:
       '@swc/helpers': 0.5.12
       react: 18.3.1
 
-  '@react-stately/layout@3.13.9(react@18.3.1)':
+  '@react-stately/layout@4.0.2(react@18.3.1)':
     dependencies:
       '@react-stately/collections': 3.10.9(react@18.3.1)
       '@react-stately/table': 3.12.2(react@18.3.1)
-      '@react-stately/virtualizer': 3.7.1(react@18.3.1)
+      '@react-stately/virtualizer': 4.0.2(react@18.3.1)
       '@react-types/grid': 3.2.8(react@18.3.1)
       '@react-types/shared': 3.24.1(react@18.3.1)
       '@react-types/table': 3.10.1(react@18.3.1)
@@ -10371,7 +10393,7 @@ snapshots:
       '@swc/helpers': 0.5.12
       react: 18.3.1
 
-  '@react-stately/toast@3.0.0-beta.1(react@18.3.1)':
+  '@react-stately/toast@3.0.0-beta.5(react@18.3.1)':
     dependencies:
       '@swc/helpers': 0.5.12
       react: 18.3.1
@@ -10405,7 +10427,7 @@ snapshots:
       '@swc/helpers': 0.5.12
       react: 18.3.1
 
-  '@react-stately/virtualizer@3.7.1(react@18.3.1)':
+  '@react-stately/virtualizer@4.0.2(react@18.3.1)':
     dependencies:
       '@react-aria/utils': 3.25.2(react@18.3.1)
       '@react-types/shared': 3.24.1(react@18.3.1)
