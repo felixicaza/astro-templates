@@ -35,7 +35,7 @@
     "@astrojs/check": "0.9.3",
     "@astrojs/react": "3.6.2",
     "@astrojs/tailwind": "5.1.0",
-    "@astrojs/ts-plugin": "1.10.1",
+    "@astrojs/ts-plugin": "1.10.2",
     "@playform/compress": "0.1.1",
     "@playform/inline": "0.1.0",
     "@types/react": "18.3.5",
