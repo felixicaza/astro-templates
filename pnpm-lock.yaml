@@ -351,7 +351,7 @@ importers:
         version: 1.10.1
       '@astrolicious/i18n':
         specifier: 0.5.1
-        version: 0.5.1(@types/node@22.5.0)(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))(i18next@23.14.0)(lightningcss@1.25.1)(terser@5.31.6)
+        version: 0.5.1(@types/node@22.5.0)(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))(i18next@23.15.1)(lightningcss@1.25.1)(terser@5.31.6)
       '@playform/compress':
         specifier: 0.1.1
         version: 0.1.1(@types/node@22.5.0)(rollup@4.21.0)(typescript@5.6.2)
@@ -377,8 +377,8 @@ importers:
         specifier: 0.1.6
         version: 0.1.6(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))
       i18next:
-        specifier: 23.14.0
-        version: 23.14.0
+        specifier: 23.15.1
+        version: 23.15.1
       schema-dts:
         specifier: 1.1.2
         version: 1.1.2(typescript@5.6.2)
@@ -454,7 +454,7 @@ importers:
         version: 5.1.0(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))(tailwindcss@3.4.10)
       '@astrolicious/i18n':
         specifier: 0.5.1
-        version: 0.5.1(@types/node@22.5.0)(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))(i18next@23.14.0)(lightningcss@1.25.1)(terser@5.31.6)
+        version: 0.5.1(@types/node@22.5.0)(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))(i18next@23.15.1)(lightningcss@1.25.1)(terser@5.31.6)
       '@playform/compress':
         specifier: 0.1.1
         version: 0.1.1(@types/node@22.5.0)(rollup@4.21.0)(typescript@5.6.2)
@@ -483,8 +483,8 @@ importers:
         specifier: 0.1.6
         version: 0.1.6(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))
       i18next:
-        specifier: 23.14.0
-        version: 23.14.0
+        specifier: 23.15.1
+        version: 23.15.1
       schema-dts:
         specifier: 1.1.2
         version: 1.1.2(typescript@5.6.2)
@@ -557,22 +557,22 @@ importers:
         version: 0.9.3(prettier-plugin-astro@0.14.1)(prettier@3.3.3)(typescript@5.6.2)
       '@astrojs/tailwind':
         specifier: 5.1.0
-        version: 5.1.0(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))(tailwindcss@3.4.10)
+        version: 5.1.0(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@2.79.1)(terser@5.31.6)(typescript@5.6.2))(tailwindcss@3.4.10)
       '@astrojs/ts-plugin':
         specifier: 1.10.1
         version: 1.10.1
       '@playform/compress':
         specifier: 0.1.1
-        version: 0.1.1(@types/node@22.5.0)(rollup@4.21.0)(typescript@5.6.2)
+        version: 0.1.1(@types/node@22.5.0)(rollup@2.79.1)(typescript@5.6.2)
       '@playform/inline':
         specifier: 0.1.0
-        version: 0.1.0(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2)
+        version: 0.1.0(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@2.79.1)(terser@5.31.6)(typescript@5.6.2)
       '@vite-pwa/astro':
         specifier: 0.4.3
-        version: 0.4.3(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))(vite-plugin-pwa@0.20.5(vite@5.4.2(@types/node@22.5.0)(lightningcss@1.25.1)(terser@5.31.6))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))
+        version: 0.4.3(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@2.79.1)(terser@5.31.6)(typescript@5.6.2))(vite-plugin-pwa@0.20.5(vite@5.4.2(@types/node@22.5.0)(lightningcss@1.25.1)(terser@5.31.6))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))
       astro:
         specifier: 4.15.3
-        version: 4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2)
+        version: 4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@2.79.1)(terser@5.31.6)(typescript@5.6.2)
       astro-compressor:
         specifier: 0.4.1
         version: 0.4.1
@@ -581,13 +581,13 @@ importers:
         version: 1.2.0
       astro-seo-schema:
         specifier: 4.0.2
-        version: 4.0.2(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))(schema-dts@1.1.2(typescript@5.6.2))
+        version: 4.0.2(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@2.79.1)(terser@5.31.6)(typescript@5.6.2))(schema-dts@1.1.2(typescript@5.6.2))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
       astro-tunnel:
         specifier: 0.1.6
-        version: 0.1.6(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))
+        version: 0.1.6(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@2.79.1)(terser@5.31.6)(typescript@5.6.2))
       schema-dts:
         specifier: 1.1.2
         version: 1.1.2(typescript@5.6.2)
@@ -666,22 +666,22 @@ importers:
         version: 0.9.3(prettier-plugin-astro@0.14.1)(prettier@3.3.3)(typescript@5.6.2)
       '@astrojs/tailwind':
         specifier: 5.1.0
-        version: 5.1.0(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@2.79.1)(terser@5.31.6)(typescript@5.6.2))(tailwindcss@3.4.10)
+        version: 5.1.0(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))(tailwindcss@3.4.10)
       '@astrojs/ts-plugin':
         specifier: 1.10.1
         version: 1.10.1
       '@playform/compress':
         specifier: 0.1.1
-        version: 0.1.1(@types/node@22.5.0)(rollup@2.79.1)(typescript@5.6.2)
+        version: 0.1.1(@types/node@22.5.0)(rollup@4.21.0)(typescript@5.6.2)
       '@playform/inline':
         specifier: 0.1.0
-        version: 0.1.0(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@2.79.1)(terser@5.31.6)(typescript@5.6.2)
+        version: 0.1.0(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2)
       '@vite-pwa/astro':
         specifier: 0.4.3
-        version: 0.4.3(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@2.79.1)(terser@5.31.6)(typescript@5.6.2))(vite-plugin-pwa@0.20.5(vite@5.4.2(@types/node@22.5.0)(lightningcss@1.25.1)(terser@5.31.6))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))
+        version: 0.4.3(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))(vite-plugin-pwa@0.20.5(vite@5.4.2(@types/node@22.5.0)(lightningcss@1.25.1)(terser@5.31.6))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))
       astro:
         specifier: 4.15.3
-        version: 4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@2.79.1)(terser@5.31.6)(typescript@5.6.2)
+        version: 4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2)
       astro-compressor:
         specifier: 0.4.1
         version: 0.4.1
@@ -690,16 +690,16 @@ importers:
         version: 1.2.0
       astro-imagetools:
         specifier: 0.9.0
-        version: 0.9.0(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@2.79.1)(terser@5.31.6)(typescript@5.6.2))
+        version: 0.9.0(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))
       astro-seo-schema:
         specifier: 4.0.2
-        version: 4.0.2(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@2.79.1)(terser@5.31.6)(typescript@5.6.2))(schema-dts@1.1.2(typescript@5.6.2))
+        version: 4.0.2(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))(schema-dts@1.1.2(typescript@5.6.2))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
       astro-tunnel:
         specifier: 0.1.6
-        version: 0.1.6(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@2.79.1)(terser@5.31.6)(typescript@5.6.2))
+        version: 0.1.6(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))
       schema-dts:
         specifier: 1.1.2
         version: 1.1.2(typescript@5.6.2)
@@ -5086,8 +5086,8 @@ packages:
     engines: {node: '>=18'}
     hasBin: true
 
-  i18next@23.14.0:
-    resolution: {integrity: sha512-Y5GL4OdA8IU2geRrt2+Uc1iIhsjICdHZzT9tNwQ3TVqdNzgxHToGCKf/TPRP80vTCAP6svg2WbbJL+Gx5MFQVA==}
+  i18next@23.15.1:
+    resolution: {integrity: sha512-wB4abZ3uK7EWodYisHl/asf8UYEhrI/vj/8aoSsrj/ZDxj4/UXPOa1KvFt1Fq5hkUHquNqwFlDprmjZ8iySgYA==}
 
   iconv-lite@0.6.3:
     resolution: {integrity: sha512-4fCk79wshMdzMp2rH06qWrJE4iolqLhCUH+OiuIgU++RB0+94NlDL81atO7GX55uUKueo0txHNtvEyI6D7WdMw==}
@@ -7805,13 +7805,13 @@ snapshots:
     dependencies:
       yaml: 2.5.0
 
-  '@astrolicious/i18n@0.5.1(@types/node@22.5.0)(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))(i18next@23.14.0)(lightningcss@1.25.1)(terser@5.31.6)':
+  '@astrolicious/i18n@0.5.1(@types/node@22.5.0)(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))(i18next@23.15.1)(lightningcss@1.25.1)(terser@5.31.6)':
     dependencies:
       '@inox-tools/aik-route-config': 0.7.2(@types/node@22.5.0)(astro-integration-kit@0.16.1(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2)))(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))(lightningcss@1.25.1)(terser@5.31.6)
       astro: 4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2)
       astro-integration-kit: 0.16.1(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))
       astro-pages: 0.3.0(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))
-      i18next: 23.14.0
+      i18next: 23.15.1
       sitemap: 7.1.2
       typescript: 5.6.2
       ufo: 1.5.4
@@ -11261,20 +11261,6 @@ snapshots:
       - debug
       - supports-color
 
-  astro-imagetools@0.9.0(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@2.79.1)(terser@5.31.6)(typescript@5.6.2)):
-    dependencies:
-      '@astropub/codecs': 0.4.4
-      astro: 4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@2.79.1)(terser@5.31.6)(typescript@5.6.2)
-      file-type: 17.1.1
-      find-cache-dir: 3.3.2
-      find-up: 6.3.0
-      object-hash: 3.0.0
-      potrace: 2.1.8
-    optionalDependencies:
-      imagetools-core: 3.0.2
-    transitivePeerDependencies:
-      - debug
-
   astro-imagetools@0.9.0(astro@4.15.3(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2)):
     dependencies:
       '@astropub/codecs': 0.4.4
@@ -13097,7 +13083,7 @@ snapshots:
 
   husky@9.1.6: {}
 
-  i18next@23.14.0:
+  i18next@23.15.1:
     dependencies:
       '@babel/runtime': 7.25.4
 
