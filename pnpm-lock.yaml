@@ -233,10 +233,10 @@ importers:
         version: 1.10.2
       '@keystatic/astro':
         specifier: 5.0.0
-        version: 5.0.0(@keystatic/core@0.5.34(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.15.4(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+        version: 5.0.0(@keystatic/core@0.5.36(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.15.4(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@keystatic/core':
-        specifier: 0.5.34
-        version: 0.5.34(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+        specifier: 0.5.36
+        version: 0.5.36(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@playform/compress':
         specifier: 0.1.1
         version: 0.1.1(@types/node@22.5.0)(rollup@4.21.0)(typescript@5.6.2)
@@ -2705,8 +2705,8 @@ packages:
   '@juggle/resize-observer@3.4.0':
     resolution: {integrity: sha512-dfLbk+PwWvFzSxwk3n5ySL0hfBog779o8h68wK/7/APo/7cgyWp5jcXockbxdk5kFRkbeXWm4Fbi9FrdN381sA==}
 
-  '@keystar/ui@0.7.10':
-    resolution: {integrity: sha512-b/WDvMdS9FRn0FQeeNlutE4BZv2MY00fxTCClWiW05IU9P6mP7/AHLhitNXHKOGuWn31aN3IAlkJFC+4q6YycQ==}
+  '@keystar/ui@0.7.11':
+    resolution: {integrity: sha512-lBAKglgCsYOj3pYiOnCr14jvKHIvbnaCxkCKCHGsl15nOjRbKylAwbbMvd3vi/cUyXe+qX3kdn/YtAbVwkyjCg==}
     peerDependencies:
       next: '>=14'
       react: ^18.2.0
@@ -2723,8 +2723,8 @@ packages:
       react: ^18.2.0
       react-dom: ^18.2.0
 
-  '@keystatic/core@0.5.34':
-    resolution: {integrity: sha512-h57C+J+rBBX4JnO5VVzeZMJENLeYu1NirJHXvnhWbsnFP6/kaiEZ9ShrxiBiXMzsaoL9i682mes0iR9PWqrOrQ==}
+  '@keystatic/core@0.5.36':
+    resolution: {integrity: sha512-vhoOkBZOjumZhkeNFKuucE2egYVIrBZNz0sfX7DX9XeazoctIyyCshw+UMsuaT2OhlUx/6LJyXlqcUOZMOYCPQ==}
     peerDependencies:
       react: ^18.2.0
       react-dom: ^18.2.0
@@ -4298,9 +4298,6 @@ packages:
     peerDependenciesMeta:
       supports-color:
         optional: true
-
-  decimal.js-light@2.5.1:
-    resolution: {integrity: sha512-qIMFpTMZmny+MMIitAB6D7iVPEorVw6YQRWkvarTkT4tBeSLLiHzcwj6q0MmYSFCiVpiqPJTJEYIrpcPzVEIvg==}
 
   decode-named-character-reference@1.0.2:
     resolution: {integrity: sha512-O8x12RzrUF8xyVcY0KJowWsmaJxQbmy0/EtnNtHRpsOcT7dFk5W598coHqBVpmWo1oQQfsCqfCmkZN5DJrZVdg==}
@@ -9395,7 +9392,7 @@ snapshots:
 
   '@juggle/resize-observer@3.4.0': {}
 
-  '@keystar/ui@0.7.10(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
+  '@keystar/ui@0.7.11(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
     dependencies:
       '@babel/runtime': 7.25.4
       '@emotion/css': 11.13.0
@@ -9488,10 +9485,10 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@keystatic/astro@5.0.0(@keystatic/core@0.5.34(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.15.4(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
+  '@keystatic/astro@5.0.0(@keystatic/core@0.5.36(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.15.4(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
     dependencies:
       '@babel/runtime': 7.25.4
-      '@keystatic/core': 0.5.34(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@keystatic/core': 0.5.36(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@types/react': 18.3.8
       astro: 4.15.4(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2)
       cookie: 0.5.0
@@ -9499,7 +9496,7 @@ snapshots:
       react-dom: 18.3.1(react@18.3.1)
       set-cookie-parser: 2.7.0
 
-  '@keystatic/core@0.5.34(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
+  '@keystatic/core@0.5.36(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
     dependencies:
       '@babel/runtime': 7.25.4
       '@braintree/sanitize-url': 6.0.4
@@ -9507,7 +9504,7 @@ snapshots:
       '@emotion/weak-memoize': 0.3.1
       '@floating-ui/react': 0.24.8(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@internationalized/string': 3.2.3
-      '@keystar/ui': 0.7.10(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@keystar/ui': 0.7.11(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@markdoc/markdoc': 0.4.0(@types/react@18.3.8)(react@18.3.1)
       '@react-aria/focus': 3.18.2(react@18.3.1)
       '@react-aria/i18n': 3.12.2(react@18.3.1)
@@ -9531,7 +9528,6 @@ snapshots:
       '@urql/exchange-graphcache': 7.1.2(@urql/core@5.0.6(graphql@16.9.0))(graphql@16.9.0)
       '@urql/exchange-persisted': 4.3.0(@urql/core@5.0.6(graphql@16.9.0))
       cookie: 0.5.0
-      decimal.js-light: 2.5.1
       emery: 1.4.3
       escape-string-regexp: 4.0.0
       fast-deep-equal: 3.1.3
@@ -9544,14 +9540,14 @@ snapshots:
       lru-cache: 10.4.3
       match-sorter: 6.3.4
       mdast-util-from-markdown: 2.0.1
-      mdast-util-gfm: 3.0.0
       mdast-util-gfm-autolink-literal: 2.0.1
       mdast-util-gfm-strikethrough: 2.0.0
+      mdast-util-gfm-table: 2.0.0
       mdast-util-mdx: 3.0.0
       mdast-util-to-markdown: 2.1.0
-      micromark-extension-gfm: 3.0.0
       micromark-extension-gfm-autolink-literal: 2.1.0
       micromark-extension-gfm-strikethrough: 2.1.0
+      micromark-extension-gfm-table: 2.1.0
       micromark-extension-mdxjs: 3.0.0
       minimatch: 9.0.5
       partysocket: 0.0.22
@@ -12091,8 +12087,6 @@ snapshots:
   debug@4.3.6:
     dependencies:
       ms: 2.1.2
-
-  decimal.js-light@2.5.1: {}
 
   decode-named-character-reference@1.0.2:
     dependencies:
