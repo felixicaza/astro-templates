@@ -220,8 +220,8 @@ importers:
         specifier: 0.11.4
         version: 0.11.4(@types/react@18.3.8)(astro@4.15.8(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))(react@18.3.1)
       '@astrojs/node':
-        specifier: 8.3.3
-        version: 8.3.3(astro@4.15.8(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))
+        specifier: 8.3.4
+        version: 8.3.4(astro@4.15.8(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))
       '@astrojs/react':
         specifier: 3.6.2
         version: 3.6.2(@types/react-dom@18.3.0)(@types/react@18.3.8)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(vite@5.4.6(@types/node@22.5.0)(lightningcss@1.25.1)(terser@5.31.6))
@@ -1342,8 +1342,8 @@ packages:
   '@astrojs/markdown-remark@5.2.0':
     resolution: {integrity: sha512-vWGM24KZXz11jR3JO+oqYU3T2qpuOi4uGivJ9SQLCAI01+vEkHC60YJMRvHPc+hwd60F7euNs1PeOEixIIiNQw==}
 
-  '@astrojs/node@8.3.3':
-    resolution: {integrity: sha512-idrKhnnPSi0ABV+PCQsRQqVNwpOvVDF/+fkwcIiE8sr9J8EMvW9g/oyAt8T4X2OBJ8FUzYPL8klfCdG7r0eB5g==}
+  '@astrojs/node@8.3.4':
+    resolution: {integrity: sha512-xzQs39goN7xh9np9rypGmbgZj3AmmjNxEMj9ZWz5aBERlqqFF3n8A/w/uaJeZ/bkHS60l1BXVS0tgsQt9MFqBA==}
     peerDependencies:
       astro: ^4.2.0
 
@@ -2264,8 +2264,8 @@ packages:
       '@vue/compiler-sfc':
         optional: true
 
-  '@iconify/tools@4.0.6':
-    resolution: {integrity: sha512-riEQggXVuZNXjRdo+aKT0rkzn2XHslIqat8mdW/oVu5mLmP/95Hi+iaq4keT7WwMD97jsYPXMQ6QMCw0EWpRNw==}
+  '@iconify/tools@4.0.7':
+    resolution: {integrity: sha512-zOJxKIfZn96ZRGGvIWzDRLD9vb2CsxjcLuM+QIdvwWbv6SWhm49gECzUnd4d2P0sq9sfodT7yCNobWK8nvavxQ==}
 
   '@iconify/types@2.0.0':
     resolution: {integrity: sha512-+wluvCrRhXrhyOmRDJ3q8mux9JkKy5SJ/v8ol2tu4FVjyYvtEzkc/3pK15ET6RKg4b4w4BmTk1+gsCUhf21Ykg==}
@@ -6692,8 +6692,8 @@ packages:
     engines: {node: '>=10'}
     hasBin: true
 
-  send@0.18.0:
-    resolution: {integrity: sha512-qqWzuOjSFOuqPjFe4NOsMLafToQQwBSOEpS+FwEt3A2V3vKubTquT3vmLTQpFgMXp8AlFWFuP1qKaJZOtPpVXg==}
+  send@0.19.0:
+    resolution: {integrity: sha512-dW41u5VfLXu8SJh5bwRmyYUbAoSB3c9uQh6L8h/KtsFREPWpbX1lrljJo186Jc4nmci/sGUZ9a0a0J2zgfq2hw==}
     engines: {node: '>= 0.8.0'}
 
   serialize-javascript@6.0.2:
@@ -7786,10 +7786,10 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@astrojs/node@8.3.3(astro@4.15.8(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))':
+  '@astrojs/node@8.3.4(astro@4.15.8(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2))':
     dependencies:
       astro: 4.15.8(@types/node@22.5.0)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.6)(typescript@5.6.2)
-      send: 0.18.0
+      send: 0.19.0
       server-destroy: 1.0.1
     transitivePeerDependencies:
       - supports-color
@@ -8928,7 +8928,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@iconify/tools@4.0.6':
+  '@iconify/tools@4.0.7':
     dependencies:
       '@iconify/types': 2.0.0
       '@iconify/utils': 2.1.32
@@ -11319,7 +11319,7 @@ snapshots:
 
   astro-iconify@1.2.0:
     dependencies:
-      '@iconify/tools': 4.0.6
+      '@iconify/tools': 4.0.7
       node-fetch: 3.3.2
       resolve-pkg: 2.0.0
       svgo: 3.3.2
@@ -15009,7 +15009,7 @@ snapshots:
 
   semver@7.6.3: {}
 
-  send@0.18.0:
+  send@0.19.0:
     dependencies:
       debug: 2.6.9
       depd: 2.0.0
