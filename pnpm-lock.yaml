@@ -233,10 +233,10 @@ importers:
         version: 1.10.2
       '@keystatic/astro':
         specifier: 5.0.0
-        version: 5.0.0(@keystatic/core@0.5.36(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+        version: 5.0.0(@keystatic/core@0.5.37(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@keystatic/core':
-        specifier: 0.5.36
-        version: 0.5.36(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+        specifier: 0.5.37
+        version: 0.5.37(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@playform/compress':
         specifier: 0.1.4
         version: 0.1.4(@types/node@22.5.0)(rollup@4.21.0)(typescript@5.6.2)
@@ -2610,8 +2610,8 @@ packages:
       react: ^18.2.0
       react-dom: ^18.2.0
 
-  '@keystatic/core@0.5.36':
-    resolution: {integrity: sha512-vhoOkBZOjumZhkeNFKuucE2egYVIrBZNz0sfX7DX9XeazoctIyyCshw+UMsuaT2OhlUx/6LJyXlqcUOZMOYCPQ==}
+  '@keystatic/core@0.5.37':
+    resolution: {integrity: sha512-5RIKLhx7jv0yrfPjugk3bg7u7H5xBTlaIkldjtC8LC630bWDFazTumUHRdvl9dx7Y9JAcllsX4dMQLlZ8AAotA==}
     peerDependencies:
       react: ^18.2.0
       react-dom: ^18.2.0
@@ -4105,6 +4105,10 @@ packages:
   cookie@0.6.0:
     resolution: {integrity: sha512-U71cyTamuh1CRNCfpGY6to28lxvNwPG4Guz/EVjgf3Jmzv0vlDp1atT9eS5dDjMYHucpHbWns6Lwf3BKz6svdw==}
     engines: {node: '>= 0.6'}
+
+  cookie@1.0.0:
+    resolution: {integrity: sha512-bsSztFoaR8bw9MlFCrTHzc1wOKCUKOBsbgFdoDilZDkETAOOjKSqV7L+EQLbTaylwvZasd9vM4MGKotJaUfSpA==}
+    engines: {node: '>=18'}
 
   core-js-compat@3.38.1:
     resolution: {integrity: sha512-JRH6gfXxGmrzF3tZ57lFx97YARxCXPaMzPo6jELZhv88pBH5VXpQ+y0znKGlFnzuaihqhLbefxSJxWJMPtfDzw==}
@@ -9343,10 +9347,10 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@keystatic/astro@5.0.0(@keystatic/core@0.5.36(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
+  '@keystatic/astro@5.0.0(@keystatic/core@0.5.37(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
     dependencies:
       '@babel/runtime': 7.25.4
-      '@keystatic/core': 0.5.36(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@keystatic/core': 0.5.37(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@types/react': 18.3.11
       astro: 4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2)
       cookie: 0.5.0
@@ -9354,7 +9358,7 @@ snapshots:
       react-dom: 18.3.1(react@18.3.1)
       set-cookie-parser: 2.7.0
 
-  '@keystatic/core@0.5.36(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
+  '@keystatic/core@0.5.37(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
     dependencies:
       '@babel/runtime': 7.25.4
       '@braintree/sanitize-url': 6.0.4
@@ -9385,7 +9389,7 @@ snapshots:
       '@urql/exchange-auth': 2.2.0(@urql/core@5.0.6(graphql@16.9.0))
       '@urql/exchange-graphcache': 7.1.2(@urql/core@5.0.6(graphql@16.9.0))(graphql@16.9.0)
       '@urql/exchange-persisted': 4.3.0(@urql/core@5.0.6(graphql@16.9.0))
-      cookie: 0.5.0
+      cookie: 1.0.0
       emery: 1.4.3
       escape-string-regexp: 4.0.0
       fast-deep-equal: 3.1.3
@@ -11711,6 +11715,8 @@ snapshots:
   cookie@0.5.0: {}
 
   cookie@0.6.0: {}
+
+  cookie@1.0.0: {}
 
   core-js-compat@3.38.1:
     dependencies:
