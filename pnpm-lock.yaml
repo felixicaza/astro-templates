@@ -14,8 +14,8 @@ importers:
         specifier: 0.9.4
         version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.3.3)(typescript@5.6.2)
       '@astrojs/tailwind':
-        specifier: 5.1.1
-        version: 5.1.1(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)
+        specifier: 5.1.2
+        version: 5.1.2(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)
       '@astrojs/ts-plugin':
         specifier: 1.10.2
         version: 1.10.2
@@ -114,8 +114,8 @@ importers:
         specifier: 0.9.4
         version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.3.3)(typescript@5.6.2)
       '@astrojs/tailwind':
-        specifier: 5.1.1
-        version: 5.1.1(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)
+        specifier: 5.1.2
+        version: 5.1.2(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)
       '@astrojs/ts-plugin':
         specifier: 1.10.2
         version: 1.10.2
@@ -226,8 +226,8 @@ importers:
         specifier: 3.6.2
         version: 3.6.2(@types/react-dom@18.3.0)(@types/react@18.3.11)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(vite@5.4.8(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.34.1))
       '@astrojs/tailwind':
-        specifier: 5.1.1
-        version: 5.1.1(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)
+        specifier: 5.1.2
+        version: 5.1.2(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)
       '@astrojs/ts-plugin':
         specifier: 1.10.2
         version: 1.10.2
@@ -344,8 +344,8 @@ importers:
         specifier: ^0.9.4
         version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.3.3)(typescript@5.6.2)
       '@astrojs/tailwind':
-        specifier: 5.1.1
-        version: 5.1.1(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)
+        specifier: 5.1.2
+        version: 5.1.2(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)
       '@astrojs/ts-plugin':
         specifier: 1.10.2
         version: 1.10.2
@@ -450,8 +450,8 @@ importers:
         specifier: ^0.9.4
         version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.3.3)(typescript@5.6.2)
       '@astrojs/tailwind':
-        specifier: 5.1.1
-        version: 5.1.1(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)
+        specifier: 5.1.2
+        version: 5.1.2(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)
       '@astrolicious/i18n':
         specifier: 0.5.1
         version: 0.5.1(@types/node@22.5.0)(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(i18next@23.15.2)(lightningcss@1.27.0)(terser@5.34.1)
@@ -556,8 +556,8 @@ importers:
         specifier: 0.9.4
         version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.3.3)(typescript@5.6.2)
       '@astrojs/tailwind':
-        specifier: 5.1.1
-        version: 5.1.1(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@2.79.1)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)
+        specifier: 5.1.2
+        version: 5.1.2(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@2.79.1)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)
       '@astrojs/ts-plugin':
         specifier: 1.10.2
         version: 1.10.2
@@ -665,8 +665,8 @@ importers:
         specifier: 0.9.4
         version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.3.3)(typescript@5.6.2)
       '@astrojs/tailwind':
-        specifier: 5.1.1
-        version: 5.1.1(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)
+        specifier: 5.1.2
+        version: 5.1.2(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)
       '@astrojs/ts-plugin':
         specifier: 1.10.2
         version: 1.10.2
@@ -780,8 +780,8 @@ importers:
         specifier: 3.6.2
         version: 3.6.2(@types/react-dom@18.3.0)(@types/react@18.3.11)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(vite@5.4.8(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.34.1))
       '@astrojs/tailwind':
-        specifier: 5.1.1
-        version: 5.1.1(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)
+        specifier: 5.1.2
+        version: 5.1.2(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)
       '@astrojs/ts-plugin':
         specifier: 1.10.2
         version: 1.10.2
@@ -901,8 +901,8 @@ importers:
         specifier: 3.6.2
         version: 3.6.2(@types/react-dom@18.3.0)(@types/react@18.3.11)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(vite@5.4.8(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.34.1))
       '@astrojs/tailwind':
-        specifier: 5.1.1
-        version: 5.1.1(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)
+        specifier: 5.1.2
+        version: 5.1.2(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)
       '@astrojs/ts-plugin':
         specifier: 1.10.2
         version: 1.10.2
@@ -1025,8 +1025,8 @@ importers:
         specifier: 3.6.2
         version: 3.6.2(@types/react-dom@18.3.0)(@types/react@18.3.11)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(vite@5.4.8(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.34.1))
       '@astrojs/tailwind':
-        specifier: 5.1.1
-        version: 5.1.1(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)
+        specifier: 5.1.2
+        version: 5.1.2(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)
       '@astrojs/ts-plugin':
         specifier: 1.10.2
         version: 1.10.2
@@ -1155,8 +1155,8 @@ importers:
         specifier: 3.6.2
         version: 3.6.2(@types/react-dom@18.3.0)(@types/react@18.3.11)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(vite@5.4.8(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.34.1))
       '@astrojs/tailwind':
-        specifier: 5.1.1
-        version: 5.1.1(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)
+        specifier: 5.1.2
+        version: 5.1.2(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)
       '@astrojs/ts-plugin':
         specifier: 1.10.2
         version: 1.10.2
@@ -1360,8 +1360,8 @@ packages:
       react: ^17.0.2 || ^18.0.0 || ^19.0.0-beta
       react-dom: ^17.0.2 || ^18.0.0 || ^19.0.0-beta
 
-  '@astrojs/tailwind@5.1.1':
-    resolution: {integrity: sha512-LwurA10uIKcGRxQP2R81RvAnBT0WPKzBntXZBF4hrAefDgM5Uumn0nsGr6tdIjSARgYz4X+Cq/Vh78t3bql3yw==}
+  '@astrojs/tailwind@5.1.2':
+    resolution: {integrity: sha512-IvOF0W/dtHElcXvhrPR35nHmhyV3cfz1EzPitMGtU7sYy9Hci3BNK1To6FWmVuuNKPxza1IgCGetSynJZL7fOg==}
     peerDependencies:
       astro: ^3.0.0 || ^4.0.0 || ^5.0.0-beta.0
       tailwindcss: ^3.0.24
@@ -7721,7 +7721,7 @@ snapshots:
       - supports-color
       - vite
 
-  '@astrojs/tailwind@5.1.1(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@2.79.1)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)':
+  '@astrojs/tailwind@5.1.2(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@2.79.1)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)':
     dependencies:
       astro: 4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@2.79.1)(terser@5.34.1)(typescript@5.6.2)
       autoprefixer: 10.4.20(postcss@8.4.47)
@@ -7731,7 +7731,7 @@ snapshots:
     transitivePeerDependencies:
       - ts-node
 
-  '@astrojs/tailwind@5.1.1(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)':
+  '@astrojs/tailwind@5.1.2(astro@4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2))(tailwindcss@3.4.13)':
     dependencies:
       astro: 4.15.11(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.2)
       autoprefixer: 10.4.20(postcss@8.4.47)
