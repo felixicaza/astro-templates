@@ -34,7 +34,7 @@
     "@astrojs/react": "3.6.2",
     "@astrojs/tailwind": "5.1.2",
     "@astrojs/ts-plugin": "1.10.3",
-    "@keystatic/astro": "5.0.1",
+    "@keystatic/astro": "5.0.2",
     "@keystatic/core": "0.5.37",
     "@playform/compress": "0.1.4",
     "@playform/inline": "0.1.0",
