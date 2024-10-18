@@ -224,7 +224,7 @@ importers:
         version: 8.3.4(astro@4.16.0(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.3))
       '@astrojs/react':
         specifier: 3.6.2
-        version: 3.6.2(@types/react-dom@18.3.0)(@types/react@18.3.11)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(vite@5.4.8(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.34.1))
+        version: 3.6.2(@types/react-dom@18.3.1)(@types/react@18.3.11)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(vite@5.4.8(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.34.1))
       '@astrojs/tailwind':
         specifier: 5.1.2
         version: 5.1.2(astro@4.16.0(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.3))(tailwindcss@3.4.13)
@@ -247,8 +247,8 @@ importers:
         specifier: 18.3.11
         version: 18.3.11
       '@types/react-dom':
-        specifier: 18.3.0
-        version: 18.3.0
+        specifier: 18.3.1
+        version: 18.3.1
       astro:
         specifier: 4.16.0
         version: 4.16.0(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.3)
@@ -778,7 +778,7 @@ importers:
         version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.3.3)(typescript@5.6.3)
       '@astrojs/react':
         specifier: 3.6.2
-        version: 3.6.2(@types/react-dom@18.3.0)(@types/react@18.3.11)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(vite@5.4.8(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.34.1))
+        version: 3.6.2(@types/react-dom@18.3.1)(@types/react@18.3.11)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(vite@5.4.8(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.34.1))
       '@astrojs/tailwind':
         specifier: 5.1.2
         version: 5.1.2(astro@4.16.0(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.3))(tailwindcss@3.4.13)
@@ -795,8 +795,8 @@ importers:
         specifier: 18.3.11
         version: 18.3.11
       '@types/react-dom':
-        specifier: 18.3.0
-        version: 18.3.0
+        specifier: 18.3.1
+        version: 18.3.1
       astro:
         specifier: 4.16.0
         version: 4.16.0(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.3)
@@ -899,7 +899,7 @@ importers:
         version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.3.3)(typescript@5.6.3)
       '@astrojs/react':
         specifier: 3.6.2
-        version: 3.6.2(@types/react-dom@18.3.0)(@types/react@18.3.11)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(vite@5.4.8(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.34.1))
+        version: 3.6.2(@types/react-dom@18.3.1)(@types/react@18.3.11)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(vite@5.4.8(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.34.1))
       '@astrojs/tailwind':
         specifier: 5.1.2
         version: 5.1.2(astro@4.16.0(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.3))(tailwindcss@3.4.13)
@@ -916,8 +916,8 @@ importers:
         specifier: 18.3.11
         version: 18.3.11
       '@types/react-dom':
-        specifier: 18.3.0
-        version: 18.3.0
+        specifier: 18.3.1
+        version: 18.3.1
       astro:
         specifier: 4.16.0
         version: 4.16.0(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.3)
@@ -1023,7 +1023,7 @@ importers:
         version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.3.3)(typescript@5.6.3)
       '@astrojs/react':
         specifier: 3.6.2
-        version: 3.6.2(@types/react-dom@18.3.0)(@types/react@18.3.11)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(vite@5.4.8(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.34.1))
+        version: 3.6.2(@types/react-dom@18.3.1)(@types/react@18.3.11)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(vite@5.4.8(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.34.1))
       '@astrojs/tailwind':
         specifier: 5.1.2
         version: 5.1.2(astro@4.16.0(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.3))(tailwindcss@3.4.13)
@@ -1040,8 +1040,8 @@ importers:
         specifier: 18.3.11
         version: 18.3.11
       '@types/react-dom':
-        specifier: 18.3.0
-        version: 18.3.0
+        specifier: 18.3.1
+        version: 18.3.1
       '@vite-pwa/astro':
         specifier: 0.4.3
         version: 0.4.3(astro@4.16.0(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.3))(vite-plugin-pwa@0.20.5(vite@5.4.8(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.34.1))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))
@@ -1153,7 +1153,7 @@ importers:
         version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.3.3)(typescript@5.6.3)
       '@astrojs/react':
         specifier: 3.6.2
-        version: 3.6.2(@types/react-dom@18.3.0)(@types/react@18.3.11)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(vite@5.4.8(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.34.1))
+        version: 3.6.2(@types/react-dom@18.3.1)(@types/react@18.3.11)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(vite@5.4.8(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.34.1))
       '@astrojs/tailwind':
         specifier: 5.1.2
         version: 5.1.2(astro@4.16.0(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.3))(tailwindcss@3.4.13)
@@ -1170,8 +1170,8 @@ importers:
         specifier: 18.3.11
         version: 18.3.11
       '@types/react-dom':
-        specifier: 18.3.0
-        version: 18.3.0
+        specifier: 18.3.1
+        version: 18.3.1
       '@vite-pwa/astro':
         specifier: 0.4.3
         version: 0.4.3(astro@4.16.0(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.34.1)(typescript@5.6.3))(vite-plugin-pwa@0.20.5(vite@5.4.8(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.34.1))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))
@@ -3495,8 +3495,8 @@ packages:
   '@types/prop-types@15.7.12':
     resolution: {integrity: sha512-5zvhXYtRNRluoE/jAp4GVsSduVUzNWKkOZrCDBWYtE7biZywwdC2AcEzg+cSMLFRfVgeAFqpfNabiPjxFddV1Q==}
 
-  '@types/react-dom@18.3.0':
-    resolution: {integrity: sha512-EhwApuTmMBmXuFOikhQLIBUn6uFg81SwLMOAUgodJF14SOBOCMdU04gDoYi0WOJJHD144TL32z4yDqCW3dnkQg==}
+  '@types/react-dom@18.3.1':
+    resolution: {integrity: sha512-qW1Mfv8taImTthu4KoXgDfLuk4bydU6Q/TkADnDWWHwi4NX4BR+LWfTp2sVmTqRrsHvyDDTelgelxJ+SsejKKQ==}
 
   '@types/react@18.3.11':
     resolution: {integrity: sha512-r6QZ069rFTjrEYgFdOck1gK7FLVsgJE7tTz0pQBczlBNUhBNk0MQH4UbnFSwjpQLMkLzgqvBBa+qGpLje16eTQ==}
@@ -7788,10 +7788,10 @@ snapshots:
     dependencies:
       prismjs: 1.29.0
 
-  '@astrojs/react@3.6.2(@types/react-dom@18.3.0)(@types/react@18.3.11)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(vite@5.4.8(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.34.1))':
+  '@astrojs/react@3.6.2(@types/react-dom@18.3.1)(@types/react@18.3.11)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(vite@5.4.8(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.34.1))':
     dependencies:
       '@types/react': 18.3.11
-      '@types/react-dom': 18.3.0
+      '@types/react-dom': 18.3.1
       '@vitejs/plugin-react': 4.3.1(vite@5.4.8(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.34.1))
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
@@ -10922,7 +10922,7 @@ snapshots:
 
   '@types/prop-types@15.7.12': {}
 
-  '@types/react-dom@18.3.0':
+  '@types/react-dom@18.3.1':
     dependencies:
       '@types/react': 18.3.11
 
