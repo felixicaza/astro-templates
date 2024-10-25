@@ -31,7 +31,7 @@
     "@astrojs/check": "0.9.4",
     "@astrojs/tailwind": "5.1.2",
     "@astrojs/ts-plugin": "1.10.3",
-    "@playform/compress": "0.1.4",
+    "@playform/compress": "0.1.6",
     "@playform/inline": "0.1.0",
     "@vite-pwa/astro": "0.4.3",
     "astro": "4.16.6",
