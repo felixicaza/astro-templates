@@ -233,10 +233,10 @@ importers:
         version: 1.10.3
       '@keystatic/astro':
         specifier: 5.0.2
-        version: 5.0.2(@keystatic/core@0.5.38(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.16.6(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+        version: 5.0.2(@keystatic/core@0.5.39(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.16.6(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@keystatic/core':
-        specifier: 0.5.38
-        version: 0.5.38(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+        specifier: 0.5.39
+        version: 0.5.39(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@playform/compress':
         specifier: 0.1.6
         version: 0.1.6(@types/node@22.5.0)(rollup@4.21.0)(typescript@5.6.3)
@@ -2663,8 +2663,8 @@ packages:
   '@juggle/resize-observer@3.4.0':
     resolution: {integrity: sha512-dfLbk+PwWvFzSxwk3n5ySL0hfBog779o8h68wK/7/APo/7cgyWp5jcXockbxdk5kFRkbeXWm4Fbi9FrdN381sA==}
 
-  '@keystar/ui@0.7.11':
-    resolution: {integrity: sha512-lBAKglgCsYOj3pYiOnCr14jvKHIvbnaCxkCKCHGsl15nOjRbKylAwbbMvd3vi/cUyXe+qX3kdn/YtAbVwkyjCg==}
+  '@keystar/ui@0.7.12':
+    resolution: {integrity: sha512-dZlr2VYhEVU/jSaC1/o3iRoS2TBYv7o5odqyBD/5qXuuiaFJZjbZ9wO5PrjxLT7SxjLAomOlBdpUgSha0GiTlw==}
     peerDependencies:
       next: '>=14'
       react: ^18.2.0
@@ -2681,8 +2681,8 @@ packages:
       react: ^18.2.0
       react-dom: ^18.2.0
 
-  '@keystatic/core@0.5.38':
-    resolution: {integrity: sha512-mtvGYBfJldFaTLX6ivTUylJaskvZr35qid8aKID/WjLygxbo5s1xkxRBTeQaJkSPF0Vu4CmpHqLYUjZcpVUvMw==}
+  '@keystatic/core@0.5.39':
+    resolution: {integrity: sha512-bOnNXT32ZrAs+s1g/Z1D8QEzkGQ5svVyhsAXM+bcR7kN+4ZoFvWGLMrosyCBflh+b3CuvcxPP1rD2v+stc/1AQ==}
     peerDependencies:
       react: ^18.2.0
       react-dom: ^18.2.0
@@ -9427,7 +9427,7 @@ snapshots:
 
   '@juggle/resize-observer@3.4.0': {}
 
-  '@keystar/ui@0.7.11(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
+  '@keystar/ui@0.7.12(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
     dependencies:
       '@babel/runtime': 7.25.4
       '@emotion/css': 11.13.0
@@ -9520,17 +9520,17 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@keystatic/astro@5.0.2(@keystatic/core@0.5.38(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.16.6(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
+  '@keystatic/astro@5.0.2(@keystatic/core@0.5.39(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.16.6(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
     dependencies:
       '@babel/runtime': 7.25.4
-      '@keystatic/core': 0.5.38(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@keystatic/core': 0.5.39(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@types/react': 18.3.12
       astro: 4.16.6(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3)
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
       set-cookie-parser: 2.7.0
 
-  '@keystatic/core@0.5.38(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
+  '@keystatic/core@0.5.39(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
     dependencies:
       '@babel/runtime': 7.25.4
       '@braintree/sanitize-url': 6.0.4
@@ -9538,7 +9538,7 @@ snapshots:
       '@emotion/weak-memoize': 0.3.1
       '@floating-ui/react': 0.24.8(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@internationalized/string': 3.2.3
-      '@keystar/ui': 0.7.11(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@keystar/ui': 0.7.12(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@markdoc/markdoc': 0.4.0(@types/react@18.3.12)(react@18.3.1)
       '@react-aria/focus': 3.18.2(react@18.3.1)
       '@react-aria/i18n': 3.12.2(react@18.3.1)
