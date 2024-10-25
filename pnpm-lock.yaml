@@ -232,8 +232,8 @@ importers:
         specifier: 1.10.3
         version: 1.10.3
       '@keystatic/astro':
-        specifier: 5.0.2
-        version: 5.0.2(@keystatic/core@0.5.39(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.16.6(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+        specifier: 5.0.3
+        version: 5.0.3(@keystatic/core@0.5.39(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.16.6(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@keystatic/core':
         specifier: 0.5.39
         version: 0.5.39(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
@@ -2673,8 +2673,8 @@ packages:
       next:
         optional: true
 
-  '@keystatic/astro@5.0.2':
-    resolution: {integrity: sha512-04JNaIl0aB3BdDhdmZH0RYrK5bDGbQa+tUM8hAIk8GcGNFLY3IVB8LFGD9WJN5txDk05PmOQMEaKqWlcuWoNyA==}
+  '@keystatic/astro@5.0.3':
+    resolution: {integrity: sha512-2zXhv+nHLh1qoku46WvFXw+0uXtTan7/V2Vf+diVlWjE+KLTQSPqlQtIu2qMQHuRxXm8kLzD6kRKO3rBsk4Y2A==}
     peerDependencies:
       '@keystatic/core': '*'
       astro: 2 || 3 || 4 || 5
@@ -9520,7 +9520,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@keystatic/astro@5.0.2(@keystatic/core@0.5.39(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.16.6(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
+  '@keystatic/astro@5.0.3(@keystatic/core@0.5.39(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.16.6(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
     dependencies:
       '@babel/runtime': 7.25.4
       '@keystatic/core': 0.5.39(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
