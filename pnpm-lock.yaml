@@ -557,22 +557,22 @@ importers:
         version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.3.3)(typescript@5.6.3)
       '@astrojs/tailwind':
         specifier: 5.1.2
-        version: 5.1.2(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3))(tailwindcss@3.4.14)
+        version: 5.1.2(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@2.79.1)(terser@5.36.0)(typescript@5.6.3))(tailwindcss@3.4.14)
       '@astrojs/ts-plugin':
         specifier: 1.10.4
         version: 1.10.4
       '@playform/compress':
         specifier: 0.1.6
-        version: 0.1.6(@types/node@22.5.0)(rollup@4.21.0)(typescript@5.6.3)
+        version: 0.1.6(@types/node@22.5.0)(rollup@2.79.1)(typescript@5.6.3)
       '@playform/inline':
         specifier: 0.1.0
-        version: 0.1.0(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3)
+        version: 0.1.0(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@2.79.1)(terser@5.36.0)(typescript@5.6.3)
       '@vite-pwa/astro':
         specifier: 0.4.3
-        version: 0.4.3(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3))(vite-plugin-pwa@0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))
+        version: 0.4.3(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@2.79.1)(terser@5.36.0)(typescript@5.6.3))(vite-plugin-pwa@0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.3.0))
       astro:
         specifier: 4.16.7
-        version: 4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3)
+        version: 4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@2.79.1)(terser@5.36.0)(typescript@5.6.3)
       astro-compressor:
         specifier: 0.4.1
         version: 0.4.1
@@ -581,13 +581,13 @@ importers:
         version: 1.2.0
       astro-seo-schema:
         specifier: 4.0.2
-        version: 4.0.2(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        version: 4.0.2(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@2.79.1)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
       astro-tunnel:
         specifier: 0.1.6
-        version: 0.1.6(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3))
+        version: 0.1.6(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@2.79.1)(terser@5.36.0)(typescript@5.6.3))
       schema-dts:
         specifier: 1.1.2
         version: 1.1.2(typescript@5.6.3)
@@ -599,10 +599,10 @@ importers:
         version: 5.6.3
       vite-plugin-pwa:
         specifier: 0.20.5
-        version: 0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0)
+        version: 0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.3.0)
       workbox-window:
-        specifier: 7.1.0
-        version: 7.1.0
+        specifier: 7.3.0
+        version: 7.3.0
     devDependencies:
       '@ianvs/prettier-plugin-sort-imports':
         specifier: 4.3.1
@@ -666,22 +666,22 @@ importers:
         version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.3.3)(typescript@5.6.3)
       '@astrojs/tailwind':
         specifier: 5.1.2
-        version: 5.1.2(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@2.79.1)(terser@5.36.0)(typescript@5.6.3))(tailwindcss@3.4.14)
+        version: 5.1.2(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3))(tailwindcss@3.4.14)
       '@astrojs/ts-plugin':
         specifier: 1.10.4
         version: 1.10.4
       '@playform/compress':
         specifier: 0.1.6
-        version: 0.1.6(@types/node@22.5.0)(rollup@2.79.1)(typescript@5.6.3)
+        version: 0.1.6(@types/node@22.5.0)(rollup@4.21.0)(typescript@5.6.3)
       '@playform/inline':
         specifier: 0.1.0
-        version: 0.1.0(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@2.79.1)(terser@5.36.0)(typescript@5.6.3)
+        version: 0.1.0(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3)
       '@vite-pwa/astro':
         specifier: 0.4.3
-        version: 0.4.3(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@2.79.1)(terser@5.36.0)(typescript@5.6.3))(vite-plugin-pwa@0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))
+        version: 0.4.3(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3))(vite-plugin-pwa@0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.3.0))
       astro:
         specifier: 4.16.7
-        version: 4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@2.79.1)(terser@5.36.0)(typescript@5.6.3)
+        version: 4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3)
       astro-compressor:
         specifier: 0.4.1
         version: 0.4.1
@@ -690,16 +690,16 @@ importers:
         version: 1.2.0
       astro-imagetools:
         specifier: 0.9.0
-        version: 0.9.0(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@2.79.1)(terser@5.36.0)(typescript@5.6.3))
+        version: 0.9.0(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3))
       astro-seo-schema:
         specifier: 4.0.2
-        version: 4.0.2(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@2.79.1)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        version: 4.0.2(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
       astro-tunnel:
         specifier: 0.1.6
-        version: 0.1.6(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@2.79.1)(terser@5.36.0)(typescript@5.6.3))
+        version: 0.1.6(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3))
       schema-dts:
         specifier: 1.1.2
         version: 1.1.2(typescript@5.6.3)
@@ -711,10 +711,10 @@ importers:
         version: 5.6.3
       vite-plugin-pwa:
         specifier: 0.20.5
-        version: 0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0)
+        version: 0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.3.0)
       workbox-window:
-        specifier: 7.1.0
-        version: 7.1.0
+        specifier: 7.3.0
+        version: 7.3.0
     devDependencies:
       '@ianvs/prettier-plugin-sort-imports':
         specifier: 4.3.1
@@ -1044,7 +1044,7 @@ importers:
         version: 18.3.1
       '@vite-pwa/astro':
         specifier: 0.4.3
-        version: 0.4.3(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3))(vite-plugin-pwa@0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))
+        version: 0.4.3(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3))(vite-plugin-pwa@0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.3.0))
       astro:
         specifier: 4.16.7
         version: 4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3)
@@ -1080,10 +1080,10 @@ importers:
         version: 5.6.3
       vite-plugin-pwa:
         specifier: 0.20.5
-        version: 0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0)
+        version: 0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.3.0)
       workbox-window:
-        specifier: 7.1.0
-        version: 7.1.0
+        specifier: 7.3.0
+        version: 7.3.0
     devDependencies:
       '@ianvs/prettier-plugin-sort-imports':
         specifier: 4.3.1
@@ -1174,7 +1174,7 @@ importers:
         version: 18.3.1
       '@vite-pwa/astro':
         specifier: 0.4.3
-        version: 0.4.3(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3))(vite-plugin-pwa@0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))
+        version: 0.4.3(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3))(vite-plugin-pwa@0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.3.0))
       astro:
         specifier: 4.16.7
         version: 4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3)
@@ -1213,10 +1213,10 @@ importers:
         version: 5.6.3
       vite-plugin-pwa:
         specifier: 0.20.5
-        version: 0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0)
+        version: 0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.3.0)
       workbox-window:
-        specifier: 7.1.0
-        version: 7.1.0
+        specifier: 7.3.0
+        version: 7.3.0
     devDependencies:
       '@ianvs/prettier-plugin-sort-imports':
         specifier: 4.3.1
@@ -7501,6 +7501,9 @@ packages:
   workbox-core@7.1.0:
     resolution: {integrity: sha512-5KB4KOY8rtL31nEF7BfvU7FMzKT4B5TkbYa2tzkS+Peqj0gayMT9SytSFtNzlrvMaWgv6y/yvP9C0IbpFjV30Q==}
 
+  workbox-core@7.3.0:
+    resolution: {integrity: sha512-Z+mYrErfh4t3zi7NVTvOuACB0A/jA3bgxUN3PwtAVHvfEsZxV9Iju580VEETug3zYJRc0Dmii/aixI/Uxj8fmw==}
+
   workbox-expiration@7.1.0:
     resolution: {integrity: sha512-m5DcMY+A63rJlPTbbBNtpJ20i3enkyOtSgYfv/l8h+D6YbbNiA0zKEkCUaMsdDlxggla1oOfRkyqTvl5Ni5KQQ==}
 
@@ -7533,6 +7536,9 @@ packages:
 
   workbox-window@7.1.0:
     resolution: {integrity: sha512-ZHeROyqR+AS5UPzholQRDttLFqGMwP0Np8MKWAdyxsDETxq3qOAyXvqessc3GniohG6e0mAqSQyKOHmT8zPF7g==}
+
+  workbox-window@7.3.0:
+    resolution: {integrity: sha512-qW8PDy16OV1UBaUNGlTVcepzrlzyzNW/ZJvFQQs2j2TzGsg6IKjcpZC1RSquqQnTOafl5pCj5bGfAHlCjOOjdA==}
 
   wrap-ansi@7.0.0:
     resolution: {integrity: sha512-YVGIj2kamLSTxw6NsZjoBxfSwsn0ycdesmc4p+Q21c5zPuZ1pl+NfxVdxPtdHvmNVOQ6XSYG4AUtyt/Fi7D16Q==}
@@ -11128,15 +11134,15 @@ snapshots:
       '@urql/core': 5.0.6(graphql@16.9.0)
       wonka: 6.3.4
 
-  '@vite-pwa/astro@0.4.3(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@2.79.1)(terser@5.36.0)(typescript@5.6.3))(vite-plugin-pwa@0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))':
+  '@vite-pwa/astro@0.4.3(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@2.79.1)(terser@5.36.0)(typescript@5.6.3))(vite-plugin-pwa@0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.3.0))':
     dependencies:
       astro: 4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@2.79.1)(terser@5.36.0)(typescript@5.6.3)
-      vite-plugin-pwa: 0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0)
+      vite-plugin-pwa: 0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.3.0)
 
-  '@vite-pwa/astro@0.4.3(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3))(vite-plugin-pwa@0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0))':
+  '@vite-pwa/astro@0.4.3(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3))(vite-plugin-pwa@0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.3.0))':
     dependencies:
       astro: 4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3)
-      vite-plugin-pwa: 0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0)
+      vite-plugin-pwa: 0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.3.0)
 
   '@vitejs/plugin-react@4.3.1(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))':
     dependencies:
@@ -11387,20 +11393,6 @@ snapshots:
     transitivePeerDependencies:
       - debug
       - supports-color
-
-  astro-imagetools@0.9.0(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@2.79.1)(terser@5.36.0)(typescript@5.6.3)):
-    dependencies:
-      '@astropub/codecs': 0.4.4
-      astro: 4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@2.79.1)(terser@5.36.0)(typescript@5.6.3)
-      file-type: 17.1.1
-      find-cache-dir: 3.3.2
-      find-up: 6.3.0
-      object-hash: 3.0.0
-      potrace: 2.1.8
-    optionalDependencies:
-      imagetools-core: 3.0.2
-    transitivePeerDependencies:
-      - debug
 
   astro-imagetools@0.9.0(astro@4.16.7(@types/node@22.5.0)(lightningcss@1.27.0)(rollup@4.21.0)(terser@5.36.0)(typescript@5.6.3)):
     dependencies:
@@ -15566,14 +15558,14 @@ snapshots:
       '@types/unist': 3.0.3
       vfile-message: 4.0.2
 
-  vite-plugin-pwa@0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.1.0):
+  vite-plugin-pwa@0.20.5(vite@5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.1.1(@types/babel__core@7.20.5))(workbox-window@7.3.0):
     dependencies:
       debug: 4.3.6
       pretty-bytes: 6.1.1
       tinyglobby: 0.2.2
       vite: 5.4.9(@types/node@22.5.0)(lightningcss@1.27.0)(terser@5.36.0)
       workbox-build: 7.1.1(@types/babel__core@7.20.5)
-      workbox-window: 7.1.0
+      workbox-window: 7.3.0
     transitivePeerDependencies:
       - supports-color
 
@@ -15849,6 +15841,8 @@ snapshots:
 
   workbox-core@7.1.0: {}
 
+  workbox-core@7.3.0: {}
+
   workbox-expiration@7.1.0:
     dependencies:
       idb: 7.1.1
@@ -15903,6 +15897,11 @@ snapshots:
     dependencies:
       '@types/trusted-types': 2.0.7
       workbox-core: 7.1.0
+
+  workbox-window@7.3.0:
+    dependencies:
+      '@types/trusted-types': 2.0.7
+      workbox-core: 7.3.0
 
   wrap-ansi@7.0.0:
     dependencies:
