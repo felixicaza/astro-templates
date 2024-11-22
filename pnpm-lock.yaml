@@ -63,8 +63,8 @@ importers:
         specifier: 7.0.0
         version: 7.0.0(eslint@8.57.0)(typescript@5.6.3)
       astro-eslint-parser:
-        specifier: 1.0.3
-        version: 1.0.3(typescript@5.6.3)
+        specifier: 1.1.0
+        version: 1.1.0(typescript@5.6.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
@@ -166,8 +166,8 @@ importers:
         specifier: 7.0.0
         version: 7.0.0(eslint@8.57.0)(typescript@5.6.3)
       astro-eslint-parser:
-        specifier: 1.0.3
-        version: 1.0.3(typescript@5.6.3)
+        specifier: 1.1.0
+        version: 1.1.0(typescript@5.6.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
@@ -293,8 +293,8 @@ importers:
         specifier: 7.0.0
         version: 7.0.0(eslint@8.57.0)(typescript@5.6.3)
       astro-eslint-parser:
-        specifier: 1.0.3
-        version: 1.0.3(typescript@5.6.3)
+        specifier: 1.1.0
+        version: 1.1.0(typescript@5.6.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
@@ -399,8 +399,8 @@ importers:
         specifier: 7.0.0
         version: 7.0.0(eslint@8.57.0)(typescript@5.6.3)
       astro-eslint-parser:
-        specifier: 1.0.3
-        version: 1.0.3(typescript@5.6.3)
+        specifier: 1.1.0
+        version: 1.1.0(typescript@5.6.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
@@ -505,8 +505,8 @@ importers:
         specifier: 7.0.0
         version: 7.0.0(eslint@8.57.0)(typescript@5.6.3)
       astro-eslint-parser:
-        specifier: 1.0.3
-        version: 1.0.3(typescript@5.6.3)
+        specifier: 1.1.0
+        version: 1.1.0(typescript@5.6.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
@@ -614,8 +614,8 @@ importers:
         specifier: 7.0.0
         version: 7.0.0(eslint@8.57.0)(typescript@5.6.3)
       astro-eslint-parser:
-        specifier: 1.0.3
-        version: 1.0.3(typescript@5.6.3)
+        specifier: 1.1.0
+        version: 1.1.0(typescript@5.6.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
@@ -726,8 +726,8 @@ importers:
         specifier: 7.0.0
         version: 7.0.0(eslint@8.57.0)(typescript@5.6.3)
       astro-eslint-parser:
-        specifier: 1.0.3
-        version: 1.0.3(typescript@5.6.3)
+        specifier: 1.1.0
+        version: 1.1.0(typescript@5.6.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
@@ -841,8 +841,8 @@ importers:
         specifier: 7.0.0
         version: 7.0.0(eslint@8.57.0)(typescript@5.6.3)
       astro-eslint-parser:
-        specifier: 1.0.3
-        version: 1.0.3(typescript@5.6.3)
+        specifier: 1.1.0
+        version: 1.1.0(typescript@5.6.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
@@ -965,8 +965,8 @@ importers:
         specifier: 7.0.0
         version: 7.0.0(eslint@8.57.0)(typescript@5.6.3)
       astro-eslint-parser:
-        specifier: 1.0.3
-        version: 1.0.3(typescript@5.6.3)
+        specifier: 1.1.0
+        version: 1.1.0(typescript@5.6.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
@@ -1095,8 +1095,8 @@ importers:
         specifier: 7.0.0
         version: 7.0.0(eslint@8.57.0)(typescript@5.6.3)
       astro-eslint-parser:
-        specifier: 1.0.3
-        version: 1.0.3(typescript@5.6.3)
+        specifier: 1.1.0
+        version: 1.1.0(typescript@5.6.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
@@ -1228,8 +1228,8 @@ importers:
         specifier: 7.0.0
         version: 7.0.0(eslint@8.57.0)(typescript@5.6.3)
       astro-eslint-parser:
-        specifier: 1.0.3
-        version: 1.0.3(typescript@5.6.3)
+        specifier: 1.1.0
+        version: 1.1.0(typescript@5.6.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
@@ -3698,8 +3698,8 @@ packages:
   astro-compressor@0.4.1:
     resolution: {integrity: sha512-IAgYAlxYRMolaptsFB9quH7RxX4eUeC4UfULCPhT+ILcg7m1kbaxuyUKqGg9Hh+KZ+FNPPDAz7DqUfl+HDWhQg==}
 
-  astro-eslint-parser@1.0.3:
-    resolution: {integrity: sha512-AGsGgcg7Jg9UpyCDgvl/EkdYpe1oMkFdmC2Zl+KWneoieLCtQIFjmcY8yt41gcNx4mby0w8BBJQcBmPuf8UAoQ==}
+  astro-eslint-parser@1.1.0:
+    resolution: {integrity: sha512-F6NW1RJo5pp2kPnnM97M5Ohw8zAGjv83MpxHqfAochH68n/kiXN57+hYaNUCA7XkScoVNr6yzvly3hsY34TGfQ==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
 
   astro-iconify@1.2.0:
@@ -4058,6 +4058,7 @@ packages:
 
   critters@0.0.24:
     resolution: {integrity: sha512-Oyqew0FGM0wYUSNqR0L6AteO5MpMoUU0rhKRieXeiKs+PmRTxiJMyaunYB2KF6fQ3dzChXKCpbFOEJx3OQ1v/Q==}
+    deprecated: Ownership of Critters has moved to the Nuxt team, who will be maintaining the project going forward. If you'd like to keep using Critters, please switch to the actively-maintained fork at https://github.com/danielroe/beasties
 
   cross-spawn@7.0.6:
     resolution: {integrity: sha512-uV2QOWP2nWzsy2aMp8aRibhi9dlzF5Hgh5SHaB9OiTGEyDTiJJyx0uy51QXdyWbtAHNua4XJzUKca3OzKUd3vA==}
@@ -4499,6 +4500,7 @@ packages:
   eslint@8.57.0:
     resolution: {integrity: sha512-dZ6+mexnaTIbSBZWgou51U6OmzIhYM2VcNdtiTtI7qPNZm35Akpr0f6vtw3w1Kmn5PYo+tZVfh13WrhpS6oLqQ==}
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
+    deprecated: This version is no longer supported. Please see https://eslint.org/version-support for other options.
     hasBin: true
 
   espree@10.3.0:
@@ -10955,7 +10957,7 @@ snapshots:
 
   astro-compressor@0.4.1: {}
 
-  astro-eslint-parser@1.0.3(typescript@5.6.3):
+  astro-eslint-parser@1.1.0(typescript@5.6.3):
     dependencies:
       '@astrojs/compiler': 2.10.3
       '@typescript-eslint/scope-manager': 8.15.0
@@ -11930,7 +11932,7 @@ snapshots:
       '@eslint-community/eslint-utils': 4.4.1(eslint@8.57.0)
       '@jridgewell/sourcemap-codec': 1.5.0
       '@typescript-eslint/types': 8.15.0
-      astro-eslint-parser: 1.0.3(typescript@5.6.3)
+      astro-eslint-parser: 1.1.0(typescript@5.6.3)
       eslint: 8.57.0
       eslint-compat-utils: 0.6.3(eslint@8.57.0)
       globals: 15.12.0
