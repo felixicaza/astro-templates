@@ -37,7 +37,7 @@
     "astro": "4.16.10",
     "astro-compressor": "0.4.1",
     "astro-iconify": "1.2.0",
-    "astro-seo-schema": "4.0.2",
+    "astro-seo-schema": "4.0.3",
     "astro-sitemap": "1.0.0",
     "astro-tunnel": "0.1.6",
     "schema-dts": "1.1.2",

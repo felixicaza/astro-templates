@@ -35,8 +35,8 @@ importers:
         specifier: 1.2.0
         version: 1.2.0
       astro-seo-schema:
-        specifier: 4.0.2
-        version: 4.0.2(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        specifier: 4.0.3
+        version: 4.0.3(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
@@ -138,8 +138,8 @@ importers:
         specifier: 0.9.0
         version: 0.9.0(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
       astro-seo-schema:
-        specifier: 4.0.2
-        version: 4.0.2(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        specifier: 4.0.3
+        version: 4.0.3(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
@@ -259,8 +259,8 @@ importers:
         specifier: 1.2.0
         version: 1.2.0
       astro-seo-schema:
-        specifier: 4.0.2
-        version: 4.0.2(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        specifier: 4.0.3
+        version: 4.0.3(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
@@ -368,8 +368,8 @@ importers:
         specifier: 1.2.0
         version: 1.2.0
       astro-seo-schema:
-        specifier: 4.0.2
-        version: 4.0.2(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        specifier: 4.0.3
+        version: 4.0.3(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
@@ -474,8 +474,8 @@ importers:
         specifier: 0.9.0
         version: 0.9.0(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
       astro-seo-schema:
-        specifier: 4.0.2
-        version: 4.0.2(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        specifier: 4.0.3
+        version: 4.0.3(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
@@ -580,8 +580,8 @@ importers:
         specifier: 1.2.0
         version: 1.2.0
       astro-seo-schema:
-        specifier: 4.0.2
-        version: 4.0.2(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        specifier: 4.0.3
+        version: 4.0.3(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
@@ -692,8 +692,8 @@ importers:
         specifier: 0.9.0
         version: 0.9.0(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
       astro-seo-schema:
-        specifier: 4.0.2
-        version: 4.0.2(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        specifier: 4.0.3
+        version: 4.0.3(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
@@ -807,8 +807,8 @@ importers:
         specifier: 1.2.0
         version: 1.2.0
       astro-seo-schema:
-        specifier: 4.0.2
-        version: 4.0.2(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        specifier: 4.0.3
+        version: 4.0.3(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
@@ -931,8 +931,8 @@ importers:
         specifier: 0.9.0
         version: 0.9.0(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
       astro-seo-schema:
-        specifier: 4.0.2
-        version: 4.0.2(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        specifier: 4.0.3
+        version: 4.0.3(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
@@ -1055,8 +1055,8 @@ importers:
         specifier: 1.2.0
         version: 1.2.0
       astro-seo-schema:
-        specifier: 4.0.2
-        version: 4.0.2(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        specifier: 4.0.3
+        version: 4.0.3(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
@@ -1188,8 +1188,8 @@ importers:
         specifier: 0.9.0
         version: 0.9.0(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
       astro-seo-schema:
-        specifier: 4.0.2
-        version: 4.0.2(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        specifier: 4.0.3
+        version: 4.0.3(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
@@ -3721,8 +3721,8 @@ packages:
     peerDependencies:
       astro: '>=3'
 
-  astro-seo-schema@4.0.2:
-    resolution: {integrity: sha512-OI9DWasORMpIzKsAmF4s6ghVX8F1INROla4JKBT8WDm/du25jxQsoQcJx99NY3gOQJ7Rv9a+cFPAfr17LsYXEg==}
+  astro-seo-schema@4.0.3:
+    resolution: {integrity: sha512-K7fhkAhAkgNfWpiQRCa7K1/VBI+OatmzQjxTlPSKIoGSrXLOziPRImdXkWgFJCGhOKRVfAKdroqt1a1CdEFBPQ==}
     peerDependencies:
       astro: ^4.0.0
       schema-dts: ^1.1.0
@@ -11011,12 +11011,12 @@ snapshots:
       astro: 4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
       fast-glob: 3.3.2
 
-  astro-seo-schema@4.0.2(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3)):
+  astro-seo-schema@4.0.3(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3)):
     dependencies:
       astro: 4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.6.3)
       schema-dts: 1.1.2(typescript@5.6.3)
 
-  astro-seo-schema@4.0.2(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3)):
+  astro-seo-schema@4.0.3(astro@4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3)):
     dependencies:
       astro: 4.16.10(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
       schema-dts: 1.1.2(typescript@5.6.3)
