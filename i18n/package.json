@@ -31,7 +31,7 @@
     "@astrojs/check": "^0.9.4",
     "@astrojs/tailwind": "5.1.2",
     "@astrojs/ts-plugin": "1.10.4",
-    "@astrolicious/i18n": "0.5.1",
+    "@astrolicious/i18n": "0.6.1",
     "@playform/compress": "0.1.6",
     "@playform/inline": "0.1.0",
     "astro": "4.16.14",
