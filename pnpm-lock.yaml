@@ -12,22 +12,22 @@ importers:
     dependencies:
       '@astrojs/check':
         specifier: 0.9.4
-        version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.6.3)
+        version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.7.3)
       '@astrojs/tailwind':
         specifier: 5.1.2
-        version: 5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(tailwindcss@3.4.15)
+        version: 5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(tailwindcss@3.4.15)
       '@astrojs/ts-plugin':
         specifier: 1.10.4
         version: 1.10.4
       '@playform/compress':
         specifier: 0.1.6
-        version: 0.1.6(@types/node@22.9.1)(rollup@4.27.3)(typescript@5.6.3)
+        version: 0.1.6(@types/node@22.9.1)(rollup@4.27.3)(typescript@5.7.3)
       '@playform/inline':
         specifier: 0.1.0
-        version: 0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+        version: 0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       astro:
         specifier: 4.16.14
-        version: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+        version: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       astro-compressor:
         specifier: 0.4.1
         version: 0.4.1
@@ -36,53 +36,53 @@ importers:
         version: 1.2.0
       astro-seo-schema:
         specifier: 4.0.3
-        version: 4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        version: 4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(schema-dts@1.1.2(typescript@5.7.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
       astro-tunnel:
         specifier: 0.1.6
-        version: 0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
+        version: 0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))
       schema-dts:
         specifier: 1.1.2
-        version: 1.1.2(typescript@5.6.3)
+        version: 1.1.2(typescript@5.7.3)
       tailwindcss:
         specifier: 3.4.15
         version: 3.4.15
       typescript:
-        specifier: 5.6.3
-        version: 5.6.3
+        specifier: 5.7.3
+        version: 5.7.3
     devDependencies:
       '@ianvs/prettier-plugin-sort-imports':
         specifier: 4.4.0
         version: 4.4.0(prettier@3.4.2)
       '@typescript-eslint/eslint-plugin':
         specifier: 7.0.1
-        version: 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3)
+        version: 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3)
       '@typescript-eslint/parser':
         specifier: 7.0.0
-        version: 7.0.0(eslint@8.57.0)(typescript@5.6.3)
+        version: 7.0.0(eslint@8.57.0)(typescript@5.7.3)
       astro-eslint-parser:
         specifier: 1.1.0
-        version: 1.1.0(typescript@5.6.3)
+        version: 1.1.0(typescript@5.7.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
       eslint-config-love:
         specifier: 47.0.0
-        version: 47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.6.3)
+        version: 47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.7.3)
       eslint-config-prettier:
         specifier: 9.1.0
         version: 9.1.0(eslint@8.57.0)
       eslint-config-standard:
         specifier: 17.1.0
-        version: 17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)
+        version: 17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)
       eslint-plugin-astro:
         specifier: 1.3.1
-        version: 1.3.1(eslint@8.57.0)(typescript@5.6.3)
+        version: 1.3.1(eslint@8.57.0)(typescript@5.7.3)
       eslint-plugin-import:
         specifier: 2.29.1
-        version: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)
+        version: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)
       eslint-plugin-jsx-a11y:
         specifier: 6.10.2
         version: 6.10.2(eslint@8.57.0)
@@ -112,22 +112,22 @@ importers:
     dependencies:
       '@astrojs/check':
         specifier: 0.9.4
-        version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.6.3)
+        version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.7.3)
       '@astrojs/tailwind':
         specifier: 5.1.2
-        version: 5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(tailwindcss@3.4.15)
+        version: 5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(tailwindcss@3.4.15)
       '@astrojs/ts-plugin':
         specifier: 1.10.4
         version: 1.10.4
       '@playform/compress':
         specifier: 0.1.6
-        version: 0.1.6(@types/node@22.9.1)(rollup@4.27.3)(typescript@5.6.3)
+        version: 0.1.6(@types/node@22.9.1)(rollup@4.27.3)(typescript@5.7.3)
       '@playform/inline':
         specifier: 0.1.0
-        version: 0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+        version: 0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       astro:
         specifier: 4.16.14
-        version: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+        version: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       astro-compressor:
         specifier: 0.4.1
         version: 0.4.1
@@ -136,56 +136,56 @@ importers:
         version: 1.2.0
       astro-imagetools:
         specifier: 0.9.0
-        version: 0.9.0(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
+        version: 0.9.0(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))
       astro-seo-schema:
         specifier: 4.0.3
-        version: 4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        version: 4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(schema-dts@1.1.2(typescript@5.7.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
       astro-tunnel:
         specifier: 0.1.6
-        version: 0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
+        version: 0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))
       schema-dts:
         specifier: 1.1.2
-        version: 1.1.2(typescript@5.6.3)
+        version: 1.1.2(typescript@5.7.3)
       tailwindcss:
         specifier: 3.4.15
         version: 3.4.15
       typescript:
-        specifier: 5.6.3
-        version: 5.6.3
+        specifier: 5.7.3
+        version: 5.7.3
     devDependencies:
       '@ianvs/prettier-plugin-sort-imports':
         specifier: 4.4.0
         version: 4.4.0(prettier@3.4.2)
       '@typescript-eslint/eslint-plugin':
         specifier: 7.0.1
-        version: 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3)
+        version: 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3)
       '@typescript-eslint/parser':
         specifier: 7.0.0
-        version: 7.0.0(eslint@8.57.0)(typescript@5.6.3)
+        version: 7.0.0(eslint@8.57.0)(typescript@5.7.3)
       astro-eslint-parser:
         specifier: 1.1.0
-        version: 1.1.0(typescript@5.6.3)
+        version: 1.1.0(typescript@5.7.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
       eslint-config-love:
         specifier: 47.0.0
-        version: 47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.6.3)
+        version: 47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.7.3)
       eslint-config-prettier:
         specifier: 9.1.0
         version: 9.1.0(eslint@8.57.0)
       eslint-config-standard:
         specifier: 17.1.0
-        version: 17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)
+        version: 17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)
       eslint-plugin-astro:
         specifier: 1.3.1
-        version: 1.3.1(eslint@8.57.0)(typescript@5.6.3)
+        version: 1.3.1(eslint@8.57.0)(typescript@5.7.3)
       eslint-plugin-import:
         specifier: 2.29.1
-        version: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)
+        version: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)
       eslint-plugin-jsx-a11y:
         specifier: 6.10.2
         version: 6.10.2(eslint@8.57.0)
@@ -215,34 +215,34 @@ importers:
     dependencies:
       '@astrojs/check':
         specifier: 0.9.4
-        version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.6.3)
+        version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.7.3)
       '@astrojs/markdoc':
         specifier: 0.11.5
-        version: 0.11.5(@types/react@18.3.12)(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(react@18.3.1)
+        version: 0.11.5(@types/react@18.3.12)(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(react@18.3.1)
       '@astrojs/node':
         specifier: 8.3.4
-        version: 8.3.4(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
+        version: 8.3.4(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))
       '@astrojs/react':
         specifier: 3.6.3
         version: 3.6.3(@types/node@22.9.1)(@types/react-dom@18.3.1)(@types/react@18.3.12)(lightningcss@1.27.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(terser@5.36.0)
       '@astrojs/tailwind':
         specifier: 5.1.2
-        version: 5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(tailwindcss@3.4.15)
+        version: 5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(tailwindcss@3.4.15)
       '@astrojs/ts-plugin':
         specifier: 1.10.4
         version: 1.10.4
       '@keystatic/astro':
         specifier: 5.0.3
-        version: 5.0.3(@keystatic/core@0.5.41(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+        version: 5.0.3(@keystatic/core@0.5.41(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@keystatic/core':
         specifier: 0.5.41
         version: 0.5.41(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@playform/compress':
         specifier: 0.1.6
-        version: 0.1.6(@types/node@22.9.1)(rollup@4.27.3)(typescript@5.6.3)
+        version: 0.1.6(@types/node@22.9.1)(rollup@4.27.3)(typescript@5.7.3)
       '@playform/inline':
         specifier: 0.1.0
-        version: 0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+        version: 0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       '@types/react':
         specifier: 18.3.12
         version: 18.3.12
@@ -251,7 +251,7 @@ importers:
         version: 18.3.1
       astro:
         specifier: 4.16.14
-        version: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+        version: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       astro-compressor:
         specifier: 0.4.1
         version: 0.4.1
@@ -260,13 +260,13 @@ importers:
         version: 1.2.0
       astro-seo-schema:
         specifier: 4.0.3
-        version: 4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        version: 4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(schema-dts@1.1.2(typescript@5.7.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
       astro-tunnel:
         specifier: 0.1.6
-        version: 0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
+        version: 0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))
       react:
         specifier: 18.3.1
         version: 18.3.1
@@ -275,44 +275,44 @@ importers:
         version: 18.3.1(react@18.3.1)
       schema-dts:
         specifier: 1.1.2
-        version: 1.1.2(typescript@5.6.3)
+        version: 1.1.2(typescript@5.7.3)
       tailwindcss:
         specifier: 3.4.15
         version: 3.4.15
       typescript:
-        specifier: 5.6.3
-        version: 5.6.3
+        specifier: 5.7.3
+        version: 5.7.3
     devDependencies:
       '@ianvs/prettier-plugin-sort-imports':
         specifier: 4.4.0
         version: 4.4.0(prettier@3.4.2)
       '@typescript-eslint/eslint-plugin':
         specifier: 7.0.1
-        version: 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3)
+        version: 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3)
       '@typescript-eslint/parser':
         specifier: 7.0.0
-        version: 7.0.0(eslint@8.57.0)(typescript@5.6.3)
+        version: 7.0.0(eslint@8.57.0)(typescript@5.7.3)
       astro-eslint-parser:
         specifier: 1.1.0
-        version: 1.1.0(typescript@5.6.3)
+        version: 1.1.0(typescript@5.7.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
       eslint-config-love:
         specifier: 47.0.0
-        version: 47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.6.3)
+        version: 47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.7.3)
       eslint-config-prettier:
         specifier: 9.1.0
         version: 9.1.0(eslint@8.57.0)
       eslint-config-standard:
         specifier: 17.1.0
-        version: 17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)
+        version: 17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)
       eslint-plugin-astro:
         specifier: 1.3.1
-        version: 1.3.1(eslint@8.57.0)(typescript@5.6.3)
+        version: 1.3.1(eslint@8.57.0)(typescript@5.7.3)
       eslint-plugin-import:
         specifier: 2.29.1
-        version: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)
+        version: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)
       eslint-plugin-jsx-a11y:
         specifier: 6.10.2
         version: 6.10.2(eslint@8.57.0)
@@ -342,25 +342,25 @@ importers:
     dependencies:
       '@astrojs/check':
         specifier: ^0.9.4
-        version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.6.3)
+        version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.7.3)
       '@astrojs/tailwind':
         specifier: 5.1.2
-        version: 5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(tailwindcss@3.4.15)
+        version: 5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(tailwindcss@3.4.15)
       '@astrojs/ts-plugin':
         specifier: 1.10.4
         version: 1.10.4
       '@astrolicious/i18n':
         specifier: 0.5.1
-        version: 0.5.1(@types/node@22.9.1)(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(i18next@24.0.0(typescript@5.6.3))(lightningcss@1.27.0)(terser@5.36.0)
+        version: 0.5.1(@types/node@22.9.1)(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(i18next@24.0.0(typescript@5.7.3))(lightningcss@1.27.0)(terser@5.36.0)
       '@playform/compress':
         specifier: 0.1.6
-        version: 0.1.6(@types/node@22.9.1)(rollup@4.27.3)(typescript@5.6.3)
+        version: 0.1.6(@types/node@22.9.1)(rollup@4.27.3)(typescript@5.7.3)
       '@playform/inline':
         specifier: 0.1.0
-        version: 0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+        version: 0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       astro:
         specifier: 4.16.14
-        version: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+        version: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       astro-compressor:
         specifier: 0.4.1
         version: 0.4.1
@@ -369,56 +369,56 @@ importers:
         version: 1.2.0
       astro-seo-schema:
         specifier: 4.0.3
-        version: 4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        version: 4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(schema-dts@1.1.2(typescript@5.7.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
       astro-tunnel:
         specifier: 0.1.6
-        version: 0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
+        version: 0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))
       i18next:
         specifier: 24.0.0
-        version: 24.0.0(typescript@5.6.3)
+        version: 24.0.0(typescript@5.7.3)
       schema-dts:
         specifier: 1.1.2
-        version: 1.1.2(typescript@5.6.3)
+        version: 1.1.2(typescript@5.7.3)
       tailwindcss:
         specifier: 3.4.15
         version: 3.4.15
       typescript:
-        specifier: ^5.6.3
-        version: 5.6.3
+        specifier: ^5.7.3
+        version: 5.7.3
     devDependencies:
       '@ianvs/prettier-plugin-sort-imports':
         specifier: 4.4.0
         version: 4.4.0(prettier@3.4.2)
       '@typescript-eslint/eslint-plugin':
         specifier: 7.0.1
-        version: 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3)
+        version: 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3)
       '@typescript-eslint/parser':
         specifier: 7.0.0
-        version: 7.0.0(eslint@8.57.0)(typescript@5.6.3)
+        version: 7.0.0(eslint@8.57.0)(typescript@5.7.3)
       astro-eslint-parser:
         specifier: 1.1.0
-        version: 1.1.0(typescript@5.6.3)
+        version: 1.1.0(typescript@5.7.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
       eslint-config-love:
         specifier: 47.0.0
-        version: 47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.6.3)
+        version: 47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.7.3)
       eslint-config-prettier:
         specifier: 9.1.0
         version: 9.1.0(eslint@8.57.0)
       eslint-config-standard:
         specifier: 17.1.0
-        version: 17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)
+        version: 17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)
       eslint-plugin-astro:
         specifier: 1.3.1
-        version: 1.3.1(eslint@8.57.0)(typescript@5.6.3)
+        version: 1.3.1(eslint@8.57.0)(typescript@5.7.3)
       eslint-plugin-import:
         specifier: 2.29.1
-        version: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)
+        version: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)
       eslint-plugin-jsx-a11y:
         specifier: 6.10.2
         version: 6.10.2(eslint@8.57.0)
@@ -448,22 +448,22 @@ importers:
     dependencies:
       '@astrojs/check':
         specifier: ^0.9.4
-        version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.6.3)
+        version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.7.3)
       '@astrojs/tailwind':
         specifier: 5.1.2
-        version: 5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(tailwindcss@3.4.15)
+        version: 5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(tailwindcss@3.4.15)
       '@astrolicious/i18n':
         specifier: 0.5.1
-        version: 0.5.1(@types/node@22.9.1)(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(i18next@24.0.0(typescript@5.6.3))(lightningcss@1.27.0)(terser@5.36.0)
+        version: 0.5.1(@types/node@22.9.1)(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(i18next@24.0.0(typescript@5.7.3))(lightningcss@1.27.0)(terser@5.36.0)
       '@playform/compress':
         specifier: 0.1.6
-        version: 0.1.6(@types/node@22.9.1)(rollup@4.27.3)(typescript@5.6.3)
+        version: 0.1.6(@types/node@22.9.1)(rollup@4.27.3)(typescript@5.7.3)
       '@playform/inline':
         specifier: 0.1.0
-        version: 0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+        version: 0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       astro:
         specifier: 4.16.14
-        version: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+        version: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       astro-compressor:
         specifier: 0.4.1
         version: 0.4.1
@@ -472,59 +472,59 @@ importers:
         version: 1.2.0
       astro-imagetools:
         specifier: 0.9.0
-        version: 0.9.0(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
+        version: 0.9.0(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))
       astro-seo-schema:
         specifier: 4.0.3
-        version: 4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        version: 4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(schema-dts@1.1.2(typescript@5.7.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
       astro-tunnel:
         specifier: 0.1.6
-        version: 0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
+        version: 0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))
       i18next:
         specifier: 24.0.0
-        version: 24.0.0(typescript@5.6.3)
+        version: 24.0.0(typescript@5.7.3)
       schema-dts:
         specifier: 1.1.2
-        version: 1.1.2(typescript@5.6.3)
+        version: 1.1.2(typescript@5.7.3)
       tailwindcss:
         specifier: 3.4.15
         version: 3.4.15
       typescript:
-        specifier: ^5.6.3
-        version: 5.6.3
+        specifier: ^5.7.3
+        version: 5.7.3
     devDependencies:
       '@ianvs/prettier-plugin-sort-imports':
         specifier: 4.4.0
         version: 4.4.0(prettier@3.4.2)
       '@typescript-eslint/eslint-plugin':
         specifier: 7.0.1
-        version: 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3)
+        version: 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3)
       '@typescript-eslint/parser':
         specifier: 7.0.0
-        version: 7.0.0(eslint@8.57.0)(typescript@5.6.3)
+        version: 7.0.0(eslint@8.57.0)(typescript@5.7.3)
       astro-eslint-parser:
         specifier: 1.1.0
-        version: 1.1.0(typescript@5.6.3)
+        version: 1.1.0(typescript@5.7.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
       eslint-config-love:
         specifier: 47.0.0
-        version: 47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.6.3)
+        version: 47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.7.3)
       eslint-config-prettier:
         specifier: 9.1.0
         version: 9.1.0(eslint@8.57.0)
       eslint-config-standard:
         specifier: 17.1.0
-        version: 17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)
+        version: 17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)
       eslint-plugin-astro:
         specifier: 1.3.1
-        version: 1.3.1(eslint@8.57.0)(typescript@5.6.3)
+        version: 1.3.1(eslint@8.57.0)(typescript@5.7.3)
       eslint-plugin-import:
         specifier: 2.29.1
-        version: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)
+        version: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)
       eslint-plugin-jsx-a11y:
         specifier: 6.10.2
         version: 6.10.2(eslint@8.57.0)
@@ -554,25 +554,25 @@ importers:
     dependencies:
       '@astrojs/check':
         specifier: 0.9.4
-        version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.6.3)
+        version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.7.3)
       '@astrojs/tailwind':
         specifier: 5.1.2
-        version: 5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.6.3))(tailwindcss@3.4.15)
+        version: 5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.7.3))(tailwindcss@3.4.15)
       '@astrojs/ts-plugin':
         specifier: 1.10.4
         version: 1.10.4
       '@playform/compress':
         specifier: 0.1.6
-        version: 0.1.6(@types/node@22.9.1)(rollup@2.79.2)(typescript@5.6.3)
+        version: 0.1.6(@types/node@22.9.1)(rollup@2.79.2)(typescript@5.7.3)
       '@playform/inline':
         specifier: 0.1.0
-        version: 0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.6.3)
+        version: 0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.7.3)
       '@vite-pwa/astro':
         specifier: 0.4.3
-        version: 0.4.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.6.3))(vite-plugin-pwa@0.21.0(vite@5.4.11(@types/node@22.9.1)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.3.0(@types/babel__core@7.20.5))(workbox-window@7.3.0))
+        version: 0.4.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.7.3))(vite-plugin-pwa@0.21.0(vite@5.4.11(@types/node@22.9.1)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.3.0(@types/babel__core@7.20.5))(workbox-window@7.3.0))
       astro:
         specifier: 4.16.14
-        version: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.6.3)
+        version: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.7.3)
       astro-compressor:
         specifier: 0.4.1
         version: 0.4.1
@@ -581,22 +581,22 @@ importers:
         version: 1.2.0
       astro-seo-schema:
         specifier: 4.0.3
-        version: 4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        version: 4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.7.3))(schema-dts@1.1.2(typescript@5.7.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
       astro-tunnel:
         specifier: 0.1.6
-        version: 0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.6.3))
+        version: 0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.7.3))
       schema-dts:
         specifier: 1.1.2
-        version: 1.1.2(typescript@5.6.3)
+        version: 1.1.2(typescript@5.7.3)
       tailwindcss:
         specifier: 3.4.15
         version: 3.4.15
       typescript:
-        specifier: 5.6.3
-        version: 5.6.3
+        specifier: 5.7.3
+        version: 5.7.3
       vite-plugin-pwa:
         specifier: 0.21.0
         version: 0.21.0(vite@5.4.11(@types/node@22.9.1)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.3.0(@types/babel__core@7.20.5))(workbox-window@7.3.0)
@@ -609,31 +609,31 @@ importers:
         version: 4.4.0(prettier@3.4.2)
       '@typescript-eslint/eslint-plugin':
         specifier: 7.0.1
-        version: 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3)
+        version: 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3)
       '@typescript-eslint/parser':
         specifier: 7.0.0
-        version: 7.0.0(eslint@8.57.0)(typescript@5.6.3)
+        version: 7.0.0(eslint@8.57.0)(typescript@5.7.3)
       astro-eslint-parser:
         specifier: 1.1.0
-        version: 1.1.0(typescript@5.6.3)
+        version: 1.1.0(typescript@5.7.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
       eslint-config-love:
         specifier: 47.0.0
-        version: 47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.6.3)
+        version: 47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.7.3)
       eslint-config-prettier:
         specifier: 9.1.0
         version: 9.1.0(eslint@8.57.0)
       eslint-config-standard:
         specifier: 17.1.0
-        version: 17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)
+        version: 17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)
       eslint-plugin-astro:
         specifier: 1.3.1
-        version: 1.3.1(eslint@8.57.0)(typescript@5.6.3)
+        version: 1.3.1(eslint@8.57.0)(typescript@5.7.3)
       eslint-plugin-import:
         specifier: 2.29.1
-        version: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)
+        version: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)
       eslint-plugin-jsx-a11y:
         specifier: 6.10.2
         version: 6.10.2(eslint@8.57.0)
@@ -663,25 +663,25 @@ importers:
     dependencies:
       '@astrojs/check':
         specifier: 0.9.4
-        version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.6.3)
+        version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.7.3)
       '@astrojs/tailwind':
         specifier: 5.1.2
-        version: 5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(tailwindcss@3.4.15)
+        version: 5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(tailwindcss@3.4.15)
       '@astrojs/ts-plugin':
         specifier: 1.10.4
         version: 1.10.4
       '@playform/compress':
         specifier: 0.1.6
-        version: 0.1.6(@types/node@22.9.1)(rollup@4.27.3)(typescript@5.6.3)
+        version: 0.1.6(@types/node@22.9.1)(rollup@4.27.3)(typescript@5.7.3)
       '@playform/inline':
         specifier: 0.1.0
-        version: 0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+        version: 0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       '@vite-pwa/astro':
         specifier: 0.4.3
-        version: 0.4.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(vite-plugin-pwa@0.21.0(vite@5.4.11(@types/node@22.9.1)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.3.0(@types/babel__core@7.20.5))(workbox-window@7.3.0))
+        version: 0.4.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(vite-plugin-pwa@0.21.0(vite@5.4.11(@types/node@22.9.1)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.3.0(@types/babel__core@7.20.5))(workbox-window@7.3.0))
       astro:
         specifier: 4.16.14
-        version: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+        version: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       astro-compressor:
         specifier: 0.4.1
         version: 0.4.1
@@ -690,25 +690,25 @@ importers:
         version: 1.2.0
       astro-imagetools:
         specifier: 0.9.0
-        version: 0.9.0(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
+        version: 0.9.0(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))
       astro-seo-schema:
         specifier: 4.0.3
-        version: 4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        version: 4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(schema-dts@1.1.2(typescript@5.7.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
       astro-tunnel:
         specifier: 0.1.6
-        version: 0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
+        version: 0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))
       schema-dts:
         specifier: 1.1.2
-        version: 1.1.2(typescript@5.6.3)
+        version: 1.1.2(typescript@5.7.3)
       tailwindcss:
         specifier: 3.4.15
         version: 3.4.15
       typescript:
-        specifier: 5.6.3
-        version: 5.6.3
+        specifier: 5.7.3
+        version: 5.7.3
       vite-plugin-pwa:
         specifier: 0.21.0
         version: 0.21.0(vite@5.4.11(@types/node@22.9.1)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.3.0(@types/babel__core@7.20.5))(workbox-window@7.3.0)
@@ -721,31 +721,31 @@ importers:
         version: 4.4.0(prettier@3.4.2)
       '@typescript-eslint/eslint-plugin':
         specifier: 7.0.1
-        version: 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3)
+        version: 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3)
       '@typescript-eslint/parser':
         specifier: 7.0.0
-        version: 7.0.0(eslint@8.57.0)(typescript@5.6.3)
+        version: 7.0.0(eslint@8.57.0)(typescript@5.7.3)
       astro-eslint-parser:
         specifier: 1.1.0
-        version: 1.1.0(typescript@5.6.3)
+        version: 1.1.0(typescript@5.7.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
       eslint-config-love:
         specifier: 47.0.0
-        version: 47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.6.3)
+        version: 47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.7.3)
       eslint-config-prettier:
         specifier: 9.1.0
         version: 9.1.0(eslint@8.57.0)
       eslint-config-standard:
         specifier: 17.1.0
-        version: 17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)
+        version: 17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)
       eslint-plugin-astro:
         specifier: 1.3.1
-        version: 1.3.1(eslint@8.57.0)(typescript@5.6.3)
+        version: 1.3.1(eslint@8.57.0)(typescript@5.7.3)
       eslint-plugin-import:
         specifier: 2.29.1
-        version: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)
+        version: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)
       eslint-plugin-jsx-a11y:
         specifier: 6.10.2
         version: 6.10.2(eslint@8.57.0)
@@ -775,22 +775,22 @@ importers:
     dependencies:
       '@astrojs/check':
         specifier: 0.9.4
-        version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.6.3)
+        version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.7.3)
       '@astrojs/react':
         specifier: 3.6.3
         version: 3.6.3(@types/node@22.9.1)(@types/react-dom@18.3.1)(@types/react@18.3.12)(lightningcss@1.27.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(terser@5.36.0)
       '@astrojs/tailwind':
         specifier: 5.1.2
-        version: 5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(tailwindcss@3.4.15)
+        version: 5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(tailwindcss@3.4.15)
       '@astrojs/ts-plugin':
         specifier: 1.10.4
         version: 1.10.4
       '@playform/compress':
         specifier: 0.1.6
-        version: 0.1.6(@types/node@22.9.1)(rollup@4.27.3)(typescript@5.6.3)
+        version: 0.1.6(@types/node@22.9.1)(rollup@4.27.3)(typescript@5.7.3)
       '@playform/inline':
         specifier: 0.1.0
-        version: 0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+        version: 0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       '@types/react':
         specifier: 18.3.12
         version: 18.3.12
@@ -799,7 +799,7 @@ importers:
         version: 18.3.1
       astro:
         specifier: 4.16.14
-        version: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+        version: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       astro-compressor:
         specifier: 0.4.1
         version: 0.4.1
@@ -808,13 +808,13 @@ importers:
         version: 1.2.0
       astro-seo-schema:
         specifier: 4.0.3
-        version: 4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        version: 4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(schema-dts@1.1.2(typescript@5.7.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
       astro-tunnel:
         specifier: 0.1.6
-        version: 0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
+        version: 0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))
       react:
         specifier: 18.3.1
         version: 18.3.1
@@ -823,44 +823,44 @@ importers:
         version: 18.3.1(react@18.3.1)
       schema-dts:
         specifier: 1.1.2
-        version: 1.1.2(typescript@5.6.3)
+        version: 1.1.2(typescript@5.7.3)
       tailwindcss:
         specifier: 3.4.15
         version: 3.4.15
       typescript:
-        specifier: 5.6.3
-        version: 5.6.3
+        specifier: 5.7.3
+        version: 5.7.3
     devDependencies:
       '@ianvs/prettier-plugin-sort-imports':
         specifier: 4.4.0
         version: 4.4.0(prettier@3.4.2)
       '@typescript-eslint/eslint-plugin':
         specifier: 7.0.1
-        version: 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3)
+        version: 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3)
       '@typescript-eslint/parser':
         specifier: 7.0.0
-        version: 7.0.0(eslint@8.57.0)(typescript@5.6.3)
+        version: 7.0.0(eslint@8.57.0)(typescript@5.7.3)
       astro-eslint-parser:
         specifier: 1.1.0
-        version: 1.1.0(typescript@5.6.3)
+        version: 1.1.0(typescript@5.7.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
       eslint-config-love:
         specifier: 47.0.0
-        version: 47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.6.3)
+        version: 47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.7.3)
       eslint-config-prettier:
         specifier: 9.1.0
         version: 9.1.0(eslint@8.57.0)
       eslint-config-standard:
         specifier: 17.1.0
-        version: 17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)
+        version: 17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)
       eslint-plugin-astro:
         specifier: 1.3.1
-        version: 1.3.1(eslint@8.57.0)(typescript@5.6.3)
+        version: 1.3.1(eslint@8.57.0)(typescript@5.7.3)
       eslint-plugin-import:
         specifier: 2.29.1
-        version: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)
+        version: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)
       eslint-plugin-jsx-a11y:
         specifier: 6.10.2
         version: 6.10.2(eslint@8.57.0)
@@ -896,22 +896,22 @@ importers:
     dependencies:
       '@astrojs/check':
         specifier: 0.9.4
-        version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.6.3)
+        version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.7.3)
       '@astrojs/react':
         specifier: 3.6.3
         version: 3.6.3(@types/node@22.9.1)(@types/react-dom@18.3.1)(@types/react@18.3.12)(lightningcss@1.27.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(terser@5.36.0)
       '@astrojs/tailwind':
         specifier: 5.1.2
-        version: 5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(tailwindcss@3.4.15)
+        version: 5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(tailwindcss@3.4.15)
       '@astrojs/ts-plugin':
         specifier: 1.10.4
         version: 1.10.4
       '@playform/compress':
         specifier: 0.1.6
-        version: 0.1.6(@types/node@22.9.1)(rollup@4.27.3)(typescript@5.6.3)
+        version: 0.1.6(@types/node@22.9.1)(rollup@4.27.3)(typescript@5.7.3)
       '@playform/inline':
         specifier: 0.1.0
-        version: 0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+        version: 0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       '@types/react':
         specifier: 18.3.12
         version: 18.3.12
@@ -920,7 +920,7 @@ importers:
         version: 18.3.1
       astro:
         specifier: 4.16.14
-        version: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+        version: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       astro-compressor:
         specifier: 0.4.1
         version: 0.4.1
@@ -929,16 +929,16 @@ importers:
         version: 1.2.0
       astro-imagetools:
         specifier: 0.9.0
-        version: 0.9.0(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
+        version: 0.9.0(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))
       astro-seo-schema:
         specifier: 4.0.3
-        version: 4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        version: 4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(schema-dts@1.1.2(typescript@5.7.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
       astro-tunnel:
         specifier: 0.1.6
-        version: 0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
+        version: 0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))
       react:
         specifier: 18.3.1
         version: 18.3.1
@@ -947,44 +947,44 @@ importers:
         version: 18.3.1(react@18.3.1)
       schema-dts:
         specifier: 1.1.2
-        version: 1.1.2(typescript@5.6.3)
+        version: 1.1.2(typescript@5.7.3)
       tailwindcss:
         specifier: 3.4.15
         version: 3.4.15
       typescript:
-        specifier: 5.6.3
-        version: 5.6.3
+        specifier: 5.7.3
+        version: 5.7.3
     devDependencies:
       '@ianvs/prettier-plugin-sort-imports':
         specifier: 4.4.0
         version: 4.4.0(prettier@3.4.2)
       '@typescript-eslint/eslint-plugin':
         specifier: 7.0.1
-        version: 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3)
+        version: 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3)
       '@typescript-eslint/parser':
         specifier: 7.0.0
-        version: 7.0.0(eslint@8.57.0)(typescript@5.6.3)
+        version: 7.0.0(eslint@8.57.0)(typescript@5.7.3)
       astro-eslint-parser:
         specifier: 1.1.0
-        version: 1.1.0(typescript@5.6.3)
+        version: 1.1.0(typescript@5.7.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
       eslint-config-love:
         specifier: 47.0.0
-        version: 47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.6.3)
+        version: 47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.7.3)
       eslint-config-prettier:
         specifier: 9.1.0
         version: 9.1.0(eslint@8.57.0)
       eslint-config-standard:
         specifier: 17.1.0
-        version: 17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)
+        version: 17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)
       eslint-plugin-astro:
         specifier: 1.3.1
-        version: 1.3.1(eslint@8.57.0)(typescript@5.6.3)
+        version: 1.3.1(eslint@8.57.0)(typescript@5.7.3)
       eslint-plugin-import:
         specifier: 2.29.1
-        version: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)
+        version: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)
       eslint-plugin-jsx-a11y:
         specifier: 6.10.2
         version: 6.10.2(eslint@8.57.0)
@@ -1020,22 +1020,22 @@ importers:
     dependencies:
       '@astrojs/check':
         specifier: 0.9.4
-        version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.6.3)
+        version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.7.3)
       '@astrojs/react':
         specifier: 3.6.3
         version: 3.6.3(@types/node@22.9.1)(@types/react-dom@18.3.1)(@types/react@18.3.12)(lightningcss@1.27.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(terser@5.36.0)
       '@astrojs/tailwind':
         specifier: 5.1.2
-        version: 5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(tailwindcss@3.4.15)
+        version: 5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(tailwindcss@3.4.15)
       '@astrojs/ts-plugin':
         specifier: 1.10.4
         version: 1.10.4
       '@playform/compress':
         specifier: 0.1.6
-        version: 0.1.6(@types/node@22.9.1)(rollup@4.27.3)(typescript@5.6.3)
+        version: 0.1.6(@types/node@22.9.1)(rollup@4.27.3)(typescript@5.7.3)
       '@playform/inline':
         specifier: 0.1.0
-        version: 0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+        version: 0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       '@types/react':
         specifier: 18.3.12
         version: 18.3.12
@@ -1044,10 +1044,10 @@ importers:
         version: 18.3.1
       '@vite-pwa/astro':
         specifier: 0.4.3
-        version: 0.4.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(vite-plugin-pwa@0.21.0(vite@5.4.11(@types/node@22.9.1)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.3.0(@types/babel__core@7.20.5))(workbox-window@7.3.0))
+        version: 0.4.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(vite-plugin-pwa@0.21.0(vite@5.4.11(@types/node@22.9.1)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.3.0(@types/babel__core@7.20.5))(workbox-window@7.3.0))
       astro:
         specifier: 4.16.14
-        version: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+        version: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       astro-compressor:
         specifier: 0.4.1
         version: 0.4.1
@@ -1056,13 +1056,13 @@ importers:
         version: 1.2.0
       astro-seo-schema:
         specifier: 4.0.3
-        version: 4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        version: 4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(schema-dts@1.1.2(typescript@5.7.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
       astro-tunnel:
         specifier: 0.1.6
-        version: 0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
+        version: 0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))
       react:
         specifier: 18.3.1
         version: 18.3.1
@@ -1071,13 +1071,13 @@ importers:
         version: 18.3.1(react@18.3.1)
       schema-dts:
         specifier: 1.1.2
-        version: 1.1.2(typescript@5.6.3)
+        version: 1.1.2(typescript@5.7.3)
       tailwindcss:
         specifier: 3.4.15
         version: 3.4.15
       typescript:
-        specifier: 5.6.3
-        version: 5.6.3
+        specifier: 5.7.3
+        version: 5.7.3
       vite-plugin-pwa:
         specifier: 0.21.0
         version: 0.21.0(vite@5.4.11(@types/node@22.9.1)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.3.0(@types/babel__core@7.20.5))(workbox-window@7.3.0)
@@ -1090,31 +1090,31 @@ importers:
         version: 4.4.0(prettier@3.4.2)
       '@typescript-eslint/eslint-plugin':
         specifier: 7.0.1
-        version: 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3)
+        version: 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3)
       '@typescript-eslint/parser':
         specifier: 7.0.0
-        version: 7.0.0(eslint@8.57.0)(typescript@5.6.3)
+        version: 7.0.0(eslint@8.57.0)(typescript@5.7.3)
       astro-eslint-parser:
         specifier: 1.1.0
-        version: 1.1.0(typescript@5.6.3)
+        version: 1.1.0(typescript@5.7.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
       eslint-config-love:
         specifier: 47.0.0
-        version: 47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.6.3)
+        version: 47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.7.3)
       eslint-config-prettier:
         specifier: 9.1.0
         version: 9.1.0(eslint@8.57.0)
       eslint-config-standard:
         specifier: 17.1.0
-        version: 17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)
+        version: 17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)
       eslint-plugin-astro:
         specifier: 1.3.1
-        version: 1.3.1(eslint@8.57.0)(typescript@5.6.3)
+        version: 1.3.1(eslint@8.57.0)(typescript@5.7.3)
       eslint-plugin-import:
         specifier: 2.29.1
-        version: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)
+        version: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)
       eslint-plugin-jsx-a11y:
         specifier: 6.10.2
         version: 6.10.2(eslint@8.57.0)
@@ -1150,22 +1150,22 @@ importers:
     dependencies:
       '@astrojs/check':
         specifier: 0.9.4
-        version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.6.3)
+        version: 0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.7.3)
       '@astrojs/react':
         specifier: 3.6.3
         version: 3.6.3(@types/node@22.9.1)(@types/react-dom@18.3.1)(@types/react@18.3.12)(lightningcss@1.27.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(terser@5.36.0)
       '@astrojs/tailwind':
         specifier: 5.1.2
-        version: 5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(tailwindcss@3.4.15)
+        version: 5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(tailwindcss@3.4.15)
       '@astrojs/ts-plugin':
         specifier: 1.10.4
         version: 1.10.4
       '@playform/compress':
         specifier: 0.1.6
-        version: 0.1.6(@types/node@22.9.1)(rollup@4.27.3)(typescript@5.6.3)
+        version: 0.1.6(@types/node@22.9.1)(rollup@4.27.3)(typescript@5.7.3)
       '@playform/inline':
         specifier: 0.1.0
-        version: 0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+        version: 0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       '@types/react':
         specifier: 18.3.12
         version: 18.3.12
@@ -1174,10 +1174,10 @@ importers:
         version: 18.3.1
       '@vite-pwa/astro':
         specifier: 0.4.3
-        version: 0.4.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(vite-plugin-pwa@0.21.0(vite@5.4.11(@types/node@22.9.1)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.3.0(@types/babel__core@7.20.5))(workbox-window@7.3.0))
+        version: 0.4.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(vite-plugin-pwa@0.21.0(vite@5.4.11(@types/node@22.9.1)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.3.0(@types/babel__core@7.20.5))(workbox-window@7.3.0))
       astro:
         specifier: 4.16.14
-        version: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+        version: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       astro-compressor:
         specifier: 0.4.1
         version: 0.4.1
@@ -1186,16 +1186,16 @@ importers:
         version: 1.2.0
       astro-imagetools:
         specifier: 0.9.0
-        version: 0.9.0(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
+        version: 0.9.0(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))
       astro-seo-schema:
         specifier: 4.0.3
-        version: 4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3))
+        version: 4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(schema-dts@1.1.2(typescript@5.7.3))
       astro-sitemap:
         specifier: 1.0.0
         version: 1.0.0
       astro-tunnel:
         specifier: 0.1.6
-        version: 0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
+        version: 0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))
       react:
         specifier: 18.3.1
         version: 18.3.1
@@ -1204,13 +1204,13 @@ importers:
         version: 18.3.1(react@18.3.1)
       schema-dts:
         specifier: 1.1.2
-        version: 1.1.2(typescript@5.6.3)
+        version: 1.1.2(typescript@5.7.3)
       tailwindcss:
         specifier: 3.4.15
         version: 3.4.15
       typescript:
-        specifier: 5.6.3
-        version: 5.6.3
+        specifier: 5.7.3
+        version: 5.7.3
       vite-plugin-pwa:
         specifier: 0.21.0
         version: 0.21.0(vite@5.4.11(@types/node@22.9.1)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.3.0(@types/babel__core@7.20.5))(workbox-window@7.3.0)
@@ -1223,31 +1223,31 @@ importers:
         version: 4.4.0(prettier@3.4.2)
       '@typescript-eslint/eslint-plugin':
         specifier: 7.0.1
-        version: 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3)
+        version: 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3)
       '@typescript-eslint/parser':
         specifier: 7.0.0
-        version: 7.0.0(eslint@8.57.0)(typescript@5.6.3)
+        version: 7.0.0(eslint@8.57.0)(typescript@5.7.3)
       astro-eslint-parser:
         specifier: 1.1.0
-        version: 1.1.0(typescript@5.6.3)
+        version: 1.1.0(typescript@5.7.3)
       eslint:
         specifier: 8.57.0
         version: 8.57.0
       eslint-config-love:
         specifier: 47.0.0
-        version: 47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.6.3)
+        version: 47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.7.3)
       eslint-config-prettier:
         specifier: 9.1.0
         version: 9.1.0(eslint@8.57.0)
       eslint-config-standard:
         specifier: 17.1.0
-        version: 17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)
+        version: 17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)
       eslint-plugin-astro:
         specifier: 1.3.1
-        version: 1.3.1(eslint@8.57.0)(typescript@5.6.3)
+        version: 1.3.1(eslint@8.57.0)(typescript@5.7.3)
       eslint-plugin-import:
         specifier: 2.29.1
-        version: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)
+        version: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)
       eslint-plugin-jsx-a11y:
         specifier: 6.10.2
         version: 6.10.2(eslint@8.57.0)
@@ -2181,14 +2181,14 @@ packages:
       '@vue/compiler-sfc':
         optional: true
 
-  '@iconify/tools@4.0.7':
-    resolution: {integrity: sha512-zOJxKIfZn96ZRGGvIWzDRLD9vb2CsxjcLuM+QIdvwWbv6SWhm49gECzUnd4d2P0sq9sfodT7yCNobWK8nvavxQ==}
+  '@iconify/tools@4.1.1':
+    resolution: {integrity: sha512-Hybu/HGhv6T8nLQhiG9rKx+ekF7NNpPOEQAy7JRSKht3s3dcFSsPccYzk24Znc9MTxrR6Gak3cg6CPP5dyvS2Q==}
 
   '@iconify/types@2.0.0':
     resolution: {integrity: sha512-+wluvCrRhXrhyOmRDJ3q8mux9JkKy5SJ/v8ol2tu4FVjyYvtEzkc/3pK15ET6RKg4b4w4BmTk1+gsCUhf21Ykg==}
 
-  '@iconify/utils@2.1.33':
-    resolution: {integrity: sha512-jP9h6v/g0BIZx0p7XGJJVtkVnydtbgTgt9mVNcGDYwaa7UhdHdI9dvoq+gKj9sijMSJKxUPEG2JyjsgXjxL7Kw==}
+  '@iconify/utils@2.2.1':
+    resolution: {integrity: sha512-0/7J7hk4PqXmxo5PDBDxmnecw5PxklZJfNjIVG9FM0mEfVrvfudS22rYWsqVk6gR3UJ/mSYS90X4R3znXnqfNA==}
 
   '@img/sharp-darwin-arm64@0.33.5':
     resolution: {integrity: sha512-UT4p+iz/2H4twwAoLCqfA9UH5pI6DggwKEGuaPy7nCVQ8ZsiY5PIcrRvD1DzuY3qYL07NtIQcWnBSY/heikIFQ==}
@@ -3771,8 +3771,8 @@ packages:
     resolution: {integrity: sha512-RE3mdQ7P3FRSe7eqCWoeQ/Z9QXrtniSjp1wUjt5nRC3WIpz5rSCve6o3fsZ2aCpJtrZjSZgjwXAoTO5k4tEI0w==}
     engines: {node: '>=4'}
 
-  axios@1.7.7:
-    resolution: {integrity: sha512-S4kL7XrjgBmvdGut0sN3yJxqYzrDOnivkBiN0OFs6hLiUam3UPvswUo0kqGyhqUZGEOytHyumEdXsAkgCOUf3Q==}
+  axios@1.7.9:
+    resolution: {integrity: sha512-LhLcE7Hbiryz8oMDdDptSrWowmB4Bl6RCt6sIJKpRB4XtVf0iEgewX3au/pJqm+Py1kCASkb/FFKjxQaLtxJvw==}
 
   axobject-query@4.1.0:
     resolution: {integrity: sha512-qIj0G9wZbMGNLjLmg1PT6v2mE9AH2zlnADJD/2tC6E00hgmhUOfEB6greHPAfLRSufHqROIUTkw6E+M3lH0PTQ==}
@@ -4132,6 +4132,15 @@ packages:
 
   debug@4.3.7:
     resolution: {integrity: sha512-Er2nc/H7RrMXZBFCEim6TCmMk02Z8vLC2Rbi1KEBggpo0fS6l0S1nnapwmIi3yW/+GOJap1Krg4w0Hg80oCqgQ==}
+    engines: {node: '>=6.0'}
+    peerDependencies:
+      supports-color: '*'
+    peerDependenciesMeta:
+      supports-color:
+        optional: true
+
+  debug@4.4.0:
+    resolution: {integrity: sha512-6WTZ/IxCY/T6BALoZHaE4ctp9xm+Z5kY/pzYaCHRFeyVhojxlrm+46y68HA6hr0TcwEssoxNiDEUJQjfPZ/RYA==}
     engines: {node: '>=6.0'}
     peerDependencies:
       supports-color: '*'
@@ -4806,6 +4815,10 @@ packages:
 
   globals@15.12.0:
     resolution: {integrity: sha512-1+gLErljJFhbOVyaetcwJiJ4+eLe45S2E7P5UiZ9xGfeq3ATQf5DOv9G7MH3gGbKQLkzmNh2DxfZwLdw+j6oTQ==}
+    engines: {node: '>=18'}
+
+  globals@15.14.0:
+    resolution: {integrity: sha512-OkToC372DtlQeje9/zHIo5CT8lRP/FUgEOKBEhU4e0abL7J7CD24fD9ohiLN5hagG/kWCYj4K5oaxxtj2Z0Dig==}
     engines: {node: '>=18'}
 
   globalthis@1.0.4:
@@ -6937,8 +6950,8 @@ packages:
   typescript-auto-import-cache@0.3.5:
     resolution: {integrity: sha512-fAIveQKsoYj55CozUiBoj4b/7WpN0i4o74wiGY5JVUEoD0XiqDk1tJqTEjgzL2/AizKQrXxyRosSebyDzBZKjw==}
 
-  typescript@5.6.3:
-    resolution: {integrity: sha512-hjcS1mhfuyi4WW8IWtjP7brDrG2cuDZukyrYrSauoXGNgx0S7zceP07adYkJycEr56BOUTNPzbInooiN3fn1qw==}
+  typescript@5.7.3:
+    resolution: {integrity: sha512-84MVSjMEHP+FQRPy3pX9sTVV/INIex71s9TL2Gm5FG/WG1SqXeKyZ0k7/blY/4FdOzI12CBy1vGc4og/eus0fw==}
     engines: {node: '>=14.17'}
     hasBin: true
 
@@ -7486,12 +7499,12 @@ snapshots:
       jsonpointer: 5.0.1
       leven: 3.1.0
 
-  '@astrojs/check@0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.6.3)':
+  '@astrojs/check@0.9.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.7.3)':
     dependencies:
-      '@astrojs/language-server': 2.15.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.6.3)
+      '@astrojs/language-server': 2.15.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.7.3)
       chokidar: 4.0.1
       kleur: 4.1.5
-      typescript: 5.6.3
+      typescript: 5.7.3
       yargs: 17.7.2
     transitivePeerDependencies:
       - prettier
@@ -7501,12 +7514,12 @@ snapshots:
 
   '@astrojs/internal-helpers@0.4.1': {}
 
-  '@astrojs/language-server@2.15.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.6.3)':
+  '@astrojs/language-server@2.15.4(prettier-plugin-astro@0.14.1)(prettier@3.4.2)(typescript@5.7.3)':
     dependencies:
       '@astrojs/compiler': 2.10.3
       '@astrojs/yaml2ts': 0.2.2
       '@jridgewell/sourcemap-codec': 1.5.0
-      '@volar/kit': 2.4.10(typescript@5.6.3)
+      '@volar/kit': 2.4.10(typescript@5.7.3)
       '@volar/language-core': 2.4.10
       '@volar/language-server': 2.4.10
       '@volar/language-service': 2.4.10
@@ -7527,13 +7540,13 @@ snapshots:
     transitivePeerDependencies:
       - typescript
 
-  '@astrojs/markdoc@0.11.5(@types/react@18.3.12)(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(react@18.3.1)':
+  '@astrojs/markdoc@0.11.5(@types/react@18.3.12)(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(react@18.3.1)':
     dependencies:
       '@astrojs/internal-helpers': 0.4.1
       '@astrojs/markdown-remark': 5.3.0
       '@astrojs/prism': 3.1.0
       '@markdoc/markdoc': 0.4.0(@types/react@18.3.12)(react@18.3.1)
-      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       esbuild: 0.21.5
       github-slugger: 2.0.0
       gray-matter: 4.0.3
@@ -7566,9 +7579,9 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@astrojs/node@8.3.4(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))':
+  '@astrojs/node@8.3.4(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))':
     dependencies:
-      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       send: 0.19.1
       server-destroy: 1.0.1
     transitivePeerDependencies:
@@ -7598,9 +7611,9 @@ snapshots:
       - supports-color
       - terser
 
-  '@astrojs/tailwind@5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.6.3))(tailwindcss@3.4.15)':
+  '@astrojs/tailwind@5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.7.3))(tailwindcss@3.4.15)':
     dependencies:
-      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.6.3)
+      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.7.3)
       autoprefixer: 10.4.20(postcss@8.4.49)
       postcss: 8.4.49
       postcss-load-config: 4.0.2(postcss@8.4.49)
@@ -7608,9 +7621,9 @@ snapshots:
     transitivePeerDependencies:
       - ts-node
 
-  '@astrojs/tailwind@5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(tailwindcss@3.4.15)':
+  '@astrojs/tailwind@5.1.2(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(tailwindcss@3.4.15)':
     dependencies:
-      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       autoprefixer: 10.4.20(postcss@8.4.49)
       postcss: 8.4.49
       postcss-load-config: 4.0.2(postcss@8.4.49)
@@ -7644,15 +7657,15 @@ snapshots:
     dependencies:
       yaml: 2.6.1
 
-  '@astrolicious/i18n@0.5.1(@types/node@22.9.1)(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(i18next@24.0.0(typescript@5.6.3))(lightningcss@1.27.0)(terser@5.36.0)':
+  '@astrolicious/i18n@0.5.1(@types/node@22.9.1)(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(i18next@24.0.0(typescript@5.7.3))(lightningcss@1.27.0)(terser@5.36.0)':
     dependencies:
-      '@inox-tools/aik-route-config': 0.7.4(@types/node@22.9.1)(astro-integration-kit@0.16.1(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)))(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(lightningcss@1.27.0)(terser@5.36.0)
-      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
-      astro-integration-kit: 0.16.1(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
-      astro-pages: 0.3.0(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
-      i18next: 24.0.0(typescript@5.6.3)
+      '@inox-tools/aik-route-config': 0.7.4(@types/node@22.9.1)(astro-integration-kit@0.16.1(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)))(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(lightningcss@1.27.0)(terser@5.36.0)
+      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
+      astro-integration-kit: 0.16.1(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))
+      astro-pages: 0.3.0(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))
+      i18next: 24.0.0(typescript@5.7.3)
       sitemap: 7.1.2
-      typescript: 5.6.3
+      typescript: 5.7.3
       ufo: 1.5.4
       vite: 5.4.11(@types/node@22.9.1)(lightningcss@1.27.0)(terser@5.36.0)
     transitivePeerDependencies:
@@ -7748,7 +7761,7 @@ snapshots:
       '@babel/core': 7.26.0
       '@babel/helper-compilation-targets': 7.25.9
       '@babel/helper-plugin-utils': 7.25.9
-      debug: 4.3.7
+      debug: 4.4.0
       lodash.debounce: 4.0.8
       resolve: 1.22.8
     transitivePeerDependencies:
@@ -8606,12 +8619,12 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@iconify/tools@4.0.7':
+  '@iconify/tools@4.1.1':
     dependencies:
       '@iconify/types': 2.0.0
-      '@iconify/utils': 2.1.33
+      '@iconify/utils': 2.2.1
       '@types/tar': 6.1.13
-      axios: 1.7.7
+      axios: 1.7.9
       cheerio: 1.0.0
       domhandler: 5.0.3
       extract-zip: 2.0.1
@@ -8625,12 +8638,13 @@ snapshots:
 
   '@iconify/types@2.0.0': {}
 
-  '@iconify/utils@2.1.33':
+  '@iconify/utils@2.2.1':
     dependencies:
       '@antfu/install-pkg': 0.4.1
       '@antfu/utils': 0.7.10
       '@iconify/types': 2.0.0
-      debug: 4.3.7
+      debug: 4.4.0
+      globals: 15.14.0
       kolorist: 1.8.0
       local-pkg: 0.5.1
       mlly: 1.7.3
@@ -8712,11 +8726,11 @@ snapshots:
   '@img/sharp-win32-x64@0.33.5':
     optional: true
 
-  '@inox-tools/aik-route-config@0.7.4(@types/node@22.9.1)(astro-integration-kit@0.16.1(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)))(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(lightningcss@1.27.0)(terser@5.36.0)':
+  '@inox-tools/aik-route-config@0.7.4(@types/node@22.9.1)(astro-integration-kit@0.16.1(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)))(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(lightningcss@1.27.0)(terser@5.36.0)':
     dependencies:
       '@inox-tools/utils': 0.2.0
-      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
-      astro-integration-kit: 0.16.1(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))
+      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
+      astro-integration-kit: 0.16.1(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))
       debug: 4.3.7
       recast: 0.23.9
       vite: 5.4.11(@types/node@22.9.1)(lightningcss@1.27.0)(terser@5.36.0)
@@ -9127,12 +9141,12 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@keystatic/astro@5.0.3(@keystatic/core@0.5.41(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
+  '@keystatic/astro@5.0.3(@keystatic/core@0.5.41(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
     dependencies:
       '@babel/runtime': 7.26.0
       '@keystatic/core': 0.5.41(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@types/react': 18.3.12
-      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
       set-cookie-parser: 2.7.1
@@ -9241,12 +9255,12 @@ snapshots:
 
   '@pkgr/core@0.1.1': {}
 
-  '@playform/compress@0.1.6(@types/node@22.9.1)(rollup@2.79.2)(typescript@5.6.3)':
+  '@playform/compress@0.1.6(@types/node@22.9.1)(rollup@2.79.2)(typescript@5.7.3)':
     dependencies:
       '@playform/pipe': 0.1.1
       '@types/csso': 5.0.4
       '@types/html-minifier-terser': 7.0.2
-      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.6.3)
+      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.7.3)
       commander: 12.1.0
       csso: 5.0.5
       deepmerge-ts: 7.1.3
@@ -9268,12 +9282,12 @@ snapshots:
       - supports-color
       - typescript
 
-  '@playform/compress@0.1.6(@types/node@22.9.1)(rollup@4.27.3)(typescript@5.6.3)':
+  '@playform/compress@0.1.6(@types/node@22.9.1)(rollup@4.27.3)(typescript@5.7.3)':
     dependencies:
       '@playform/pipe': 0.1.1
       '@types/csso': 5.0.4
       '@types/html-minifier-terser': 7.0.2
-      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       commander: 12.1.0
       csso: 5.0.5
       deepmerge-ts: 7.1.3
@@ -9295,10 +9309,10 @@ snapshots:
       - supports-color
       - typescript
 
-  '@playform/inline@0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.6.3)':
+  '@playform/inline@0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.7.3)':
     dependencies:
       '@playform/pipe': 0.1.0
-      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.6.3)
+      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.7.3)
       critters: 0.0.24
     transitivePeerDependencies:
       - '@types/node'
@@ -9313,10 +9327,10 @@ snapshots:
       - terser
       - typescript
 
-  '@playform/inline@0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)':
+  '@playform/inline@0.1.0(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)':
     dependencies:
       '@playform/pipe': 0.1.0
-      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       critters: 0.0.24
     transitivePeerDependencies:
       - '@types/node'
@@ -10554,13 +10568,13 @@ snapshots:
       '@types/node': 22.9.1
     optional: true
 
-  '@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3)':
+  '@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3)':
     dependencies:
       '@eslint-community/regexpp': 4.12.1
-      '@typescript-eslint/parser': 7.0.0(eslint@8.57.0)(typescript@5.6.3)
+      '@typescript-eslint/parser': 7.0.0(eslint@8.57.0)(typescript@5.7.3)
       '@typescript-eslint/scope-manager': 7.0.1
-      '@typescript-eslint/type-utils': 7.0.1(eslint@8.57.0)(typescript@5.6.3)
-      '@typescript-eslint/utils': 7.0.1(eslint@8.57.0)(typescript@5.6.3)
+      '@typescript-eslint/type-utils': 7.0.1(eslint@8.57.0)(typescript@5.7.3)
+      '@typescript-eslint/utils': 7.0.1(eslint@8.57.0)(typescript@5.7.3)
       '@typescript-eslint/visitor-keys': 7.0.1
       debug: 4.3.7
       eslint: 8.57.0
@@ -10568,35 +10582,35 @@ snapshots:
       ignore: 5.3.2
       natural-compare: 1.4.0
       semver: 7.6.3
-      ts-api-utils: 1.4.0(typescript@5.6.3)
+      ts-api-utils: 1.4.0(typescript@5.7.3)
     optionalDependencies:
-      typescript: 5.6.3
+      typescript: 5.7.3
     transitivePeerDependencies:
       - supports-color
 
-  '@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3)':
+  '@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3)':
     dependencies:
       '@typescript-eslint/scope-manager': 7.0.0
       '@typescript-eslint/types': 7.0.0
-      '@typescript-eslint/typescript-estree': 7.0.0(typescript@5.6.3)
+      '@typescript-eslint/typescript-estree': 7.0.0(typescript@5.7.3)
       '@typescript-eslint/visitor-keys': 7.0.0
       debug: 4.3.7
       eslint: 8.57.0
     optionalDependencies:
-      typescript: 5.6.3
+      typescript: 5.7.3
     transitivePeerDependencies:
       - supports-color
 
-  '@typescript-eslint/parser@7.18.0(eslint@8.57.0)(typescript@5.6.3)':
+  '@typescript-eslint/parser@7.18.0(eslint@8.57.0)(typescript@5.7.3)':
     dependencies:
       '@typescript-eslint/scope-manager': 7.18.0
       '@typescript-eslint/types': 7.18.0
-      '@typescript-eslint/typescript-estree': 7.18.0(typescript@5.6.3)
+      '@typescript-eslint/typescript-estree': 7.18.0(typescript@5.7.3)
       '@typescript-eslint/visitor-keys': 7.18.0
       debug: 4.3.7
       eslint: 8.57.0
     optionalDependencies:
-      typescript: 5.6.3
+      typescript: 5.7.3
     transitivePeerDependencies:
       - supports-color
 
@@ -10620,15 +10634,15 @@ snapshots:
       '@typescript-eslint/types': 8.15.0
       '@typescript-eslint/visitor-keys': 8.15.0
 
-  '@typescript-eslint/type-utils@7.0.1(eslint@8.57.0)(typescript@5.6.3)':
+  '@typescript-eslint/type-utils@7.0.1(eslint@8.57.0)(typescript@5.7.3)':
     dependencies:
-      '@typescript-eslint/typescript-estree': 7.0.1(typescript@5.6.3)
-      '@typescript-eslint/utils': 7.0.1(eslint@8.57.0)(typescript@5.6.3)
+      '@typescript-eslint/typescript-estree': 7.0.1(typescript@5.7.3)
+      '@typescript-eslint/utils': 7.0.1(eslint@8.57.0)(typescript@5.7.3)
       debug: 4.3.7
       eslint: 8.57.0
-      ts-api-utils: 1.4.0(typescript@5.6.3)
+      ts-api-utils: 1.4.0(typescript@5.7.3)
     optionalDependencies:
-      typescript: 5.6.3
+      typescript: 5.7.3
     transitivePeerDependencies:
       - supports-color
 
@@ -10640,7 +10654,7 @@ snapshots:
 
   '@typescript-eslint/types@8.15.0': {}
 
-  '@typescript-eslint/typescript-estree@7.0.0(typescript@5.6.3)':
+  '@typescript-eslint/typescript-estree@7.0.0(typescript@5.7.3)':
     dependencies:
       '@typescript-eslint/types': 7.0.0
       '@typescript-eslint/visitor-keys': 7.0.0
@@ -10649,13 +10663,13 @@ snapshots:
       is-glob: 4.0.3
       minimatch: 9.0.3
       semver: 7.6.3
-      ts-api-utils: 1.4.0(typescript@5.6.3)
+      ts-api-utils: 1.4.0(typescript@5.7.3)
     optionalDependencies:
-      typescript: 5.6.3
+      typescript: 5.7.3
     transitivePeerDependencies:
       - supports-color
 
-  '@typescript-eslint/typescript-estree@7.0.1(typescript@5.6.3)':
+  '@typescript-eslint/typescript-estree@7.0.1(typescript@5.7.3)':
     dependencies:
       '@typescript-eslint/types': 7.0.1
       '@typescript-eslint/visitor-keys': 7.0.1
@@ -10664,13 +10678,13 @@ snapshots:
       is-glob: 4.0.3
       minimatch: 9.0.3
       semver: 7.6.3
-      ts-api-utils: 1.4.0(typescript@5.6.3)
+      ts-api-utils: 1.4.0(typescript@5.7.3)
     optionalDependencies:
-      typescript: 5.6.3
+      typescript: 5.7.3
     transitivePeerDependencies:
       - supports-color
 
-  '@typescript-eslint/typescript-estree@7.18.0(typescript@5.6.3)':
+  '@typescript-eslint/typescript-estree@7.18.0(typescript@5.7.3)':
     dependencies:
       '@typescript-eslint/types': 7.18.0
       '@typescript-eslint/visitor-keys': 7.18.0
@@ -10679,13 +10693,13 @@ snapshots:
       is-glob: 4.0.3
       minimatch: 9.0.5
       semver: 7.6.3
-      ts-api-utils: 1.4.0(typescript@5.6.3)
+      ts-api-utils: 1.4.0(typescript@5.7.3)
     optionalDependencies:
-      typescript: 5.6.3
+      typescript: 5.7.3
     transitivePeerDependencies:
       - supports-color
 
-  '@typescript-eslint/typescript-estree@8.15.0(typescript@5.6.3)':
+  '@typescript-eslint/typescript-estree@8.15.0(typescript@5.7.3)':
     dependencies:
       '@typescript-eslint/types': 8.15.0
       '@typescript-eslint/visitor-keys': 8.15.0
@@ -10694,20 +10708,20 @@ snapshots:
       is-glob: 4.0.3
       minimatch: 9.0.5
       semver: 7.6.3
-      ts-api-utils: 1.4.0(typescript@5.6.3)
+      ts-api-utils: 1.4.0(typescript@5.7.3)
     optionalDependencies:
-      typescript: 5.6.3
+      typescript: 5.7.3
     transitivePeerDependencies:
       - supports-color
 
-  '@typescript-eslint/utils@7.0.1(eslint@8.57.0)(typescript@5.6.3)':
+  '@typescript-eslint/utils@7.0.1(eslint@8.57.0)(typescript@5.7.3)':
     dependencies:
       '@eslint-community/eslint-utils': 4.4.1(eslint@8.57.0)
       '@types/json-schema': 7.0.15
       '@types/semver': 7.5.8
       '@typescript-eslint/scope-manager': 7.0.1
       '@typescript-eslint/types': 7.0.1
-      '@typescript-eslint/typescript-estree': 7.0.1(typescript@5.6.3)
+      '@typescript-eslint/typescript-estree': 7.0.1(typescript@5.7.3)
       eslint: 8.57.0
       semver: 7.6.3
     transitivePeerDependencies:
@@ -10761,14 +10775,14 @@ snapshots:
       '@urql/core': 5.0.8(graphql@16.9.0)
       wonka: 6.3.4
 
-  '@vite-pwa/astro@0.4.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.6.3))(vite-plugin-pwa@0.21.0(vite@5.4.11(@types/node@22.9.1)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.3.0(@types/babel__core@7.20.5))(workbox-window@7.3.0))':
+  '@vite-pwa/astro@0.4.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.7.3))(vite-plugin-pwa@0.21.0(vite@5.4.11(@types/node@22.9.1)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.3.0(@types/babel__core@7.20.5))(workbox-window@7.3.0))':
     dependencies:
-      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.6.3)
+      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.7.3)
       vite-plugin-pwa: 0.21.0(vite@5.4.11(@types/node@22.9.1)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.3.0(@types/babel__core@7.20.5))(workbox-window@7.3.0)
 
-  '@vite-pwa/astro@0.4.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(vite-plugin-pwa@0.21.0(vite@5.4.11(@types/node@22.9.1)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.3.0(@types/babel__core@7.20.5))(workbox-window@7.3.0))':
+  '@vite-pwa/astro@0.4.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(vite-plugin-pwa@0.21.0(vite@5.4.11(@types/node@22.9.1)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.3.0(@types/babel__core@7.20.5))(workbox-window@7.3.0))':
     dependencies:
-      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       vite-plugin-pwa: 0.21.0(vite@5.4.11(@types/node@22.9.1)(lightningcss@1.27.0)(terser@5.36.0))(workbox-build@7.3.0(@types/babel__core@7.20.5))(workbox-window@7.3.0)
 
   '@vitejs/plugin-react@4.3.3(vite@5.4.11(@types/node@22.9.1)(lightningcss@1.27.0)(terser@5.36.0))':
@@ -10782,12 +10796,12 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@volar/kit@2.4.10(typescript@5.6.3)':
+  '@volar/kit@2.4.10(typescript@5.7.3)':
     dependencies:
       '@volar/language-service': 2.4.10
       '@volar/typescript': 2.4.10
       typesafe-path: 0.2.2
-      typescript: 5.6.3
+      typescript: 5.7.3
       vscode-languageserver-textdocument: 1.0.12
       vscode-uri: 3.0.8
 
@@ -10970,12 +10984,12 @@ snapshots:
 
   astro-compressor@0.4.1: {}
 
-  astro-eslint-parser@1.1.0(typescript@5.6.3):
+  astro-eslint-parser@1.1.0(typescript@5.7.3):
     dependencies:
       '@astrojs/compiler': 2.10.3
       '@typescript-eslint/scope-manager': 8.15.0
       '@typescript-eslint/types': 8.15.0
-      '@typescript-eslint/typescript-estree': 8.15.0(typescript@5.6.3)
+      '@typescript-eslint/typescript-estree': 8.15.0(typescript@5.7.3)
       astrojs-compiler-sync: 1.0.1(@astrojs/compiler@2.10.3)
       debug: 4.3.7
       entities: 4.5.0
@@ -10991,7 +11005,7 @@ snapshots:
 
   astro-iconify@1.2.0:
     dependencies:
-      '@iconify/tools': 4.0.7
+      '@iconify/tools': 4.1.1
       node-fetch: 3.3.2
       resolve-pkg: 2.0.0
       svgo: 3.3.2
@@ -10999,10 +11013,10 @@ snapshots:
       - debug
       - supports-color
 
-  astro-imagetools@0.9.0(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)):
+  astro-imagetools@0.9.0(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)):
     dependencies:
       '@astropub/codecs': 0.4.4
-      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       file-type: 17.1.1
       find-cache-dir: 3.3.2
       find-up: 6.3.0
@@ -11013,26 +11027,26 @@ snapshots:
     transitivePeerDependencies:
       - debug
 
-  astro-integration-kit@0.16.1(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)):
+  astro-integration-kit@0.16.1(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)):
     dependencies:
-      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       pathe: 1.1.2
       recast: 0.23.9
 
-  astro-pages@0.3.0(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)):
+  astro-pages@0.3.0(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)):
     dependencies:
-      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       fast-glob: 3.3.2
 
-  astro-seo-schema@4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3)):
+  astro-seo-schema@4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.7.3))(schema-dts@1.1.2(typescript@5.7.3)):
     dependencies:
-      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.6.3)
-      schema-dts: 1.1.2(typescript@5.6.3)
+      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.7.3)
+      schema-dts: 1.1.2(typescript@5.7.3)
 
-  astro-seo-schema@4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3))(schema-dts@1.1.2(typescript@5.6.3)):
+  astro-seo-schema@4.0.3(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3))(schema-dts@1.1.2(typescript@5.7.3)):
     dependencies:
-      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
-      schema-dts: 1.1.2(typescript@5.6.3)
+      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
+      schema-dts: 1.1.2(typescript@5.7.3)
 
   astro-sitemap@1.0.0:
     dependencies:
@@ -11040,17 +11054,17 @@ snapshots:
       sitemap: 7.1.2
       zod: 3.23.8
 
-  astro-tunnel@0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.6.3)):
+  astro-tunnel@0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.7.3)):
     dependencies:
-      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.6.3)
+      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.7.3)
       untun: 0.1.3
 
-  astro-tunnel@0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)):
+  astro-tunnel@0.1.6(astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)):
     dependencies:
-      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3)
+      astro: 4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3)
       untun: 0.1.3
 
-  astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.6.3):
+  astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@2.79.2)(terser@5.36.0)(typescript@5.7.3):
     dependencies:
       '@astrojs/compiler': 2.10.3
       '@astrojs/internal-helpers': 0.4.1
@@ -11103,7 +11117,7 @@ snapshots:
       semver: 7.6.3
       shiki: 1.23.1
       tinyexec: 0.3.1
-      tsconfck: 3.1.4(typescript@5.6.3)
+      tsconfck: 3.1.4(typescript@5.7.3)
       unist-util-visit: 5.0.0
       vfile: 6.0.3
       vite: 5.4.11(@types/node@22.9.1)(lightningcss@1.27.0)(terser@5.36.0)
@@ -11113,7 +11127,7 @@ snapshots:
       yargs-parser: 21.1.1
       zod: 3.23.8
       zod-to-json-schema: 3.23.5(zod@3.23.8)
-      zod-to-ts: 1.2.0(typescript@5.6.3)(zod@3.23.8)
+      zod-to-ts: 1.2.0(typescript@5.7.3)(zod@3.23.8)
     optionalDependencies:
       sharp: 0.33.5
     transitivePeerDependencies:
@@ -11129,7 +11143,7 @@ snapshots:
       - terser
       - typescript
 
-  astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.6.3):
+  astro@4.16.14(@types/node@22.9.1)(lightningcss@1.27.0)(rollup@4.27.3)(terser@5.36.0)(typescript@5.7.3):
     dependencies:
       '@astrojs/compiler': 2.10.3
       '@astrojs/internal-helpers': 0.4.1
@@ -11182,7 +11196,7 @@ snapshots:
       semver: 7.6.3
       shiki: 1.23.1
       tinyexec: 0.3.1
-      tsconfck: 3.1.4(typescript@5.6.3)
+      tsconfck: 3.1.4(typescript@5.7.3)
       unist-util-visit: 5.0.0
       vfile: 6.0.3
       vite: 5.4.11(@types/node@22.9.1)(lightningcss@1.27.0)(terser@5.36.0)
@@ -11192,7 +11206,7 @@ snapshots:
       yargs-parser: 21.1.1
       zod: 3.23.8
       zod-to-json-schema: 3.23.5(zod@3.23.8)
-      zod-to-ts: 1.2.0(typescript@5.6.3)(zod@3.23.8)
+      zod-to-ts: 1.2.0(typescript@5.7.3)(zod@3.23.8)
     optionalDependencies:
       sharp: 0.33.5
     transitivePeerDependencies:
@@ -11235,7 +11249,7 @@ snapshots:
 
   axe-core@4.10.2: {}
 
-  axios@1.7.7:
+  axios@1.7.9:
     dependencies:
       follow-redirects: 1.15.9
       form-data: 4.0.1
@@ -11613,6 +11627,10 @@ snapshots:
     dependencies:
       ms: 2.1.3
 
+  debug@4.4.0:
+    dependencies:
+      ms: 2.1.3
+
   decode-named-character-reference@1.0.2:
     dependencies:
       character-entities: 2.0.2
@@ -11899,15 +11917,15 @@ snapshots:
       eslint: 8.57.0
       semver: 7.6.3
 
-  eslint-config-love@47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.6.3):
+  eslint-config-love@47.0.0(@typescript-eslint/eslint-plugin@7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3))(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0)(typescript@5.7.3):
     dependencies:
-      '@typescript-eslint/eslint-plugin': 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)(typescript@5.6.3)
-      '@typescript-eslint/parser': 7.18.0(eslint@8.57.0)(typescript@5.6.3)
+      '@typescript-eslint/eslint-plugin': 7.0.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)(typescript@5.7.3)
+      '@typescript-eslint/parser': 7.18.0(eslint@8.57.0)(typescript@5.7.3)
       eslint: 8.57.0
-      eslint-plugin-import: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)
+      eslint-plugin-import: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)
       eslint-plugin-n: 16.6.2(eslint@8.57.0)
       eslint-plugin-promise: 6.1.1(eslint@8.57.0)
-      typescript: 5.6.3
+      typescript: 5.7.3
     transitivePeerDependencies:
       - supports-color
 
@@ -11915,10 +11933,10 @@ snapshots:
     dependencies:
       eslint: 8.57.0
 
-  eslint-config-standard@17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0):
+  eslint-config-standard@17.1.0(eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0))(eslint-plugin-n@16.6.2(eslint@8.57.0))(eslint-plugin-promise@6.1.1(eslint@8.57.0))(eslint@8.57.0):
     dependencies:
       eslint: 8.57.0
-      eslint-plugin-import: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0)
+      eslint-plugin-import: 2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0)
       eslint-plugin-n: 16.6.2(eslint@8.57.0)
       eslint-plugin-promise: 6.1.1(eslint@8.57.0)
 
@@ -11930,22 +11948,22 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  eslint-module-utils@2.12.0(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint-import-resolver-node@0.3.9)(eslint@8.57.0):
+  eslint-module-utils@2.12.0(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint-import-resolver-node@0.3.9)(eslint@8.57.0):
     dependencies:
       debug: 3.2.7
     optionalDependencies:
-      '@typescript-eslint/parser': 7.0.0(eslint@8.57.0)(typescript@5.6.3)
+      '@typescript-eslint/parser': 7.0.0(eslint@8.57.0)(typescript@5.7.3)
       eslint: 8.57.0
       eslint-import-resolver-node: 0.3.9
     transitivePeerDependencies:
       - supports-color
 
-  eslint-plugin-astro@1.3.1(eslint@8.57.0)(typescript@5.6.3):
+  eslint-plugin-astro@1.3.1(eslint@8.57.0)(typescript@5.7.3):
     dependencies:
       '@eslint-community/eslint-utils': 4.4.1(eslint@8.57.0)
       '@jridgewell/sourcemap-codec': 1.5.0
       '@typescript-eslint/types': 8.15.0
-      astro-eslint-parser: 1.1.0(typescript@5.6.3)
+      astro-eslint-parser: 1.1.0(typescript@5.7.3)
       eslint: 8.57.0
       eslint-compat-utils: 0.6.3(eslint@8.57.0)
       globals: 15.12.0
@@ -11962,7 +11980,7 @@ snapshots:
       eslint: 8.57.0
       eslint-compat-utils: 0.5.1(eslint@8.57.0)
 
-  eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint@8.57.0):
+  eslint-plugin-import@2.29.1(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint@8.57.0):
     dependencies:
       array-includes: 3.1.8
       array.prototype.findlastindex: 1.2.5
@@ -11972,7 +11990,7 @@ snapshots:
       doctrine: 2.1.0
       eslint: 8.57.0
       eslint-import-resolver-node: 0.3.9
-      eslint-module-utils: 2.12.0(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.6.3))(eslint-import-resolver-node@0.3.9)(eslint@8.57.0)
+      eslint-module-utils: 2.12.0(@typescript-eslint/parser@7.0.0(eslint@8.57.0)(typescript@5.7.3))(eslint-import-resolver-node@0.3.9)(eslint@8.57.0)
       hasown: 2.0.2
       is-core-module: 2.15.1
       is-glob: 4.0.3
@@ -11983,7 +12001,7 @@ snapshots:
       semver: 6.3.1
       tsconfig-paths: 3.15.0
     optionalDependencies:
-      '@typescript-eslint/parser': 7.0.0(eslint@8.57.0)(typescript@5.6.3)
+      '@typescript-eslint/parser': 7.0.0(eslint@8.57.0)(typescript@5.7.3)
     transitivePeerDependencies:
       - eslint-import-resolver-typescript
       - eslint-import-resolver-webpack
@@ -12182,7 +12200,7 @@ snapshots:
 
   extract-zip@2.0.1:
     dependencies:
-      debug: 4.3.7
+      debug: 4.4.0
       get-stream: 5.2.0
       yauzl: 2.10.0
     optionalDependencies:
@@ -12421,6 +12439,8 @@ snapshots:
 
   globals@15.12.0: {}
 
+  globals@15.14.0: {}
+
   globalthis@1.0.4:
     dependencies:
       define-properties: 1.2.1
@@ -12606,11 +12626,11 @@ snapshots:
 
   husky@9.1.7: {}
 
-  i18next@24.0.0(typescript@5.6.3):
+  i18next@24.0.0(typescript@5.7.3):
     dependencies:
       '@babel/runtime': 7.26.0
     optionalDependencies:
-      typescript: 5.6.3
+      typescript: 5.7.3
 
   iconv-lite@0.6.3:
     dependencies:
@@ -14453,9 +14473,9 @@ snapshots:
     dependencies:
       loose-envify: 1.4.0
 
-  schema-dts@1.1.2(typescript@5.6.3):
+  schema-dts@1.1.2(typescript@5.7.3):
     dependencies:
-      typescript: 5.6.3
+      typescript: 5.7.3
 
   scroll-into-view-if-needed@2.2.31:
     dependencies:
@@ -14930,15 +14950,15 @@ snapshots:
 
   trough@2.2.0: {}
 
-  ts-api-utils@1.4.0(typescript@5.6.3):
+  ts-api-utils@1.4.0(typescript@5.7.3):
     dependencies:
-      typescript: 5.6.3
+      typescript: 5.7.3
 
   ts-interface-checker@0.1.13: {}
 
-  tsconfck@3.1.4(typescript@5.6.3):
+  tsconfck@3.1.4(typescript@5.7.3):
     optionalDependencies:
-      typescript: 5.6.3
+      typescript: 5.7.3
 
   tsconfig-paths@3.15.0:
     dependencies:
@@ -15003,7 +15023,7 @@ snapshots:
     dependencies:
       semver: 7.6.3
 
-  typescript@5.6.3: {}
+  typescript@5.7.3: {}
 
   ufo@1.5.4: {}
 
@@ -15585,9 +15605,9 @@ snapshots:
     dependencies:
       zod: 3.23.8
 
-  zod-to-ts@1.2.0(typescript@5.6.3)(zod@3.23.8):
+  zod-to-ts@1.2.0(typescript@5.7.3)(zod@3.23.8):
     dependencies:
-      typescript: 5.6.3
+      typescript: 5.7.3
       zod: 3.23.8
 
   zod@3.23.8: {}
