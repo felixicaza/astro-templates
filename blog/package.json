@@ -32,7 +32,7 @@
     "@astrojs/markdoc": "0.11.5",
     "@astrojs/node": "8.3.4",
     "@astrojs/react": "3.6.3",
-    "@astrojs/tailwind": "5.1.2",
+    "@astrojs/tailwind": "6.0.0",
     "@astrojs/ts-plugin": "1.10.4",
     "@keystatic/astro": "5.0.3",
     "@keystatic/core": "0.5.41",
