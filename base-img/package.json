@@ -33,7 +33,7 @@
     "@astrojs/ts-plugin": "1.10.4",
     "@playform/compress": "0.1.6",
     "@playform/inline": "0.1.0",
-    "astro": "4.16.14",
+    "astro": "5.4.2",
     "astro-compressor": "0.4.1",
     "astro-iconify": "1.2.0",
     "astro-imagetools": "0.9.0",
