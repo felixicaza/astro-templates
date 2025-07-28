@@ -1,7 +1,13 @@
 packages:
-   - "base"
-   - "blog"
-   - "i18n"
-   - "pwa"
-   - "react"
-   - "react-pwa"
+  - base
+  - blog
+  - i18n
+  - pwa
+  - react
+  - react-pwa
+
+onlyBuiltDependencies:
+  - esbuild
+  - sharp
+  - simple-git-hooks
+  - unrs-resolver
