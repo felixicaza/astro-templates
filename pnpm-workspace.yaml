@@ -1,11 +1,11 @@
 packages:
-  - base
-  - pwa
-  - react
-  - react-pwa
+   - base
+   - pwa
+   - react
+   - react-pwa
 
 onlyBuiltDependencies:
-  - esbuild
-  - sharp
-  - simple-git-hooks
-  - unrs-resolver
+   - esbuild
+   - sharp
+   - simple-git-hooks
+   - unrs-resolver

@@ -196,7 +196,6 @@ export default defineConfig({
       },
       // Remove trailing slash
       serialize(item) {
-        /* eslint-disable-next-line no-param-reassign */
         item.url = item.url.replace(/\/$/g, '')
         return item
       }

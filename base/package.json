@@ -1,6 +1,7 @@
 {
   "name": "astro-template",
   "version": "0.0.1",
+  "description": "Template with performance and SEO configurations for Astro.",
   "type": "module",
   "scripts": {
     "astro": "astro",

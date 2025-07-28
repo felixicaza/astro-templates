@@ -1,6 +1,7 @@
 {
   "name": "react",
   "version": "0.0.1",
+  "description": "React template with performance and SEO configurations for Astro.",
   "type": "module",
   "scripts": {
     "astro": "astro",
