@@ -1,12 +1,7 @@
 packages:
    - "base"
-   - "base-img"
    - "blog"
    - "i18n"
-   - "i18n-img"
    - "pwa"
-   - "pwa-img"
    - "react"
-   - "react-img"
    - "react-pwa"
-   - "react-pwa-img"
