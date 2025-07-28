@@ -1,7 +1,5 @@
 packages:
   - base
-  - blog
-  - i18n
   - pwa
   - react
   - react-pwa
