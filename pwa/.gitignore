@@ -26,5 +26,5 @@ pnpm-lock.yaml
 # Optional eslint cache
 .eslintcache
 
-# Generated hashes
-src/generated/
+# vite-pwa/astro
+dev-dist

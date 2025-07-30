@@ -21,9 +21,12 @@
   "author": "Felix Icaza <contacto@felixicaza.com>",
   "type": "module",
   "scripts": {
+    "build": "pnpm -r build",
+    "dev": "pnpm -r dev",
     "lint": "eslint --cache .",
     "lint:fix": "eslint --cache --fix .",
-    "prepare": "simple-git-hooks"
+    "prepare": "simple-git-hooks",
+    "preview": "pnpm -r preview"
   },
   "simple-git-hooks": {
     "pre-commit": "pnpm nano-staged"

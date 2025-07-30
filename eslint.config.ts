@@ -11,7 +11,7 @@ import pluginYml from 'eslint-plugin-yml'
 import neostandard, { plugins, resolveIgnoresFromGitignore } from 'neostandard'
 
 export default defineConfig([
-  globalIgnores([...resolveIgnoresFromGitignore(), 'pnpm-lock.yaml']),
+  globalIgnores([...resolveIgnoresFromGitignore(), 'pnpm-lock.yaml', './**/.astro', './**/dev-dist', './**/dist']),
   { languageOptions: { globals: { ...globals.browser, ...globals.node } } },
   pluginJs.configs.recommended,
   neostandard({
