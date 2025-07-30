@@ -19,6 +19,14 @@ export default defineConfig({
     defaultStrategy: 'viewport'
   },
   compressHTML: false,
+  vite: {
+    css: {
+      transformer: 'lightningcss'
+    },
+    build: {
+      cssMinify: 'lightningcss'
+    }
+  },
   integrations: [
     playformInline(),
     sitemap({

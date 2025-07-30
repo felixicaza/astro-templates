@@ -26,6 +26,7 @@
     "astro-iconify": "1.2.0",
     "astro-seo-schema": "5.1.0",
     "astro-sitemap": "1.0.0",
+    "lightningcss": "1.30.1",
     "schema-dts": "1.1.5",
     "typescript": "5.8.3"
   },
