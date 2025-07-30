@@ -22,12 +22,15 @@
     "@playform/compress": "0.2.0",
     "@playform/inline": "0.1.2",
     "astro": "5.12.5",
+    "astro-capo": "0.0.1",
     "astro-compressor": "1.1.0",
     "astro-iconify": "1.2.0",
+    "astro-lqip": "1.2.2",
     "astro-seo-schema": "5.1.0",
     "astro-sitemap": "1.0.0",
     "lightningcss": "1.30.1",
     "schema-dts": "1.1.5",
+    "sharp": "0.34.3",
     "typescript": "5.8.3"
   },
   "devDependencies": {
