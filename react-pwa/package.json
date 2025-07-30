@@ -20,7 +20,6 @@
   "dependencies": {
     "@astrojs/check": "0.9.4",
     "@astrojs/react": "3.6.3",
-    "@astrojs/tailwind": "5.1.2",
     "@playform/compress": "0.1.6",
     "@playform/inline": "0.1.0",
     "@types/react": "18.3.12",
@@ -35,7 +34,6 @@
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "schema-dts": "1.1.2",
-    "tailwindcss": "3.4.15",
     "typescript": "5.6.3",
     "vite-plugin-pwa": "0.21.0",
     "workbox-window": "7.3.0"

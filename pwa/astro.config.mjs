@@ -1,7 +1,6 @@
 import { defineConfig } from 'astro/config'
 
 import tunnel from 'astro-tunnel'
-import tailwind from '@astrojs/tailwind'
 import AstroPWA from '@vite-pwa/astro'
 import playformInline from '@playform/inline'
 import sitemap from 'astro-sitemap'
@@ -24,7 +23,6 @@ export default defineConfig({
   compressHTML: false,
   integrations: [
     tunnel(),
-    tailwind(),
     AstroPWA({
       mode: 'development',
       base: '/',
