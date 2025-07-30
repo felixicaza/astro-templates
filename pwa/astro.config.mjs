@@ -1,6 +1,5 @@
 import { defineConfig } from 'astro/config'
 
-import tunnel from 'astro-tunnel'
 import AstroPWA from '@vite-pwa/astro'
 import playformInline from '@playform/inline'
 import sitemap from 'astro-sitemap'
@@ -22,7 +21,6 @@ export default defineConfig({
   },
   compressHTML: false,
   integrations: [
-    tunnel(),
     AstroPWA({
       mode: 'development',
       base: '/',

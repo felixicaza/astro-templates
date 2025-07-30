@@ -1,6 +1,5 @@
 import { defineConfig } from 'astro/config'
 
-import tunnel from 'astro-tunnel'
 import react from '@astrojs/react'
 import playformInline from '@playform/inline'
 import sitemap from 'astro-sitemap'
@@ -22,7 +21,6 @@ export default defineConfig({
   },
   compressHTML: false,
   integrations: [
-    tunnel(),
     react(),
     playformInline(),
     sitemap({
