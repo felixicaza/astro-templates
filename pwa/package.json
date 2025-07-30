@@ -7,20 +7,15 @@
     "astro": "astro",
     "build": "astro check && astro build",
     "dev": "astro dev",
-    "prepare": "husky",
+    "prepare": "simple-git-hooks",
     "preview": "astro preview",
     "start": "astro dev"
   },
-  "lint-staged": {
-    "./**/*.{js,mjs,cjs}": [
-      "eslint --cache --fix --ext .js,.mjs,.cjs ./"
-    ],
-    "./**/*.ts": [
-      "eslint --cache --fix --ext .ts ./"
-    ],
-    "./src/**/*.astro": [
-      "eslint --cache --fix --ext .astro ./src/"
-    ]
+  "simple-git-hooks": {
+    "pre-commit": "pnpm nano-staged"
+  },
+  "nano-staged": {
+    "*": "pnpm lint:fix"
   },
   "dependencies": {
     "@astrojs/check": "0.9.4",
@@ -50,9 +45,9 @@
     "eslint-plugin-package-json": "0.47.0",
     "eslint-plugin-yml": "1.18.0",
     "globals": "16.3.0",
-    "husky": "9.1.7",
     "jiti": "2.5.1",
-    "lint-staged": "15.2.10",
-    "neostandard": "0.12.2"
+    "nano-staged": "0.8.0",
+    "neostandard": "0.12.2",
+    "simple-git-hooks": "2.13.0"
   }
 }
