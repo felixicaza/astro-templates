@@ -11,11 +11,11 @@ import '@unocss/reset/tailwind.css'
 import '@styles/index.css'
 
 interface Props {
-  layout: Layout
+  options: Layout
 }
 
-const { layout } = Astro.props as Props
-const { title, description, metaRobots } = layout
+const { options } = Astro.props as Props
+const { title, description, metaRobots } = options
 ---
 
 <!doctype html>
