@@ -1,1 +1,3 @@
+@import url('./config/media.css');
+
 @import url('./base/global.css') layer(layout);

@@ -9,6 +9,11 @@ import sitemap from 'astro-sitemap'
 import playformCompress from '@playform/compress'
 import compressor from 'astro-compressor'
 
+import { composeVisitors } from 'lightningcss'
+import globalCustomMedia from '@sardine/lightningcss-plugin-global-custom-queries'
+
+const customMediaSource = './src/styles/config/media.css'
+
 // https://astro.build/config
 export default defineConfig({
   site: URL,
@@ -23,7 +28,13 @@ export default defineConfig({
   compressHTML: false,
   vite: {
     css: {
-      transformer: 'lightningcss'
+      transformer: 'lightningcss',
+      lightningcss: {
+        drafts: {
+          customMedia: true
+        },
+        visitor: composeVisitors([globalCustomMedia({ source: customMediaSource })])
+      }
     },
     build: {
       cssMinify: 'lightningcss'

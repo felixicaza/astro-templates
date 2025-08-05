@@ -21,6 +21,7 @@
     "@astrojs/check": "0.9.4",
     "@playform/compress": "0.2.0",
     "@playform/inline": "0.1.2",
+    "@sardine/lightningcss-plugin-global-custom-queries": "1.0.1",
     "@unocss/reset": "66.4.1",
     "astro": "5.12.8",
     "astro-capo": "0.0.1",
